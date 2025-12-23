@@ -40,7 +40,12 @@ jobs:
           extended: true
 
       - name: Install npm dependencies
-        run: npm install
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       - name: Build
         run: hugo --minify --baseURL "https://blog.pedsgimind.ca/"
