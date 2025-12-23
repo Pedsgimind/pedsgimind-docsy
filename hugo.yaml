@@ -225,3 +225,12 @@ module:
   imports:
     - path: github.com/google/docsy
       disable: false
+mediaTypes:
+  font/woff2:
+    suffixes: ["woff2"]
+  font/woff:
+    suffixes: ["woff"]
+  application/font-woff2:
+    suffixes: ["woff2"]
+  application/font-woff:
+    suffixes: ["woff"]
