@@ -1,16 +1,11 @@
-
 baseURL: "https://blog.pedsgimind.ca/"
-title: "PedsGIMind"
-
-# Make the top navbar NOT auto-add every section
-# (we will control the menu manually)
-sectionPagesMenu: ""
+title: "PedsGIMind Blog"
 
 paginate: 10
 enableRobotsTXT: true
 enableGitInfo: true
 
-# Language settings
+# Language
 contentDir: content/en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -34,17 +29,14 @@ outputs:
   home: [HTML, RSS]
   section: [HTML, RSS]
 
+# Only show what we want in the top navbar
 menu:
   main:
-    - name: Home
-      url: /
-      weight: 1
     - name: Blog
       url: /blog/
-      weight: 2
+      weight: 1
 
 params:
-  # Footer / branding
   privacy_policy: "https://pedsgimind.ca/privacy/"
   url_latest_version: "https://blog.pedsgimind.ca/"
 
@@ -52,25 +44,7 @@ params:
   github_project_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
   github_branch: "main"
 
-  # Disable Google CSE unless you own an engine id
-  gcs_engine_id: ""
-
-  # UI – blog-focused (hide docs-style chrome)
-  ui:
-    breadcrumb_disable: true
-    navbar_logo: true
-    navbar_translucent_over_cover_disable: false
-    sidebar_menu_compact: true
-    sidebar_search_disable: true
-    showLightDarkModeMenu: true
-
-    feedback:
-      enable: false
-
-    readingtime:
-      enable: true
-
-  # Clean footer links
+  # Clean footer links (optional)
   links:
     user:
       - name: Website
@@ -86,6 +60,18 @@ params:
         url: "https://github.com/Pedsgimind/pedsgimind-docsy"
         icon: fab fa-github
         desc: Source repository
+
+  ui:
+    breadcrumb_disable: true
+    navbar_logo: true
+    navbar_translucent_over_cover_disable: true
+    sidebar_menu_compact: true
+    sidebar_search_disable: false
+    showLightDarkModeMenu: true
+    feedback:
+      enable: false
+    readingtime:
+      enable: true
 
 module:
   hugoVersion:
