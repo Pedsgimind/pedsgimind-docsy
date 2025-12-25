@@ -30,8 +30,8 @@ markup:
     style: tango
 
 outputs:
-  home: [HTML, RSS]
-  section: [HTML, RSS]
+  home: [HTML]
+  section: [HTML]
 
 menu:
   main:
