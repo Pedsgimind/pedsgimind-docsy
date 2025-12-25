@@ -42,8 +42,7 @@ menu:
       weight: 1
 
 params:
-  # Footer link for "Privacy Policy" (you can keep this)
-  privacy_policy: "https://pedsgimind.ca/privacy/"
+  privacy_policy: "/privacy/"
   url_latest_version: "https://blog.pedsgimind.ca/"
 
   # IMPORTANT ✅: Remove GitHub repo wiring so Docsy stops showing:
