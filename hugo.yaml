@@ -1,95 +1,90 @@
 baseURL: "https://blog.pedsgimind.ca/"
 title: "PedsGIMind Blog"
 
-# Hugo v0.128+ (paginate removed) ✅
+enableRobotsTXT: true
+enableGitInfo: true
+
 pagination:
   pagerSize: 10
 
-enableRobotsTXT: true
+# Content location (your posts are in content/en/...)
+contentDir: "content/en"
 
-# Turn off git metadata so the site doesn't show commit hashes / "Last modified..." ✅
-enableGitInfo: false
-
-# Language
-contentDir: content/en
-defaultContentLanguage: en
+defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
 
 taxonomies:
-  tag: tags
-  category: categories
+  tag: "tags"
+  category: "categories"
 
 permalinks:
-  blog: /blog/:year/:month/:day/:slug/
+  blog: "/blog/:year/:month/:day/:slug/"
 
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
-    style: tango
+    style: "tango"
 
 outputs:
-  home: [HTML, RSS]
-  section: [HTML, RSS]
+  home:
+    - "HTML"
+    - "RSS"
+  section:
+    - "HTML"
+    - "RSS"
 
-# Only show what we want in the top navbar
 menu:
   main:
-    - name: Blog
-      url: /blog/
+    - name: "Blog"
+      url: "/blog/"
       weight: 1
 
 params:
-ui:
-    navbar_logo: true
-    # Add this:
-    icon:
-      # Docsy looks for this for the navbar/site icon in some setups
-      # If it doesn't show, we will do Option B below (guaranteed).
-      path: "favicon-32x32.png"
-  privacy_policy: "/privacy/"
+  # IMPORTANT: set privacy link to something that actually exists
+  # For now, point it to the main site home until you create a privacy page there.
+  privacy_policy: "https://pedsgimind.ca/"
+
   url_latest_version: "https://blog.pedsgimind.ca/"
 
-  # IMPORTANT ✅: Remove GitHub repo wiring so Docsy stops showing:
-  # "View page source / Edit this page / Create issue / Create project issue"
-  # (Do NOT add github_repo / github_project_repo / github_branch here.)
-
-  # IMPORTANT ✅: Remove footer icons by removing links block entirely.
-  # If later you want to re-add only ONE link (e.g., Website) tell me and I’ll add it cleanly.
+  # Keep these if you want "Edit this page" features later.
+  # If you DON'T want the GitHub edit/source links visible to the public,
+  # we will disable them in Step 2 below.
+  github_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
+  github_project_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
+  github_branch: "main"
 
   ui:
     breadcrumb_disable: true
     navbar_logo: true
     navbar_translucent_over_cover_disable: true
     sidebar_menu_compact: true
-
-    # Keep search enabled (set to true if you want to hide the search box)
     sidebar_search_disable: false
-
     showLightDarkModeMenu: true
-
     feedback:
       enable: false
-
     readingtime:
       enable: true
 
 module:
   hugoVersion:
     extended: true
-    min: 0.146.0
+    min: "0.146.0"
   imports:
-    - path: github.com/google/docsy
-      disable: false
+    - path: "github.com/google/docsy"
 
 mediaTypes:
   font/woff2:
-    suffixes: ["woff2"]
+    suffixes:
+      - "woff2"
   font/woff:
-    suffixes: ["woff"]
+    suffixes:
+      - "woff"
   application/font-woff2:
-    suffixes: ["woff2"]
+    suffixes:
+      - "woff2"
   application/font-woff:
-    suffixes: ["woff"]
+    suffixes:
+      - "woff"
