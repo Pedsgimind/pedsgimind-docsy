@@ -1,6 +1,6 @@
 ---
 title: "Eosinophilic Esophagitis (EoE) in Children: Symptoms, Diagnosis, and Treatment"
-date: 2025-12-25
+date: 2025-12-24
 draft: false
 tags: ["eosinophilic esophagitis", "EoE", "pediatric gastroenterology", "allergy"]
 categories: ["Education"]
