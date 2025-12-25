@@ -42,6 +42,13 @@ menu:
       weight: 1
 
 params:
+ui:
+    navbar_logo: true
+    # Add this:
+    icon:
+      # Docsy looks for this for the navbar/site icon in some setups
+      # If it doesn't show, we will do Option B below (guaranteed).
+      path: "favicon-32x32.png"
   privacy_policy: "/privacy/"
   url_latest_version: "https://blog.pedsgimind.ca/"
 
