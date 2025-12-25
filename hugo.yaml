@@ -1,60 +1,52 @@
 baseURL: "https://blog.pedsgimind.ca/"
 title: "PedsGIMind Blog"
 
-enableRobotsTXT: true
-enableGitInfo: true
-
 pagination:
   pagerSize: 10
 
-# Content location (your posts are in content/en/...)
-contentDir: "content/en"
+enableRobotsTXT: true
 
-defaultContentLanguage: "en"
+# IMPORTANT: turns off "Last modified (commit link)" behavior
+enableGitInfo: false
+
+# Language
+contentDir: content/en
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
 
 taxonomies:
-  tag: "tags"
-  category: "categories"
+  tag: tags
+  category: categories
 
 permalinks:
-  blog: "/blog/:year/:month/:day/:slug/"
+  blog: /blog/:year/:month/:day/:slug/
 
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
-    style: "tango"
+    style: tango
 
 outputs:
-  home:
-    - "HTML"
-    - "RSS"
-  section:
-    - "HTML"
-    - "RSS"
+  home: [HTML, RSS]
+  section: [HTML, RSS]
 
 menu:
   main:
-    - name: "Blog"
-      url: "/blog/"
+    - name: Blog
+      url: /blog/
       weight: 1
 
 params:
-  # IMPORTANT: set privacy link to something that actually exists
-  # For now, point it to the main site home until you create a privacy page there.
-  privacy_policy: "https://pedsgimind.ca/"
+  # If you keep these empty, Docsy won't generate GitHub "Edit/Source/Issue" links
+  github_repo: ""
+  github_project_repo: ""
+  github_branch: ""
 
-  url_latest_version: "https://blog.pedsgimind.ca/"
-
-  # Keep these if you want "Edit this page" features later.
-  # If you DON'T want the GitHub edit/source links visible to the public,
-  # we will disable them in Step 2 below.
-  github_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
-  github_project_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
-  github_branch: "main"
+  # Optional: remove footer icon rows entirely (keeps footer text only)
+  links: {}
 
   ui:
     breadcrumb_disable: true
@@ -63,28 +55,27 @@ params:
     sidebar_menu_compact: true
     sidebar_search_disable: false
     showLightDarkModeMenu: true
+
     feedback:
       enable: false
+
     readingtime:
       enable: true
 
 module:
   hugoVersion:
     extended: true
-    min: "0.146.0"
+    min: 0.146.0
   imports:
-    - path: "github.com/google/docsy"
+    - path: github.com/google/docsy
+      disable: false
 
 mediaTypes:
   font/woff2:
-    suffixes:
-      - "woff2"
+    suffixes: ["woff2"]
   font/woff:
-    suffixes:
-      - "woff"
+    suffixes: ["woff"]
   application/font-woff2:
-    suffixes:
-      - "woff2"
+    suffixes: ["woff2"]
   application/font-woff:
-    suffixes:
-      - "woff"
+    suffixes: ["woff"]
