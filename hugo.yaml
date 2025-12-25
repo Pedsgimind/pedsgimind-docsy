@@ -1,10 +1,14 @@
 baseURL: "https://blog.pedsgimind.ca/"
 title: "PedsGIMind Blog"
 
+# Hugo v0.128+ (paginate removed) ✅
 pagination:
   pagerSize: 10
+
 enableRobotsTXT: true
-enableGitInfo: true
+
+# Turn off git metadata so the site doesn't show commit hashes / "Last modified..." ✅
+enableGitInfo: false
 
 # Language
 contentDir: content/en
@@ -38,39 +42,31 @@ menu:
       weight: 1
 
 params:
+  # Footer link for "Privacy Policy" (you can keep this)
   privacy_policy: "https://pedsgimind.ca/privacy/"
   url_latest_version: "https://blog.pedsgimind.ca/"
 
-  github_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
-  github_project_repo: "https://github.com/Pedsgimind/pedsgimind-docsy"
-  github_branch: "main"
+  # IMPORTANT ✅: Remove GitHub repo wiring so Docsy stops showing:
+  # "View page source / Edit this page / Create issue / Create project issue"
+  # (Do NOT add github_repo / github_project_repo / github_branch here.)
 
-  # Clean footer links (optional)
-  links:
-    user:
-      - name: Website
-        url: "https://pedsgimind.ca/"
-        icon: fa fa-globe
-        desc: PedsGIMind main website
-      - name: RSS
-        url: "/index.xml"
-        icon: fa fa-rss
-        desc: Subscribe to updates
-    developer:
-      - name: GitHub
-        url: "https://github.com/Pedsgimind/pedsgimind-docsy"
-        icon: fab fa-github
-        desc: Source repository
+  # IMPORTANT ✅: Remove footer icons by removing links block entirely.
+  # If later you want to re-add only ONE link (e.g., Website) tell me and I’ll add it cleanly.
 
   ui:
     breadcrumb_disable: true
     navbar_logo: true
     navbar_translucent_over_cover_disable: true
     sidebar_menu_compact: true
+
+    # Keep search enabled (set to true if you want to hide the search box)
     sidebar_search_disable: false
+
     showLightDarkModeMenu: true
+
     feedback:
       enable: false
+
     readingtime:
       enable: true
 
