@@ -1,6 +1,6 @@
 ---
 title: "Abdominal Pain in Toddlers and Older Children: A Practical Parent Guide"
-date: 2025-12-26
+date: 2025-12-25
 draft: false
 description: "A practical guide to abdominal pain in toddlers and older kids: common causes, red flags, what you can do at home, and when to seek urgent care."
 categories: ["Education"]
