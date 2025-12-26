@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{/* Show MailerLite form only on posts tagged Constipation */}}
+  {{ with .Params.tags }}
+    {{ if in . "Constipation" }}
+      <hr>
+      <h3>Free Printable for Parents</h3>
+      <p>Get our pediatrician-approved Constipation Action Plan (PDF) by email.</p>
+      <div class="ml-embedded" data-form="2NrnkG"></div>
+    {{ end }}
+  {{ end }}
+{{ end }}
