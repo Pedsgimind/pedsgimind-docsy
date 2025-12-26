@@ -51,4 +51,7 @@ A common reason for failure is stopping as soon as things improve. The rectum ne
 - Growth concerns or red flags
 - Suspected underlying disease
 
+{{< rawhtml >}}
+<div class="ml-embedded" data-form="2NrnkG"></div>
+{{< /rawhtml >}}
 ---
