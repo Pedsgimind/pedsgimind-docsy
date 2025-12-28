@@ -92,16 +92,6 @@ Other conditions can mimic celiac symptoms (for example: constipation, thyroid d
 
 ---
 
-## 🖼️ Visual guide: gluten sources + label reading + before/after
-
-![Common gluten sources and hidden gluten](/images/celiac-gluten-foods.png)
-
-![Reading food labels with kids: what to look for](/images/celiac-reading-labels.png)
-
-![Before vs after a strict gluten-free diet (after diagnosis)](/images/celiac-before-after-gf.png)
-
----
-
 ## 👀 What parents might notice (symptoms)
 
 ### Typical symptoms (most common first)
@@ -293,18 +283,6 @@ If tests are positive (or suspicion is high), confirmation depends on local pedi
 - **Serious side effects (rare but important):** ongoing inflammation if gluten exposure continues (poor growth/anemia can persist)
 - **When to stop and seek help:** persistent symptoms, weight loss, ongoing fatigue, dehydration
 - **Interactions (key ones only):** gluten can hide in sauces, soups, processed foods, seasonings, shared fryers, and flour dust
-
----
-
-## 🍳🥪🍽️ Gluten-free meal ideas (kid-friendly)
-
-![Gluten-free breakfast ideas](/images/celiac-glutenfree-breakfast.png)
-
-![Gluten-free lunch ideas](/images/celiac-glutenfree-lunch.png)
-
-![Gluten-free dinner ideas](/images/celiac-glutenfree-dinner.png)
-
-> ✅ **Reminder:** These are ideas, not medical prescriptions. Always check labels and cross-contamination risks, especially in shared kitchens and school settings.
 
 ---
 
