@@ -1,0 +1,12 @@
+/* === Print-only styling for .printable blocks (Docsy) === */
+@media print {
+  header, nav, .td-sidebar, aside, footer, .td-footer, .no-print { display: none !important; }
+  body * { visibility: hidden !important; }
+  .printable, .printable * { visibility: visible !important; }
+  .printable {
+    position: absolute; left: 0; top: 0; width: 100%;
+    padding: 0.5in; background: #fff;
+  }
+  h1, h2, h3 { page-break-after: avoid; }
+  .printable input[type=checkbox] { transform: scale(1.2); }
+}

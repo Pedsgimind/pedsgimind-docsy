@@ -79,3 +79,6 @@ mediaTypes:
     suffixes: ["woff2"]
   application/font-woff:
     suffixes: ["woff"]
+
+  customJS:
+    - js/print.js
