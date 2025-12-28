@@ -471,7 +471,7 @@ Local guidance may differ based on your region and your child’s health history
 
 ---
 
-## 🧡 Safety disclaimer (short, not scary)
+## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.
 
