@@ -510,13 +510,12 @@ Date: _______  Time: _______
 
 ---
 
-## 🧡 Safety disclaimer (short, not scary)
+## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.
 
 ---
 
-> **CREDENTIAL / REVIEW BOX**
 >
 > This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings.  
 >
