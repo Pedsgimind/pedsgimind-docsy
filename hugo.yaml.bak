@@ -80,3 +80,5 @@ mediaTypes:
   application/font-woff:
     suffixes: ["woff"]
 
+  customJS:
+    - js/print.js

@@ -1,14 +1,10 @@
 {{ $id := .Get "id" | default (printf "print-%d" now.Unix) }}
 <div id="{{ $id }}" class="printable">
   {{ with .Get "title" }}<h2 class="printable-title">{{ . }}</h2>{{ end }}
-
   <div class="no-print" style="margin:8px 0">
-    <button onclick="printSection('{{ $id }}')" class="btn btn-outline-primary">
-      Print this
-    </button>
-    <small class="text-muted ms-2">Tip: choose “Save as PDF”.</small>
+    <button onclick="printSection('{{ $id }}')" class="btn btn-outline-primary">Print this</button>
+    <small class="text-muted ms-2">Tip: choose Save as PDF.</small>
   </div>
-
   <div class="printable-body">
     {{ .Inner }}
   </div>
