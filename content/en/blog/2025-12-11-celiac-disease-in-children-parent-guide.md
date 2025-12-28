@@ -7,61 +7,59 @@ categories: ["Education"]
 tags: ["Celiac Disease", "Gluten", "Growth", "Diarrhea", "Abdominal Pain", "Iron Deficiency"]
 ---
 
-# 🍞🚫 Celiac Disease in Children  
+# 🍞🚫 Celiac Disease in Children
 *Symptoms, who should be tested, how testing works, and what to do next*
 
-> ✅ **Quick note:** Celiac disease is an immune reaction to **gluten** (in wheat, barley, and rye) that can damage the small intestine. Some children have obvious tummy symptoms, but many have **subtle signs** like poor growth, anemia, fatigue, headaches, or constipation. The most important rule: **do not start a gluten-free diet before testing**.
+> ✅ **Quick note:** Celiac disease is an immune reaction to **gluten** (in wheat, barley, and rye) that can damage the small intestine. Some children have obvious tummy symptoms, but many have **subtle signs** like poor growth, anemia, fatigue, headaches, mouth ulcers, or constipation. The most important rule: **do not start a gluten-free diet before testing**.
 
 ---
 
-## 🧾 Quick “At-a-glance” box
+## 🧾 Quick “At-a-glance” box (top of page)
 
-> ✅ **Condition name:** Celiac disease  
-> **Also called:** Gluten-sensitive enteropathy (medical term), “celiac sprue” (older term)  
+> ✅ **Condition name + common names:** Celiac disease (also called “celiac sprue” in older medical writing)  
 >
-> **What it is (2–3 lines):** Gluten triggers an immune reaction that damages the small intestine, making it harder to absorb nutrients. It can cause diarrhea, belly pain, bloating—or show up as poor growth, anemia, fatigue, constipation, or delayed puberty.  
+> **What it is (2–3 lines):** Gluten triggers an immune reaction that injures the small intestine’s lining (where nutrients are absorbed). This can cause diarrhea, belly pain, bloating—or show up as poor growth, iron deficiency anemia, fatigue, constipation, headaches, or delayed puberty.  
 >
-> **Who it affects (typical ages):** Any age (including toddlers and teens). Symptoms may start gradually and can be missed for months or years.  
+> **Who it affects (typical ages):** Any age (toddlers, school-age children, teens). Symptoms can be gradual and easy to miss.  
 >
 > ✅ **What parents should do today:**  
-> - If you suspect celiac, **keep gluten in the diet** until testing is complete.  
-> - Start a symptom + growth tracker (pain, stool, energy, weight/height if known).  
-> - Book a clinic visit to discuss the right blood tests.  
+> - **Keep gluten in the diet** until testing is complete.  
+> - Track symptoms (stool, belly pain, energy) and growth if you know it.  
+> - Book a visit to discuss the right blood tests.  
 >
-> ⚠️ **Red flags that need urgent / ER care:**  
-> - Significant dehydration (very low urine, very dry mouth, very sleepy)  
+> ⚠️ **Red flags that need urgent/ER care:**  
+> - Significant dehydration (very low urine, very sleepy, very dry mouth)  
 > - Persistent vomiting (especially green/bright yellow bile)  
 > - Severe weakness, fainting, or child looks very unwell  
 > - Large blood in stool or black/tarry stools  
 >
 > 🟡 **When to see the family doctor/clinic soon:**  
-> - Poor growth/weight loss, fatigue, pallor (possible anemia)  
-> - Chronic diarrhea, persistent belly pain/bloating, or constipation that won’t improve  
+> - Poor growth, weight loss, fatigue, pallor (possible anemia)  
+> - Chronic diarrhea, persistent belly pain/bloating, constipation that won’t improve  
 > - Mouth ulcers, headaches, delayed puberty  
-> - Type 1 diabetes or autoimmune thyroid disease (higher risk group)  
-> - First-degree relative with celiac disease
+> - High-risk groups: type 1 diabetes, autoimmune thyroid disease, first-degree relative with celiac disease
 
 ---
 
 ## 🧠 What it is (plain language)
 
-Celiac disease is an **immune** condition. When a child with celiac eats gluten, their immune system reacts and can injure the lining of the small intestine (where nutrients are absorbed). Over time, that can lead to:
-- Poor absorption of iron and vitamins  
-- Poor growth or weight loss  
-- Low energy and tummy symptoms  
+Celiac disease is an **immune condition** (not an infection). When a child with celiac eats gluten, the immune system reacts and can damage the small intestine lining. Over time, that can lead to:
+- Poor absorption of nutrients (especially iron and some vitamins)
+- Poor growth or weight loss
+- Low energy and tummy symptoms
 
-> ✅ **Important:** Celiac disease is **not** a food allergy, and it is **not** the same as “gluten intolerance.” The treatment is still a strict gluten-free diet—but the diagnosis and follow-up are different.
+> ✅ **Important:** Celiac disease is **not** the same as “gluten intolerance” and it is **not** a typical food allergy. The treatment is still a strict gluten-free diet—but **the diagnosis must be confirmed properly**.
 
 ### What part of the body is involved? (small diagram required)
 
-<!-- AI IMAGE PROMPT: Friendly diagram showing stomach → small intestine with “tiny finger-like lining” (villi) labeled. Show “healthy villi” vs “flattened villi after gluten-triggered inflammation.” Include a simple wheat/barley/rye icon leading to immune reaction arrow. Not scary; clean and parent-friendly. -->
+<!-- AI IMAGE PROMPT: Friendly diagram showing stomach → small intestine with villi. Panel A: healthy villi labeled “absorbs nutrients.” Panel B: inflamed/flattened villi labeled “harder to absorb nutrients.” Add wheat/barley/rye icon → immune reaction arrow. Not scary, clean design. -->
 ![Diagram: small intestine lining (villi) and how celiac affects absorption](/images/celiac-disease-villi-placeholder-1.png)
 
-### Common myths vs facts
+### Common myths vs facts (short)
 - **Myth:** “Celiac always causes diarrhea.”  
-  **Fact:** Many children have constipation, belly pain, anemia, fatigue, or growth issues instead.
-- **Myth:** “We should try gluten-free first and see if they improve.”  
-  **Fact:** Going gluten-free too early can make tests falsely normal and **delay the correct diagnosis**.
+  **Fact:** Many children have constipation, belly pain, anemia, fatigue, headaches, or growth issues instead.
+- **Myth:** “Let’s go gluten-free first and see if it helps.”  
+  **Fact:** Going gluten-free early can make tests falsely normal and **delay or miss diagnosis**.
 - **Myth:** “A little gluten won’t matter.”  
   **Fact:** In celiac disease, even small exposures can keep inflammation active.
 
@@ -69,35 +67,36 @@ Celiac disease is an **immune** condition. When a child with celiac eats gluten,
 
 ## 🧩 Why it happens (causes & triggers)
 
-### Why celiac happens
-- A child has a genetic tendency (often runs in families).  
+### Common causes
+- Celiac happens in children with a genetic tendency (often runs in families).  
 - Gluten exposure triggers an immune reaction.  
-- The small intestine becomes inflamed, affecting absorption.
+- This injures the small intestine lining and affects absorption.
+
+### Less common but important causes (brief)
+- Celiac-like symptoms can also come from other conditions (for example: IBD, infections, thyroid disease). Your clinician decides what else to check based on symptoms.
 
 ### Triggers that worsen symptoms
-- Ongoing gluten intake (even small, repeated exposures)  
-- Cross-contamination (tiny gluten from shared toasters, cutting boards, flour dust)  
-- Intercurrent illness or stress may make symptoms feel worse (but gluten is the driver)
+- Ongoing gluten intake (including “hidden gluten”)  
+- Cross-contamination (shared toaster, cutting boards, flour dust, shared spreads)  
+- Intercurrent illness may worsen symptoms temporarily (but gluten drives ongoing injury)
 
-### Risk factors (who is more likely)
+### Risk factors (age, family history, exposures)
 - First-degree relative with celiac disease  
 - Type 1 diabetes  
 - Autoimmune thyroid disease  
 - Down syndrome or Turner syndrome  
-- Selective immunoglobulin A deficiency  
+- Selective IgA deficiency  
 - Unexplained iron deficiency anemia, poor growth, chronic GI symptoms
 
 ---
 
 ## 👀 What parents might notice (symptoms)
 
-> ✅ Many children have **subtle** symptoms. Watch patterns over time.
-
 ### Typical symptoms (most common first)
 - Belly pain or bloating  
-- Diarrhea OR constipation  
+- Diarrhea **or** constipation  
 - Fatigue/low energy  
-- Poor appetite or picky eating beyond expected  
+- Poor appetite or persistent picky eating beyond expected  
 - Slow growth or weight loss  
 - Headaches  
 - Mouth ulcers  
@@ -105,69 +104,74 @@ Celiac disease is an **immune** condition. When a child with celiac eats gluten,
 
 ### Symptoms by age group
 
-#### Toddlers / young children
+#### Infant / toddler
 - Poor weight gain or slowed growth  
-- Chronic diarrhea or bulky/foul stools (sometimes constipation instead)  
+- Chronic diarrhea or bulky/foul stools (sometimes constipation)  
 - Bloating, belly pain  
 - Irritability, low energy
 
-#### School-age children / teens
+#### School-age
 - Recurrent abdominal pain, nausea  
 - Fatigue, headaches  
 - Constipation or diarrhea  
-- Iron-deficiency anemia  
-- Short stature or delayed puberty  
-- Mouth ulcers  
-- Bone pain or fractures with minimal trauma (less common but important)
+- Iron deficiency anemia  
+- Slower growth
+
+#### Teens
+- Fatigue, headaches, abdominal symptoms  
+- Iron deficiency anemia  
+- Delayed puberty  
+- Short stature compared with family expectations  
+- Mood changes can occur (often from fatigue/illness impact)
 
 ### What’s normal vs what’s not normal
-- ✅ **Can still be celiac:** mild belly pain, constipation, “just tired,” mild anemia  
-- ⚠️ **More concerning:** clear weight loss, persistent vomiting, significant diarrhea with dehydration, black/tarry stools, severe weakness/fainting
+- ✅ **Can still be celiac:** mild belly pain, constipation, “just tired,” or mild anemia  
+- ⚠️ **Not normal:** dehydration, persistent vomiting, significant weight loss, fainting, black/tarry stools, large bleeding
 
-### Symptom tracker (what to write down)
-- Stool pattern (diarrhea/constipation, frequency, accidents)  
-- Belly pain location/timing  
-- Energy level and sleep  
-- Appetite and picky eating patterns  
-- Weight/height trend if available  
+### Symptom trackers (what to write down)
+- Stool pattern (frequency, diarrhea/constipation, urgency)  
+- Belly pain (timing, triggers)  
+- Energy, sleep, school performance  
+- Appetite and food patterns  
+- Weight/height trend if known  
 - Headaches, mouth ulcers  
-- Any family history or autoimmune diagnoses
+- Family history or autoimmune diagnoses
 
 ---
 
 ## 🏠 Home care and what helps (step-by-step)
 
-### What to do in the first 24–48 hours (if you suspect celiac)
+### What to do in the first 24–48 hours
 > ✅ **Do this now:**  
-- **Do not start gluten-free yet** if testing is planned.  
-- Book an appointment for the right blood tests.  
-- Support comfort: hydration, regular meals, gentle foods as tolerated.  
-- Track symptoms and stool.
+- **Do not start gluten-free** if testing is planned.  
+- Book a clinic visit for celiac blood testing.  
+- Start a symptom tracker + 3-day food diary (helpful for your clinician).  
+- Keep hydration steady.
 
-### Supportive care (while waiting for testing)
+### Supportive care: fluids, nutrition, sleep, comfort measures
 - Hydration and regular meals/snacks  
-- Manage constipation gently (fluids, fiber gradually, toileting routine)  
-- If diarrhea: focus on hydration; seek care if dehydration signs appear  
-- Keep school routines as normal as possible if your child is stable
+- Gentle foods if stomach upset is present  
+- If constipation: increase fluids and fiber gradually; consider a clinician-guided stool-softening plan if needed  
+- Prioritize sleep (fatigue is common)
 
 ### What usually makes it worse
-- Cutting gluten before testing (can delay diagnosis)  
-- Repeated “diet trials” without a plan  
-- Over-restriction leading to poor nutrition  
-- Ignoring ongoing fatigue, pallor, or growth changes
+- Stopping gluten before testing  
+- Unplanned diet restrictions that reduce calories/nutrients  
+- Ongoing constipation without a structured plan  
+- Repeated “trial diets” without medical guidance
 
 ---
 
 ## ⛔ What NOT to do (common mistakes)
 
-- Do **not** start a gluten-free diet before testing unless a clinician specifically instructs you to for urgent reasons.  
-- Do **not** rely on home “gluten sensitivity tests.”  
-- Do **not** assume normal stool means no problem—celiac can present without diarrhea.  
-- Do **not** stop follow-up after diagnosis; monitoring matters.
+- Do **not** start gluten-free before testing unless a clinician specifically instructs you to (rare urgent situations).  
+- Do **not** use home “gluten sensitivity tests” as a substitute for medical testing.  
+- Do **not** assume normal stools mean no celiac.  
+- Do **not** stop follow-up after diagnosis—monitoring is important.
 
 ### When not to give over-the-counter medications
-- Avoid frequent anti-diarrhea medicines in children unless directed by a clinician.  
-- If your child needs frequent pain medicine for belly pain, book a medical review.
+- Avoid anti-diarrhea medicines in children unless a clinician directs it—especially if there is blood, fever, or dehydration risk.  
+- If belly pain needs frequent pain medicine, book a medical review.
 
 ---
 
@@ -177,13 +181,13 @@ Celiac disease is an **immune** condition. When a child with celiac eats gluten,
 - Collapse, severe weakness, very hard to wake  
 - Severe breathing difficulty
 
-**Example:** “My child is fainting or extremely sleepy and not responding normally.”
+**Example:** “My child is fainting or is not responding normally.”
 
 ### 🟠 Same-day urgent visit
-- Dehydration (no urine 8–12 hours, very dry mouth, very dizzy, very sleepy)  
+- Dehydration (no urine 8–12 hours, very dry mouth, very sleepy/dizzy)  
 - Persistent vomiting (especially green/bright yellow bile)  
 - Large blood in stool or black/tarry stools  
-- Child looks very unwell with severe symptoms
+- Child looks very unwell
 
 **Example:** “They can’t keep fluids down and haven’t peed all day.”
 
@@ -194,101 +198,100 @@ Celiac disease is an **immune** condition. When a child with celiac eats gluten,
 - Iron deficiency anemia  
 - High-risk group (type 1 diabetes, autoimmune thyroid disease, first-degree relative)
 
-**Example:** “They’re tired for months and iron keeps coming back low.”
+**Example:** “Iron keeps coming back low and they’re tired for months.”
 
 ### 🟢 Watch at home
 - Mild symptoms with stable hydration and energy while awaiting clinic appointment/testing  
-- No red flags and child is functioning normally
+- No red flags and your child is otherwise functioning normally
 
 ---
 
 ## 🩺 How doctors diagnose it (what to expect)
 
 ### What the clinician will ask
-- Symptoms and how long they’ve been happening  
-- Stool pattern and belly pain details  
+- Symptom details and timeline  
+- Stool pattern and belly pain  
 - Growth and appetite  
-- Family history of celiac disease or autoimmune conditions  
-- Any diagnoses like type 1 diabetes or thyroid disease  
-- Current diet (including whether gluten is still being eaten)
+- Family history of celiac/autoimmune disease  
+- Whether gluten is still being eaten (this matters)
 
 ### Physical exam basics
-- Growth measurements (weight/height, growth curve)  
-- Signs of anemia (pallor)  
+- Accurate height/weight and growth curve review  
+- Signs of anemia (pallor), dehydration  
 - Belly exam  
-- Hydration assessment  
 - Puberty assessment if delayed puberty is a concern
 
 ### Possible tests (and why)
-
 **Celiac blood tests (while still eating gluten):**
-- Tissue transglutaminase antibody (often called “tTG”)  
-- A test to confirm your child makes normal immunoglobulin A (IgA) levels (important for interpreting results)
+- A celiac antibody test (often called “tTG”)  
+- A test to confirm normal IgA level (important to interpret results)
 
-If positive (or if suspicion is high), your clinician will follow a confirmation pathway. Depending on your region and the exact results, confirmation may include:
-- Specialist referral  
-- Sometimes endoscopy (a camera test) to examine and sample the small intestine  
+If tests are positive (or suspicion is high), confirmation depends on local pediatric pathways and may involve:
+- Referral to pediatric gastroenterology  
+- Sometimes endoscopy with small intestine biopsies  
 - Sometimes a no-biopsy confirmation pathway in selected children (program-dependent)
 
 ### What tests are usually not needed
-- Broad “everything” testing when symptoms and risk factors clearly point toward a celiac blood test first  
-- Removing gluten as a “test” before proper testing
+- Removing gluten as a “test” before proper bloodwork  
+- Broad testing without first doing the correct celiac blood tests when the history fits
 
 ### What results might mean (simple interpretation)
-- **Negative tests while eating gluten:** celiac less likely (but your clinician will interpret in context)  
-- **Positive tests:** higher likelihood; confirmation pathway is important before lifelong treatment  
-- **IgA-related issues:** may require different antibody tests (your clinician will guide this)
+- **Negative tests while eating gluten:** celiac is less likely (but your clinician interprets in context)  
+- **Positive tests:** higher likelihood; confirmation pathway matters  
+- **IgA deficiency:** different antibody tests may be needed (your clinician guides this)
 
 ---
 
 ## 🧰 Treatment options
 
 ### First-line treatment
-> ✅ The treatment is a **strict gluten-free diet**.
-
-This allows the intestine to heal and helps symptoms and growth improve.
+> ✅ **Strict gluten-free diet** (lifelong once diagnosis is confirmed)
 
 ### If not improving (next steps)
 - Dietitian review (hidden gluten and cross-contamination are common)  
-- Check nutrient status (iron, vitamin D, etc.) and replace if needed  
-- Review for other causes if symptoms persist despite confirmed strict diet (your clinician will guide this)
+- Check and replace nutrients if needed (iron, vitamin D, sometimes others)  
+- Reassessment if symptoms persist despite confirmed strict gluten-free diet
 
 ### Severe cases (hospital care)
 - Significant dehydration, severe vomiting  
-- Severe anemia symptoms (very weak, fainting)  
+- Severe weakness or concerning anemia symptoms  
 - Child looks very unwell
 
-### Practical “how to do gluten-free” (parent-friendly essentials)
-- Learn where gluten is found: wheat, barley, rye (and foods made from them)  
-- Read labels every time (ingredients can change)  
-- Prevent cross-contamination: separate toaster, separate cutting board, clean surfaces, avoid flour dust  
-- School plan: safe lunch/snacks, teacher awareness, clear rules about food sharing  
-- Consider vitamins/minerals if advised (iron, vitamin D, calcium; sometimes others)
+### For each treatment, include key details
+
+#### Gluten-free diet (core treatment)
+- **What it does:** stops immune injury and allows healing  
+- **How to do it well:** label-reading, family education, school plan, cross-contamination prevention  
+- **Common “side effects”:** feeling overwhelmed at first; accidental exposures are common early on  
+- **Serious risks if not done strictly:** ongoing inflammation, poor growth, anemia  
+- **When to seek help:** persistent symptoms, weight loss, ongoing fatigue, repeated exposures  
+- **Key interactions:** gluten can hide in sauces, soups, processed meats, seasonings, shared fryers, and flour dust
 
 ---
 
 ## ⏳ Expected course & prognosis
 
 ### Typical timeline
-- Many children feel better within weeks after strict gluten-free diet begins  
+- Many kids feel better within **weeks** after strict gluten-free diet begins  
 - Energy and stool patterns improve gradually  
-- Growth catch-up can take months, especially if diagnosis was delayed  
-- Blood tests used for monitoring improve over time (timeline varies)
+- Growth catch-up can take **months** (longer if diagnosis was delayed)  
+- Blood tests used for monitoring usually improve over time (timeline varies)
 
 ### What “getting better” looks like
-- Improved energy and appetite  
-- Better stool consistency  
+- Better appetite and energy  
 - Less belly pain/bloating  
-- Growth curve improves
+- Improved stool pattern  
+- Growth curve stabilizes and improves
 
 ### What “getting worse” looks like
-- Continued weight loss, ongoing severe symptoms  
-- Persistent anemia or fatigue despite strict diet  
-- Ongoing vomiting, dehydration, or blood in stool
+- Continued weight loss or fatigue  
+- Persistent diarrhea or vomiting  
+- Ongoing anemia  
+- New concerning symptoms (blood in stool, black stools)
 
 ### Return to school/daycare/sports guidance
-- Return as soon as your child is hydrated and feels well  
-- Provide a gluten-free plan for school meals/snacks and celebrations
+- Return as soon as hydrated and comfortable  
+- Provide a clear school plan for gluten-free meals/snacks and food events
 
 ---
 
@@ -299,129 +302,131 @@ This allows the intestine to heal and helps symptoms and growth improve.
 - Poor growth or delayed puberty  
 - Low bone mineral density (vitamin D/calcium issues)
 
-### Rare serious complications
-- Severe malnutrition (uncommon but important)  
+### Rare serious complications (red-flag reminder)
+- Severe malnutrition (uncommon)  
 - Persistent symptoms despite strict diet requires reassessment (cross-contamination or alternate diagnoses)
 
 ---
 
 ## 🛡️ Prevention and reducing future episodes
 
-Celiac disease itself is not “preventable,” but you can prevent symptoms and complications by:
-- Diagnosing correctly (testing while still eating gluten)  
+Celiac disease itself is not preventable, but complications are reduced by:
+- Correct diagnosis (testing while still eating gluten)  
 - Strict gluten-free diet once confirmed  
 - Ongoing follow-up and nutrition monitoring  
-- Teaching family and caregivers about cross-contamination
+- Family/caregiver education on cross-contamination
 
 ---
 
 ## 🌟 Special situations
 
 ### Infants
-- Symptoms can be subtle (poor growth, irritability, diarrhea/constipation).  
-- Any dehydration, persistent vomiting, or failure to thrive needs prompt assessment.
+- Symptoms can be subtle; dehydration and poor feeding require prompt assessment.
 
 ### Teens
-- Watch for fatigue, headaches, delayed puberty, low iron, and hidden dietary restriction.  
-- Support social eating situations (school, friends) with practical planning.
+- Social eating and school events need planning; fatigue and low iron are common presentations.
 
-### Kids with chronic conditions (type 1 diabetes, thyroid disease, immunosuppression)
-- Higher risk groups should have a low threshold for testing if symptoms appear.  
-- Coordinate diet changes with the care team so nutrition stays balanced.
+### Kids with chronic conditions (asthma, diabetes, immunosuppression)
+- Type 1 diabetes and autoimmune thyroid disease increase risk—testing threshold is lower.  
+- Coordinate diet changes with the care team to keep nutrition balanced.
 
 ### Neurodevelopmental differences/autism
-- Keep food changes structured and predictable.  
-- Work with a dietitian to avoid unnecessary restriction and maintain adequate nutrition.
+- Keep changes structured and predictable; involve a dietitian to avoid unnecessary restriction.
 
 ### Travel considerations
-- Pack gluten-free snacks  
-- Learn local label terms and cross-contamination risks  
-- Consider a travel card explaining “gluten-free required” in the local language
+- Pack gluten-free snacks; learn label terms; plan for cross-contamination.
 
 ### School/daycare notes (what teachers should know)
-- Gluten-free diet is medical and strict  
+- Gluten-free diet is strict and medical  
 - Avoid food sharing  
-- Clear plan for snacks, celebrations, and crafts that use flour
+- Plan for celebrations, crafts with flour, and snack policies
 
 ---
 
 ## 📅 Follow-up plan
 
-- Follow up with your clinician and dietitian after diagnosis to:  
-  - Monitor growth and symptoms  
-  - Re-check key labs (iron, vitamin D, and others as advised)  
-  - Repeat celiac antibodies over time to confirm improvement  
-- Seek earlier follow-up if:  
-  - Symptoms persist despite strict diet  
-  - Your child is losing weight or becoming very fatigued  
-  - You suspect ongoing gluten exposure
+### When to follow up and with whom
+- Follow-up with your clinician and dietitian after diagnosis  
+- Pediatric gastroenterology follow-up as advised by your local pathway
+
+### What would trigger earlier follow-up
+- Persistent symptoms despite strict diet  
+- Weight loss or poor growth  
+- Persistent fatigue/anemia  
+- Repeated suspected gluten exposures
+
+### What to bring to the appointment
+- Symptom diary, stool notes  
+- Growth measurements (if known)  
+- Food diary (including drinks)  
+- Medication/supplement list  
+- Questions about label-reading and cross-contamination
 
 ---
 
 ## ❓ Parent FAQs
 
 ### “Is it contagious?”
-No. Celiac disease is not an infection.
+No.
 
 ### “Can my child eat ___?”
-If diagnosed, foods must be gluten-free. Many naturally gluten-free foods are safe (fruit, vegetables, meat, fish, eggs, beans, rice, potatoes) as long as there is no gluten contamination.
+If diagnosed, foods must be gluten-free. Many foods are naturally gluten-free (fruit, vegetables, meat, fish, eggs, beans, rice, potatoes) if not contaminated.
 
 ### “Can they bathe/swim/exercise?”
-Yes. Activity is encouraged once your child feels well and nutrition is improving.
+Yes.
 
 ### “Will they outgrow it?”
 Celiac disease is lifelong, but most children do extremely well with a strict gluten-free diet.
 
 ### “When can we stop treatment?”
-The gluten-free diet is lifelong once celiac disease is confirmed.
+Once confirmed, the gluten-free diet is lifelong.
 
 ---
 
-## 🧾 Printable tools
+## 🧾 Printable tools (high-value add-ons)
 
 ---
 
-## 🧾 Printable: One-Page Action Plan (Suspected Celiac Disease)
+## 🧾 Printable: One-Page Action Plan (Suspected Celiac)
 
 **Do this first**
 - [ ] **Keep gluten in the diet** until testing is complete  
-- [ ] Book a clinic visit for celiac blood tests  
-- [ ] Start symptom + stool + energy tracker for 1–2 weeks
+- [ ] Book a visit for celiac blood tests  
+- [ ] Start a 1–2 week symptom tracker (stool, pain, energy, appetite)
 
-**Watch for red flags (urgent care if any)**
-- [ ] Dehydration (no urine 8–12 hours, very sleepy, very dizzy)  
+**Urgent care if**
+- [ ] Dehydration (very low urine, very sleepy)  
 - [ ] Persistent vomiting (especially green/bright yellow bile)  
 - [ ] Black/tarry stools or large blood in stool  
 - [ ] Child looks very unwell
 
 **Bring to your appointment**
-- [ ] Family history (celiac, autoimmune conditions)  
+- [ ] Family history (celiac/autoimmune)  
 - [ ] Growth concerns (weight/height trend if known)  
-- [ ] Photos of stool if helpful  
-- [ ] Current diet details (including gluten intake)
+- [ ] Food diary (including gluten intake)  
+- [ ] List of symptoms and timeline
 
 ---
 
-## 🧾 Printable: Medication Schedule Box
-*Use only if your child has clinician-prescribed medications or supplements.*
+## 🧾 Printable: Medication schedule box
+*(Use only if your clinician prescribes supplements like iron/vitamin D.)*
 
 - Morning: ____________________  Time: ______  
 - Afternoon: __________________  Time: ______  
 - Evening: ____________________  Time: ______  
-- Notes / side effects to watch: ______________________________________
+- Notes: ______________________________________
 
 ---
 
-## 🧾 Printable: Symptom Diary / Tracker
+## 🧾 Printable: Symptom diary / tracker
 
 Date: _______  
 - Stool pattern (diarrhea/constipation): _____________________________  
 - Belly pain (0–10) + timing: _______________________________________  
-- Energy level (good/okay/low): _____________________________________  
+- Energy (good/okay/low): __________________________________________  
 - Appetite (good/okay/low): _________________________________________  
-- Mouth ulcers/headaches: ___________________________________________  
-- Weight/height concerns today: _____________________________________  
-- Any red flags (vomiting, dehydration, blood in stool): ______________
+- Headaches/mouth ulcers: __________________________________________  
+- Any red flags (vomiting, dehydration, bleeding): ____________________
 
 ---
 
@@ -431,24 +436,22 @@ Date: _______
 
 ---
 
-## 🧾 Printable: School/Daycare Instructions Page (After Diagnosis)
+## 🧾 Printable: School/daycare instructions page
 
 **This child requires a strict gluten-free diet for medical reasons:**  
 - No food sharing  
-- Parent-provided gluten-free snacks and meals  
-- Separate surfaces/utensils when possible  
-- Notify parent before food-based activities (celebrations, baking, crafts with flour)  
-- Encourage inclusion and avoid singling the child out
+- Parent-provided gluten-free snacks/meals  
+- Avoid flour-based crafts and shared foods unless confirmed gluten-free  
+- Notify parents before food events and celebrations  
+- Encourage inclusion without singling the child out
 
 ---
 
 ## 📚 Credible sources + last updated date
 
-**Trusted references (examples):**
-- National pediatric gastroenterology society education pages on celiac disease  
-- Children’s hospital celiac disease programs (patient education and diet guidance)  
-- Celiac Disease Foundation (family education and label-reading guidance)  
-- Diabetes organizations for celiac screening considerations in type 1 diabetes (where applicable)
+- Children’s hospital celiac disease programs (patient/diet education)  
+- National pediatric gastroenterology society resources (celiac diagnosis and care)  
+- Celiac Disease Foundation (label-reading and cross-contamination education)
 
 **Last reviewed/updated on:** 2025-12-27  
 *Local guidance may differ based on your region and your child’s health history.*
@@ -461,47 +464,13 @@ This guide supports—not replaces—medical advice. If you are worried about yo
 
 ---
 
-<details>
-<summary><strong>Optional: For clinicians (testing and follow-up pearls)</strong></summary>
-
-### First-line testing strategy
-- Order **tTG-IgA** and **total IgA** (avoid missing IgA deficiency).
-- If IgA deficient: use **tTG-IgG** (± deamidated gliadin peptide IgG per local pathway).
-
-### Pre-test conditions
-- Ensure ongoing gluten intake before serology.
-- Avoid starting gluten-free diet pre-confirmation unless medically required.
-
-### Interpreting positive serology
-- Positive tTG with compatible presentation increases suspicion.
-- Confirm using your program’s pathway (biopsy vs no-biopsy pathway in selected pediatric cases, per local protocols).
-
-### Baseline labs after diagnosis (practical set)
-- Complete blood count, ferritin/iron studies
-- Alanine aminotransferase
-- Vitamin D
-- Consider folate, vitamin B12, calcium intake assessment
-- Consider thyroid screening depending on autoimmune risk
-
-### Follow-up
-- Symptom response + growth
-- Serologic downtrend over time (timeline varies)
-- If tTG remains elevated: diet review (cross-contamination common); consider alternate diagnoses if adherence confirmed.
-
-### When to refer urgently / reassess
-- Significant weight loss, dehydration, severe anemia
-- Persistent symptoms despite confirmed strict gluten-free diet
-- Concern for alternative diagnoses or complications
-
-</details>
+## ✅ REQUIRED END-OF-POST CREDENTIAL BOX (verbatim)
 
 ---
-
----
-This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST
-Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings.
-To book an online assessment Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca
-In the email subject, please write: New Assessment Appointment with Dr. Hussein
-Important: This appointment is completely online as Dr. Hussein is currently working overseas.
-This service is not covered by OHIP
+This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST  
+Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings.  
+To book an online assessment Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca  
+In the email subject, please write: New Assessment Appointment with Dr. Hussein  
+Important: This appointment is completely online as Dr. Hussein is currently working overseas.  
+This service is not covered by OHIP  
 ---
