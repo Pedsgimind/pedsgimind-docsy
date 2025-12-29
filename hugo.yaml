@@ -1,5 +1,7 @@
 baseURL: "https://blog.pedsgimind.ca/"
-title: "PedsGIMind — Pediatric GI, Liver & Nutrition Blog By Dr. Mohammad Hussein, MD, FRCPC"
+title: "Pediatric GI, Liver & Nutrition Blog - Parents' Guide"
+params:
+  headerLine2: "By Dr. Mohammad Hussein, MD, FRCPC"
 
 pagination:
   pagerSize: 10
