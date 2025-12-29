@@ -1,5 +1,7 @@
 baseURL: "https://blog.pedsgimind.ca/"
-title: "Pediatric GI, Liver & Nutrition Blog - Parents' Guide"
+
+title: "Pediatric GI, Liver & Nutrition Blog - Parents' Guides"
+
 
 pagination:
   pagerSize: 10
@@ -79,6 +81,3 @@ mediaTypes:
     suffixes: ["woff2"]
   application/font-woff:
     suffixes: ["woff"]
-
-  customJS:
-    - js/print.js
