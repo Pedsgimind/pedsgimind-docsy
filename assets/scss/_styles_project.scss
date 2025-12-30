@@ -1,7 +1,8 @@
-.td-heading-self-link,
+td-heading-self-link,
 .headerlink {
   display: none !important;
 }
+
 /* --- iPhone/Safari header cropping + horizontal shift fix --- */
 html, body {
   width: 100%;
@@ -21,9 +22,19 @@ header, nav, .navbar, .site-header, .header, .td-navbar {
   max-width: 100% !important;
 }
 
-/* iPhone notch / safe-area padding */
+/* iPhone notch / safe-area padding (libsass-safe: uses calc + env/constant) */
 header, nav, .navbar, .site-header, .header, .td-navbar {
-  padding-left: max(12px, env(safe-area-inset-left));
-  padding-right: max(12px, env(safe-area-inset-right));
+  /* fallback */
+  padding-left: 12px;
+  padding-right: 12px;
+
+  /* older iOS (optional but safe) */
+  padding-left: calc(12px + constant(safe-area-inset-left));
+  padding-right: calc(12px + constant(safe-area-inset-right));
+  padding-top: constant(safe-area-inset-top);
+
+  /* modern iOS */
+  padding-left: calc(12px + env(safe-area-inset-left));
+  padding-right: calc(12px + env(safe-area-inset-right));
   padding-top: env(safe-area-inset-top);
 }
