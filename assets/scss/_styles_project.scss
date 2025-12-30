@@ -38,3 +38,61 @@ header, nav, .navbar, .site-header, .header, .td-navbar {
   padding-right: calc(12px + env(safe-area-inset-right));
   padding-top: env(safe-area-inset-top);
 }
+/* =========================================================
+   iPhone Safari: stop horizontal drift + prevent navbar clip
+   ========================================================= */
+
+/* Force-disable any horizontal scrolling everywhere */
+html, body {
+  overflow-x: hidden !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+body {
+  margin: 0 !important;
+  position: relative;
+}
+
+/* Common Docsy wrappers that can cause overflow */
+.td-main,
+.td-content,
+.td-page,
+.td-default,
+.td-navbar-nav-scroll {
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+}
+
+/* If the navbar is shifted by transform/positioning, pin it */
+.td-navbar,
+.navbar {
+  left: 0 !important;
+  right: 0 !important;
+  transform: none !important;
+}
+
+/* Bootstrap containers sometimes introduce negative margin/padding issues */
+.td-navbar .container,
+.td-navbar .container-fluid {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: 100% !important;
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
+
+/* The site title is likely too long for one line on iPhone — allow wrap */
+.td-navbar .navbar-brand {
+  white-space: normal !important;
+  line-height: 1.15;
+  max-width: 100% !important;
+  overflow: visible !important;
+}
+
+/* Optional: slightly reduce title size on very small screens */
+@media (max-width: 420px) {
+  .td-navbar .navbar-brand {
+    font-size: 0.95rem;
+  }
+}
