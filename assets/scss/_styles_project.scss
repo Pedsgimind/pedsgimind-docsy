@@ -2,3 +2,28 @@
 .headerlink {
   display: none !important;
 }
+/* --- iPhone/Safari header cropping + horizontal shift fix --- */
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* If your header/nav uses 100vw anywhere, force it back to 100% */
+header, nav, .navbar, .site-header, .header, .td-navbar {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* iPhone notch / safe-area padding */
+header, nav, .navbar, .site-header, .header, .td-navbar {
+  padding-left: max(12px, env(safe-area-inset-left));
+  padding-right: max(12px, env(safe-area-inset-right));
+  padding-top: env(safe-area-inset-top);
+}
