@@ -128,9 +128,13 @@ nav,
   .td-navbar .navbar-brand {
     font-size: 0.95rem;
   }
-/* Palette A: subtle highlight styling */
-mark,
-.td-content .badge-warning,
-.td-content .alert-warning {
-  background: #F59E0B !important;
+}
+/* Palette C: neutral surfaces */
+.td-content,
+.td-main,
+.card,
+.td-box,
+.alert,
+blockquote {
+  background: #F5F5F4;
 }
