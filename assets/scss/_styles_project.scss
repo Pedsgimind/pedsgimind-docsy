@@ -96,3 +96,16 @@ body {
     font-size: 0.95rem;
   }
 }
+/* Hide the little # anchor link that appears next to headings */
+.td-content .td-heading-self-link,
+.td-content .headerlink,
+.td-content a[href^="#"].td-heading-self-link,
+.td-content a.td-heading-self-link {
+  display: none !important;
+}
+
+.td-content .td-heading-self-link::before,
+.td-content .td-heading-self-link::after {
+  display: none !important;
+  content: "" !important;
+}
