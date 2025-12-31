@@ -1,16 +1,16 @@
 /* =========================
    Project theme colors
-   Palette C (gentle clinic)
+   Palette A (medical + friendly)
    ========================= */
 
-$primary:    #1E3A8A;  // Deep blue
-$secondary:  #FBBF24;  // Sunflower (accent)
-$info:       #FBBF24;  // Accent for callouts (optional)
+$primary:    #0F766E;  // Teal (nav/buttons)
+$secondary:  #2563EB;  // Sky blue
+$info:       #2563EB;  // Optional: info callouts
+$warning:    #F59E0B;  // Warm amber (highlights)
 $success:    #16A34A;
-$warning:    #FBBF24;
 $danger:     #DC2626;
 
-$body-bg:    #FFFBEB;  // Background
-$body-color: #1F2937;  // Text
+$body-bg:    #FAFAF9;  // Warm white background
+$body-color: #0F172A;  // Slate text
 
-$link-color: $primary;
+$link-color: $secondary;
