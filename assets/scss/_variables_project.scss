@@ -1,21 +1,16 @@
 /* =========================
    Project theme colors
-   Palette B
+   Palette C (gentle clinic)
    ========================= */
 
-$primary:   #1D4ED8;  // Royal blue
-$secondary: #FB7185;  // Coral (accent)
-$success:   #34D399;  // Mint (support)
-$info:      #34D399;  // Mint (optional)
-$warning:   #FB7185;  // Coral (optional)
-$danger:    #DC2626;
+$primary:    #1E3A8A;  // Deep blue
+$secondary:  #FBBF24;  // Sunflower (accent)
+$info:       #FBBF24;  // Accent for callouts (optional)
+$success:    #16A34A;
+$warning:    #FBBF24;
+$danger:     #DC2626;
 
-$body-bg:   #F8FAFC;  // Background
-$body-color:#111827;  // Text
+$body-bg:    #FFFBEB;  // Background
+$body-color: #1F2937;  // Text
 
 $link-color: $primary;
-/* Palette B: enforce page background + text */
-body {
-  background: #F8FAFC !important;
-  color: #111827 !important;
-}
