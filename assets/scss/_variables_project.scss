@@ -1,16 +1,21 @@
 /* =========================
    Project theme colors
-   Palette A (medical + friendly)
+   Palette B
    ========================= */
 
-$primary:    #0F766E;  // Teal (nav/buttons)
-$secondary:  #2563EB;  // Sky blue
-$info:       #2563EB;  // Optional: info callouts
-$warning:    #F59E0B;  // Warm amber (highlights)
-$success:    #16A34A;
-$danger:     #DC2626;
+$primary:   #1D4ED8;  // Royal blue
+$secondary: #FB7185;  // Coral (accent)
+$success:   #34D399;  // Mint (support)
+$info:      #34D399;  // Mint (optional)
+$warning:   #FB7185;  // Coral (optional)
+$danger:    #DC2626;
 
-$body-bg:    #FAFAF9;  // Warm white background
-$body-color: #0F172A;  // Slate text
+$body-bg:   #F8FAFC;  // Background
+$body-color:#111827;  // Text
 
-$link-color: $secondary;
+$link-color: $primary;
+/* Palette B: enforce page background + text */
+body {
+  background: #F8FAFC !important;
+  color: #111827 !important;
+}
