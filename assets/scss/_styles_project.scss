@@ -109,3 +109,23 @@ body {
   display: none !important;
   content: "" !important;
 }
+/* ===========================
+   Hide the heading “#” links
+   (Docsy uses td-heading-self-link and often AnchorJS)
+   =========================== */
+
+.td-content .td-heading-self-link,
+.td-content .headerlink,
+.td-content a.td-heading-self-link,
+.td-content .anchorjs-link,
+.td-content a.anchorjs-link {
+  display: none !important;
+}
+
+.td-content .td-heading-self-link::before,
+.td-content .td-heading-self-link::after,
+.td-content .anchorjs-link::before,
+.td-content .anchorjs-link::after {
+  content: "" !important;
+  display: none !important;
+}
