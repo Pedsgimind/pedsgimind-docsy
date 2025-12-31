@@ -1,13 +1,51 @@
-td-heading-self-link,
+/* =========================================================
+   Docsy: remove heading anchor links (#) in public view
+   ========================================================= */
+
+/* Docsy/Markdown heading self-links (varies by version) */
+.td-content .td-heading-self-link,
+.td-content a.td-heading-self-link,
+.td-content .headerlink,
+.td-content a.headerlink,
+.td-heading-self-link,
 .headerlink {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Docsy often uses AnchorJS for the visible “#” */
+.td-content .anchorjs-link,
+.td-content a.anchorjs-link,
+.anchorjs-link,
+a.anchorjs-link {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Extra safety: if anchors appear only on hover */
+.td-content h1:hover .anchorjs-link,
+.td-content h2:hover .anchorjs-link,
+.td-content h3:hover .anchorjs-link,
+.td-content h4:hover .anchorjs-link,
+.td-content h5:hover .anchorjs-link,
+.td-content h6:hover .anchorjs-link {
   display: none !important;
 }
 
-/* --- iPhone/Safari header cropping + horizontal shift fix --- */
-html, body {
+/* =========================================================
+   iPhone/Safari: header cropping + horizontal shift fix
+   ========================================================= */
+
+/* Force-disable any horizontal scrolling everywhere */
+html,
+body {
   width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
+  margin: 0 !important;
+  position: relative;
 }
 
 *,
@@ -17,13 +55,23 @@ html, body {
 }
 
 /* If your header/nav uses 100vw anywhere, force it back to 100% */
-header, nav, .navbar, .site-header, .header, .td-navbar {
+header,
+nav,
+.navbar,
+.site-header,
+.header,
+.td-navbar {
   width: 100% !important;
   max-width: 100% !important;
 }
 
 /* iPhone notch / safe-area padding (libsass-safe: uses calc + env/constant) */
-header, nav, .navbar, .site-header, .header, .td-navbar {
+header,
+nav,
+.navbar,
+.site-header,
+.header,
+.td-navbar {
   /* fallback */
   padding-left: 12px;
   padding-right: 12px;
@@ -37,21 +85,6 @@ header, nav, .navbar, .site-header, .header, .td-navbar {
   padding-left: calc(12px + env(safe-area-inset-left));
   padding-right: calc(12px + env(safe-area-inset-right));
   padding-top: env(safe-area-inset-top);
-}
-/* =========================================================
-   iPhone Safari: stop horizontal drift + prevent navbar clip
-   ========================================================= */
-
-/* Force-disable any horizontal scrolling everywhere */
-html, body {
-  overflow-x: hidden !important;
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-body {
-  margin: 0 !important;
-  position: relative;
 }
 
 /* Common Docsy wrappers that can cause overflow */
@@ -82,7 +115,7 @@ body {
   padding-right: 12px !important;
 }
 
-/* The site title is likely too long for one line on iPhone — allow wrap */
+/* Site title wrap on small screens */
 .td-navbar .navbar-brand {
   white-space: normal !important;
   line-height: 1.15;
@@ -95,37 +128,4 @@ body {
   .td-navbar .navbar-brand {
     font-size: 0.95rem;
   }
-}
-/* Hide the little # anchor link that appears next to headings */
-.td-content .td-heading-self-link,
-.td-content .headerlink,
-.td-content a[href^="#"].td-heading-self-link,
-.td-content a.td-heading-self-link {
-  display: none !important;
-}
-
-.td-content .td-heading-self-link::before,
-.td-content .td-heading-self-link::after {
-  display: none !important;
-  content: "" !important;
-}
-/* ===========================
-   Hide the heading “#” links
-   (Docsy uses td-heading-self-link and often AnchorJS)
-   =========================== */
-
-.td-content .td-heading-self-link,
-.td-content .headerlink,
-.td-content a.td-heading-self-link,
-.td-content .anchorjs-link,
-.td-content a.anchorjs-link {
-  display: none !important;
-}
-
-.td-content .td-heading-self-link::before,
-.td-content .td-heading-self-link::after,
-.td-content .anchorjs-link::before,
-.td-content .anchorjs-link::after {
-  content: "" !important;
-  display: none !important;
 }
