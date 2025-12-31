@@ -1,4 +1,11 @@
-/*
-Projects can override this file. For details, see:
-https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
-*/
+/* Project color overrides (Docsy/Bootstrap) */
+
+$primary:   #0F766E;  // teal
+$secondary: #2563EB;  // blue
+$info:      #F59E0B;  // warm accent
+$success:   #16A34A;
+$warning:   #F59E0B;
+$danger:    #DC2626;
+
+/* Optional: link color to match theme */
+$link-color: $secondary;
