@@ -1,11 +1,21 @@
-/* Project color overrides (Docsy/Bootstrap) */
+/* =========================
+   Project theme colors
+   Palette B
+   ========================= */
 
-$primary:   #0F766E;  // teal
-$secondary: #2563EB;  // blue
-$info:      #F59E0B;  // warm accent
-$success:   #16A34A;
-$warning:   #F59E0B;
+$primary:   #1D4ED8;  // Royal blue
+$secondary: #FB7185;  // Coral (accent)
+$success:   #34D399;  // Mint (support)
+$info:      #34D399;  // Mint (optional)
+$warning:   #FB7185;  // Coral (optional)
 $danger:    #DC2626;
 
-/* Optional: link color to match theme */
-$link-color: $secondary;
+$body-bg:   #F8FAFC;  // Background
+$body-color:#111827;  // Text
+
+$link-color: $primary;
+/* Palette B: enforce page background + text */
+body {
+  background: #F8FAFC !important;
+  color: #111827 !important;
+}
