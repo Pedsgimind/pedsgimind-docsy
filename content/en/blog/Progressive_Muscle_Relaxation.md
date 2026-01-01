@@ -43,7 +43,7 @@ It’s like learning to **turn off** tight muscles that stay “on” during str
 
 ---
 
-## 3) ?? Why it helps
+## 3) 🧩 Why it helps
 Stress often causes:
 - muscle guarding (including belly muscles)
 - shallow breathing
@@ -161,3 +161,4 @@ Supports—not replaces—medical care.
 > ---
 > **This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings. To book an online assessment Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca In the email subject, please write: New Assessment Appointment with Dr. Hussein Important: This appointment is completely online as Dr. Hussein is currently working overseas. This service is not covered by OHIP**
 > ---
+
