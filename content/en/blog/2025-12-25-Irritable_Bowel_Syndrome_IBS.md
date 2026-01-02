@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Irritable Bowel Syndrome IBS"
+slug: "irritable-bowel-syndrome-ibs"
 ---
 
 # 🌀💛 Irritable Bowel Syndrome (IBS) in Children: A Parent-Friendly Guide

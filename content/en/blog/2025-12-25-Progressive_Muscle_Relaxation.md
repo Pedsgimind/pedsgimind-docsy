@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Progressive Muscle Relaxation"
+slug: "progressive-muscle-relaxation"
 ---
 
 # 💪🧘 Progressive Muscle Relaxation (PMR) for Kids  

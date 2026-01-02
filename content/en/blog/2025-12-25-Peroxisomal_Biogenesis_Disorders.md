@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Peroxisomal Biogenesis Disorders"
+slug: "peroxisomal-biogenesis-disorders"
 ---
 
 # 🧒🧬 Peroxisomal Biogenesis Disorders (PBDs): A Parent-Friendly Guide

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Parenteral Nutrition"
+slug: "parenteral-nutrition"
 ---
 
 # 🧒💉 Parenteral Nutrition (TPN) in Children: The Complete Parent-Friendly Guide

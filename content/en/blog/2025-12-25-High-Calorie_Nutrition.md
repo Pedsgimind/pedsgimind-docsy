@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "High Calorie Nutrition"
+slug: "high-calorie-nutrition"
 ---
 
 # 🧒⚡ High-Calorie Nutrition for Kids: Safe Weight Gain and Better Growth (Parent-Friendly Guide)

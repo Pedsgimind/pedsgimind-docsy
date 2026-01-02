@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Nutrition Enteral"
+slug: "nutrition-enteral"
 ---
 
 # 🧒🧃 Enteral Nutrition in Children: Tube Feeding Explained (Parent-Friendly Guide)

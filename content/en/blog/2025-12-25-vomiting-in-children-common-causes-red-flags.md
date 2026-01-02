@@ -5,6 +5,7 @@ draft: false
 description: "A parent-friendly guide to vomiting across ages: newborn spit-up vs dangerous vomiting, toddler dehydration signs, and older-child causes like viruses, migraine, constipation, and appendicitis—plus clear red flags and home-care steps."
 categories: ["Education"]
 tags: ["Vomiting", "Dehydration", "Abdominal Pain", "Appendicitis", "Newborn", "Toddler", "Pediatric Gastroenterology"]
+slug: "vomiting-in-children-common-causes-red-flags"
 ---
 
 # 🤢 Vomiting in Children (Newborns → Teens)

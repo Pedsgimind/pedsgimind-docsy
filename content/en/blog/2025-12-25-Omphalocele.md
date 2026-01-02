@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Omphalocele"
+slug: "omphalocele"
 ---
 
 # 🍼🧡 Omphalocele in Babies: A Parent-Friendly Guide

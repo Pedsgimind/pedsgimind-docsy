@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Liver Biopsy"
+slug: "liver-biopsy"
 ---
 
 # 🧪🩺 Liver Biopsy in Children: A Parent-Friendly Guide

@@ -5,6 +5,7 @@ draft: false
 description: "A parent-friendly guide to choking, food-stuck symptoms (dysphagia), and globus sensation. Includes red flags and what evaluation may be needed."
 categories: ["Education"]
 tags: ["Choking", "Dysphagia", "Food Stuck", "Globus", "EoE"]
+slug: "choking-vs-dysphagia-vs-globus-in-children"
 ---
 
 # 😮‍💨🍽️ Choking vs Dysphagia vs Globus in Children  

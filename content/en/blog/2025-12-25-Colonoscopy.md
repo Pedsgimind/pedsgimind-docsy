@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Colonoscopy"
+slug: "colonoscopy"
 ---
 
 # 🧒🧪 Colonoscopy in Children: A Parent-Friendly Guide

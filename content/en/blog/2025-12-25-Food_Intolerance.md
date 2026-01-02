@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Food Intolerance"
+slug: "food-intolerance"
 ---
 
 # 🍽️😣 Food Intolerance in Children: Symptoms, Triggers, and What to Do

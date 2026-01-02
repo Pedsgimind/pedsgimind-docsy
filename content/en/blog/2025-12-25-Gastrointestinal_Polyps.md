@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gastrointestinal Polyps"
+slug: "gastrointestinal-polyps"
 ---
 
 # 🧒🩸 Gastrointestinal Polyps in Children: Causes, Symptoms, and What to Expect

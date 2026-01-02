@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Transnasal Endoscopy"
+slug: "transnasal-endoscopy"
 ---
 
 # 🧒👃📷 Transnasal Endoscopy in Children: A Parent-Friendly Guide

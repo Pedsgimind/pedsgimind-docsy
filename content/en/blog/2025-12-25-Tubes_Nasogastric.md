@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Tubes Nasogastric"
+slug: "tubes-nasogastric"
 ---
 
 # 🧒👃🧪 Nasogastric (NG) Tubes: Daily Care, Safety Checks, and Troubleshooting (Parent-Friendly Guide)

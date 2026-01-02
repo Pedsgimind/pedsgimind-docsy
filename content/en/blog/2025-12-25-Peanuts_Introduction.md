@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Peanuts Introduction"
+slug: "peanuts-introduction"
 ---
 
 # 🥜👶 Introducing Peanut Safely to Babies: A Step-by-Step Parent Guide

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Solids Introduction"
+slug: "solids-introduction"
 ---
 
 # 🧒🍌 Starting Solid Foods (Solids Introduction): A Parent-Friendly Guide

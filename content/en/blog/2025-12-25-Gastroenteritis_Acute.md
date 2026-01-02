@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gastroenteritis Acute"
+slug: "gastroenteritis-acute"
 ---
 
 Gastroenteritis_Acute.md 

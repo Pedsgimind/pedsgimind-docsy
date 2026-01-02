@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Progressive Familial Intrahepatic Cholestasis PFIC"
+slug: "progressive-familial-intrahepatic-cholestasis-pfic"
 ---
 
 # 🧒🟡🧬 Progressive Familial Intrahepatic Cholestasis (PFIC): A Parent-Friendly Guide

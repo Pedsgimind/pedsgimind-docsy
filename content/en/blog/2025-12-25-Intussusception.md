@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Intussusception"
+slug: "intussusception"
 ---
 
 # 🧒🚑 Intussusception in Children: A Parent-Friendly Guide

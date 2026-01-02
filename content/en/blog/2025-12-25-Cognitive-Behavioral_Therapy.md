@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Cognitive Behavioral Therapy"
+slug: "cognitive-behavioral-therapy"
 ---
 
 # 🧠✅ Cognitive-Behavioral Therapy (CBT) for Kids with Belly Pain  

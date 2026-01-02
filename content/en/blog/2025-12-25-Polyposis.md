@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Polyposis"
+slug: "polyposis"
 ---
 
 # 🧒🧬 Polyposis Syndromes in Children: What Parents Need to Know

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Rectal Prolapse"
+slug: "rectal-prolapse"
 ---
 
 # 🧒💩 Rectal Prolapse in Children: A Parent-Friendly Guide

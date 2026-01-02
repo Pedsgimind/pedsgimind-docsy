@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Anorectal Manometry"
+slug: "anorectal-manometry"
 ---
 
 # 🚽📊 Anorectal Manometry in Children: A Parent-Friendly Guide

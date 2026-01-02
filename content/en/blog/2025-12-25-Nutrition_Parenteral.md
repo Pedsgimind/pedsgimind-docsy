@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Nutrition Parenteral"
+slug: "nutrition-parenteral"
 ---
 
 # 🧒💉 Parenteral Nutrition (PN) in Children: Nutrition Given Through the Vein (Parent-Friendly Guide)

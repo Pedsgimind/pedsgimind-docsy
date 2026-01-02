@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Fundoplication"
+slug: "fundoplication"
 ---
 
 # 🧒🟡 Fundoplication Surgery for Reflux in Children: A Parent-Friendly Guide

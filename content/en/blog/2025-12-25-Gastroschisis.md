@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gastroschisis"
+slug: "gastroschisis"
 ---
 
 # 🍼🧡 Gastroschisis in Babies: A Parent-Friendly Guide

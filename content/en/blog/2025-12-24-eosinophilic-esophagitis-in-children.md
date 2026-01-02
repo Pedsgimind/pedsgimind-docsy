@@ -5,6 +5,7 @@ draft: false
 description: "A parent-friendly, practical guide to pediatric EoE: how it presents across ages, when food-stuck symptoms are an emergency, how diagnosis is confirmed by endoscopy/biopsies, and modern treatment options."
 categories: ["Education"]
 tags: ["Eosinophilic Esophagitis", "EoE", "Dysphagia", "Food Bolus", "Food Stuck", "Allergy", "Emergency", "Pediatric Gastroenterology"]
+slug: "eosinophilic-esophagitis-in-children"
 ---
 
 # 🥪🚫 Eosinophilic Esophagitis (EoE) in Children

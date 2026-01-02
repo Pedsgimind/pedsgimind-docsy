@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Impedance"
+slug: "impedance"
 ---
 
 # 🧒📈 Esophageal Impedance Testing (Reflux “Backflow” Measurement) in Children: A Parent-Friendly Guide

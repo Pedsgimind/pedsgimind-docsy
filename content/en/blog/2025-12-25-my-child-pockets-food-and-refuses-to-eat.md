@@ -5,6 +5,7 @@ draft: false
 description: "Food pocketing can be sensory, skill-based, anxiety-related, or medical (pain/swallowing problems). Learn red flags, common causes, and practical steps to help safely."
 categories: ["Education"]
 tags: ["Feeding Difficulties", "Picky Eating", "Food Pocketing", "Dysphagia", "Toddler", "Nutrition", "EoE", "Constipation"]
+slug: "my-child-pockets-food-and-refuses-to-eat"
 ---
 
 # 🍽️😟 My Child Pockets Food and Refuses to Eat

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Biofeedback Training"
+slug: "biofeedback-training"
 ---
 
 # 🧠📈 Biofeedback Training for Kids  

@@ -5,6 +5,7 @@ draft: false
 description: "A practical guide for parents when a child suddenly refuses solids after choking: safety first, when to worry about a medical cause, and step-by-step return to eating."
 categories: ["Education"]
 tags: ["Feeding", "Choking", "Food Refusal", "Anxiety", "Dysphagia"]
+slug: "sudden-food-refusal-after-choking"
 ---
 
 # 😰🍽️ Sudden Refusal to Eat After a Choking Episode  

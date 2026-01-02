@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Autoimmune Hepatitis"
+slug: "autoimmune-hepatitis"
 ---
 
 # 🧠🟡 Autoimmune Hepatitis in Children: A Parent-Friendly Guide

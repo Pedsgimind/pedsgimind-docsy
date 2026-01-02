@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Cows Milk Protein Allergy"
+slug: "cows-milk-protein-allergy"
 ---
 
 # 🥛🚫 Cow’s Milk Protein Allergy (CMPA) in Infants & Children: A Parent-Friendly Guide

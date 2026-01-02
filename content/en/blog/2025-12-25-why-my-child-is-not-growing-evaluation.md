@@ -5,6 +5,7 @@ draft: false
 description: "How doctors think about poor growth: nutrition, chronic disease, hormones, genetics, red flags, and what tests are commonly used."
 categories: ["Education"]
 tags: ["Growth", "Poor Weight Gain", "Short Stature", "Nutrition", "Poor Growth", "Pediatric Gastroenterology"]
+slug: "why-my-child-is-not-growing-evaluation"
 ---
 
 # 📏🌱 Why Is My Child Not Growing?

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Clostridioides Difficile Infection"
+slug: "clostridioides-difficile-infection"
 ---
 
 # 🦠🚽 Clostridioides difficile (C. diff) Infection in Children: A Parent-Friendly Guide

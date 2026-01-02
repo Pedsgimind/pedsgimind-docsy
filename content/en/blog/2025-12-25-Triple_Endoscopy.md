@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Triple Endoscopy"
+slug: "triple-endoscopy"
 ---
 
 # 🧒🫁🍽️ “Triple Endoscopy” in Children: A Parent-Friendly Guide

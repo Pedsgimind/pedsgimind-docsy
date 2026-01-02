@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Bravo Capsule Test"
+slug: "bravo-capsule-test"
 ---
 
 # 🧒📡 Bravo Capsule Test (Wireless pH Study) in Children: A Parent-Friendly Guide

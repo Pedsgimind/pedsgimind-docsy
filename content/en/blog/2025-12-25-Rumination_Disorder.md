@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Rumination Disorder"
+slug: "rumination-disorder"
 ---
 
 # 🔄🍽️ Rumination Disorder in Children: A Clear, Parent-Friendly Guide

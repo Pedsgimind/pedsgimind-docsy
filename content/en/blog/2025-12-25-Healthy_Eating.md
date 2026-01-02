@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Healthy Eating"
+slug: "healthy-eating"
 ---
 
 # 🧒🥗 Healthy Eating for Children: A Parent-Friendly, Practical Guide

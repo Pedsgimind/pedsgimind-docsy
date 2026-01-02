@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Sitz Marker Study"
+slug: "sitz-marker-study"
 ---
 
 # 🧲📆 Sitz Marker Study in Children: A Parent-Friendly Guide

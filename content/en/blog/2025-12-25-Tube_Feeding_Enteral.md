@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Tube Feeding Enteral"
+slug: "tube-feeding-enteral"
 ---
 
 # 🧒🧃 Enteral Tube Feeding in Children: A Parent-Friendly Guide

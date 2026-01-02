@@ -5,6 +5,7 @@ draft: false
 description: "A clear guide to choking (airway), food stuck (esophagus), and painful swallowing. Includes what to do immediately and when to seek urgent care."
 categories: ["Education"]
 tags: ["Choking", "Dysphagia", "Odynophagia", "Emergency", "EoE"]
+slug: "choking-vs-food-stuck-vs-painful-swallowing-parent-guide"
 ---
 
 # 🥪😮‍💨 Choking vs Food Stuck vs Painful Swallowing  

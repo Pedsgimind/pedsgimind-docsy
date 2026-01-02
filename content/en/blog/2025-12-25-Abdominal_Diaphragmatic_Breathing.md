@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Abdominal Diaphragmatic Breathing"
+slug: "abdominal-diaphragmatic-breathing"
 ---
 
 <<<<<<< HEAD

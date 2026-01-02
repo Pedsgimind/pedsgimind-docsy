@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Nasogastric Tubes"
+slug: "nasogastric-tubes"
 ---
 
 # 🧒🧪 Nasogastric (NG) Tubes in Children: A Parent-Friendly Guide

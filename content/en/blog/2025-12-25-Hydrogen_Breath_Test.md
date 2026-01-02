@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Hydrogen Breath Test"
+slug: "hydrogen-breath-test"
 ---
 
 # 🧒💨 Hydrogen Breath Test in Children: A Parent-Friendly Guide

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "pH Impedance Study"
+slug: "ph-impedance-study"
 ---
 
 # 🧒📈 pH-Impedance Study in Children: A Parent-Friendly Guide

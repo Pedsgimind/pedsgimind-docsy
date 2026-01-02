@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Reflux pH Probe Study"
+slug: "reflux-ph-probe-study"
 ---
 
 # 🧒📟 Reflux pH Probe Study in Children: A Parent-Friendly Guide

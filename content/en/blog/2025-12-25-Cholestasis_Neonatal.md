@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Cholestasis Neonatal"
+slug: "cholestasis-neonatal"
 ---
 
 # 🍼🟡 Neonatal Cholestasis in Babies: A Parent-Friendly Guide

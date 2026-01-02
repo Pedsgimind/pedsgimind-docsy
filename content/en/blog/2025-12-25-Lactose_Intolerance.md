@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Lactose Intolerance"
+slug: "lactose-intolerance"
 ---
 
 # 🥛🌀 Lactose Intolerance in Children: Symptoms, Home Care, and When to Worry

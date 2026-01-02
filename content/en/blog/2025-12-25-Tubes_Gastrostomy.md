@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Tubes Gastrostomy"
+slug: "tubes-gastrostomy"
 ---
 
 # 🧒🧷 Gastrostomy Tubes (G-Tubes): Types, Care, Troubleshooting (Parent-Friendly Guide)

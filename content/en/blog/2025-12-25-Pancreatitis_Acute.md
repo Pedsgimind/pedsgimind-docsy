@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Pancreatitis Acute"
+slug: "pancreatitis-acute"
 ---
 
 # 🧒🔥 Acute Pancreatitis in Children: A Parent-Friendly Guide

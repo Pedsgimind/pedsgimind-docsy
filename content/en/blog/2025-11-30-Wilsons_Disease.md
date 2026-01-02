@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Wilsons Disease"
+slug: "wilsons-disease"
 ---
 
 # 🧒🟡🧬 Wilson’s Disease in Children: A Parent-Friendly Guide

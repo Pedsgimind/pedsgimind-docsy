@@ -5,6 +5,7 @@ draft: false
 description: "A parent-friendly guide to celiac disease: symptoms by age, who should be tested, how testing works, and why you should not start gluten-free before testing."
 categories: ["Education"]
 tags: ["Celiac Disease", "Gluten", "Growth", "Diarrhea", "Abdominal Pain", "Iron Deficiency"]
+slug: "celiac-disease-in-children-parent-guide"
 ---
 
 # 🍞🚫 Celiac Disease in Children

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Abdominal Ultrasound"
+slug: "abdominal-ultrasound"
 ---
 
 # 🧒🩻 Abdominal Ultrasound in Children: A Parent-Friendly Guide

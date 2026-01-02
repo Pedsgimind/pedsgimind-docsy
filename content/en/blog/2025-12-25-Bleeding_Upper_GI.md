@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Bleeding Upper GI"
+slug: "bleeding-upper-gi"
 ---
 
 # 🧒🩸 Vomiting Blood or Black Stools (Upper GI Bleeding) in Children: A Parent-Friendly Guide

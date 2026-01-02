@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Vegetarian"
+slug: "vegetarian"
 ---
 
 # 🧒🥦 Vegetarian Diets for Kids: Safe Growth, Key Nutrients, and Meal Ideas (Parent-Friendly Guide)

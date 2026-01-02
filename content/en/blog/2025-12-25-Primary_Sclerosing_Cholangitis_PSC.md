@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Primary Sclerosing Cholangitis PSC"
+slug: "primary-sclerosing-cholangitis-psc"
 ---
 
 # 🧒🟡🧬 Primary Sclerosing Cholangitis (PSC) in Children: A Parent-Friendly Guide

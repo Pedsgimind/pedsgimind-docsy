@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Acupuncture and Acupressure"
+slug: "acupuncture-and-acupressure"
 ---
 
 # Acupuncture and Acupressure for Kids  

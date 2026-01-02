@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Crohns Disease"
+slug: "crohns-disease"
 ---
 
 # 🧒🔥 Crohn’s Disease in Children: A Parent-Friendly Guide

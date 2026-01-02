@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Necrotizing Enterocolitis"
+slug: "necrotizing-enterocolitis"
 ---
 
 # 🍼⚠️ Necrotizing Enterocolitis (NEC) in Babies: A Parent-Friendly Guide

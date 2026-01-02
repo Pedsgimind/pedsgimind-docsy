@@ -5,6 +5,7 @@ draft: false
 description: "A detailed guide to abdominal pain in toddlers and older children: red flags, age-specific causes, constipation algorithm, and when to consider celiac disease or IBD testing."
 categories: ["Education"]
 tags: ["Abdominal Pain", "Constipation", "Celiac", "IBD", "Appendicitis"]
+slug: "abdominal-pain-in-children-detailed-triage-algorithm"
 ---
 
 # 🤕🧒 Abdominal Pain in Children  

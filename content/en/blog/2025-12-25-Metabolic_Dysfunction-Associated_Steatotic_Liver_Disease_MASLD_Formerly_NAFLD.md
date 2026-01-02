@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Metabolic Dysfunction Associated Steatotic Liver Disease MASLD Formerly NAFLD"
+slug: "metabolic-dysfunction-associated-steatotic-liver-disease-masld-formerly-nafld"
 ---
 
 # 🧒🍔🟡 Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)  

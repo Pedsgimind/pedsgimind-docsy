@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Inflammatory Bowel Disease IBD"
+slug: "inflammatory-bowel-disease-ibd"
 ---
 
 # 🔥🧒 Inflammatory Bowel Disease (IBD) in Children: A Parent-Friendly Guide

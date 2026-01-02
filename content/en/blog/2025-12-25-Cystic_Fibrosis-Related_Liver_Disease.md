@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Cystic Fibrosis Related Liver Disease"
+slug: "cystic-fibrosis-related-liver-disease"
 ---
 
 # 🧬🫁🟡 Cystic Fibrosis–Related Liver Disease (CFLD) in Children: A Parent-Friendly Guide

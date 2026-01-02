@@ -5,6 +5,7 @@ draft: false
 description: "A practical guide for parents and clinicians to recurrent abdominal pain: red flags, common functional causes, and when to test for celiac disease, IBD, or other conditions."
 categories: ["Education"]
 tags: ["Abdominal Pain", "Functional Abdominal Pain", "IBS", "Celiac", "IBD"]
+slug: "recurrent-abdominal-pain-functional-vs-organic"
 ---
 
 # 🤕🔁 Recurrent Abdominal Pain in Children  

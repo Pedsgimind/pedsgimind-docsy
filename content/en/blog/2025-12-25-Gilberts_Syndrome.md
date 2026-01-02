@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gilberts Syndrome"
+slug: "gilberts-syndrome"
 ---
 
 # 🧒🟡 Gilbert’s Syndrome in Children: A Parent-Friendly Guide

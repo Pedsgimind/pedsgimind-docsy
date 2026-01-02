@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gastroesophageal Reflux Disease"
+slug: "gastroesophageal-reflux-disease"
 ---
 
 # 🧒🟡 Gastroesophageal Reflux Disease (GERD) in Children: A Parent-Friendly Guide

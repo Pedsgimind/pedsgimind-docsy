@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Gastrostomy Tubes"
+slug: "gastrostomy-tubes"
 ---
 
 # 🧒🧃 Gastrostomy Tubes (G-Tubes) in Children: A Parent-Friendly Guide

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Breastfeeding"
+slug: "breastfeeding"
 ---
 
 # 🧒🍼 Breastfeeding: A Parent-Friendly Guide (Latch, Supply, Pain, and When to Get Help)

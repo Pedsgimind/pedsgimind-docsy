@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Clinical Hypnosis"
+slug: "clinical-hypnosis"
 ---
 
 # 🌙🧠 Clinical Hypnosis (Gut-Directed Hypnotherapy) for Kids  

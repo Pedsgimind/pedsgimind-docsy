@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Upper Gastrointestinal Study"
+slug: "upper-gastrointestinal-study"
 ---
 
 # 🧒🩻 Upper Gastrointestinal (Upper GI) Study in Children: A Parent-Friendly Guide

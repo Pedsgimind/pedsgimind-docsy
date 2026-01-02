@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Nutrition"
+slug: "nutrition"
 ---
 
 # 🧒🥗 Nutrition for Children: A Parent-Friendly Guide to Growth, Energy, and Gut Health

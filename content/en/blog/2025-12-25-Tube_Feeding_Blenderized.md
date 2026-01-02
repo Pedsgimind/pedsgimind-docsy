@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Tube Feeding Blenderized"
+slug: "tube-feeding-blenderized"
 ---
 
 # 🧒🥣 Blenderized Tube Feeding (BTF): A Parent-Friendly Guide

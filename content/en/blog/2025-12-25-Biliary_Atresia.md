@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Biliary Atresia"
+slug: "biliary-atresia"
 ---
 
 # 🍼🟡 Biliary Atresia in Babies: A Parent-Friendly Guide

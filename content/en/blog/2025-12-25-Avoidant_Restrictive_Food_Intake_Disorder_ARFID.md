@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Avoidant Restrictive Food Intake Disorder ARFID"
+slug: "avoidant-restrictive-food-intake-disorder-arfid"
 ---
 
 # 🧒🍽️ Avoidant/Restrictive Food Intake Disorder (ARFID): A Parent-Friendly Guide

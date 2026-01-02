@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Reflux Fundoplication"
+slug: "reflux-fundoplication"
 ---
 
 # 🧒🟡 Reflux After Fundoplication (or When Fundoplication Is Considered Again): A Parent-Friendly Guide

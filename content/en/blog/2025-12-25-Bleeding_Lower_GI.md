@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Bleeding Lower GI"
+slug: "bleeding-lower-gi"
 ---
 
 # 🧒🩸 Blood in the Stool (Lower GI Bleeding) in Children: What Parents Should Know

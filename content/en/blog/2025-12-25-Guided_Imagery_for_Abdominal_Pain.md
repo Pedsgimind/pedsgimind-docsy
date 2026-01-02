@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Guided Imagery for Abdominal Pain"
+slug: "guided-imagery-for-abdominal-pain"
 ---
 
 # 🖼️🧠 Guided Imagery for Abdominal Pain in Kids  

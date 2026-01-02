@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Hirschsprungs Disease"
+slug: "hirschsprungs-disease"
 ---
 
 # 🍼💩 Hirschsprung’s Disease in Children: A Parent-Friendly Guide

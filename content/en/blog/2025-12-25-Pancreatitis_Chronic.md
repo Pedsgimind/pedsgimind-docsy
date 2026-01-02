@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Pancreatitis Chronic"
+slug: "pancreatitis-chronic"
 ---
 
 # 🧒🔥 Chronic Pancreatitis in Children: Long-Term Care, Pain Control, and Nutrition

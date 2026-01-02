@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Liver Transplantation"
+slug: "liver-transplantation"
 ---
 
 # 🫶🟡 Liver Transplantation in Children: A Parent-Friendly Guide

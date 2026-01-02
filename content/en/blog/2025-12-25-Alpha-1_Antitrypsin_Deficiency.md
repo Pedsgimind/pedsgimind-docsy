@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Alpha 1 Antitrypsin Deficiency"
+slug: "alpha-1-antitrypsin-deficiency"
 ---
 
 # 🧬🫁🟡 Alpha-1 Antitrypsin Deficiency in Children: A Parent-Friendly Guide

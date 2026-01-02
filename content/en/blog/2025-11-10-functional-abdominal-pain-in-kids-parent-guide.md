@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "functional abdominal pain in kids parent guide"
+slug: "functional-abdominal-pain-in-kids-parent-guide"
 ---
 
 # 🫁 Abdominal (Diaphragmatic) Breathing for Kids  

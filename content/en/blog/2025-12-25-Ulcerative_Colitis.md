@@ -1,5 +1,7 @@
 ---
 date: 2025-12-25
+title: "Ulcerative Colitis"
+slug: "ulcerative-colitis"
 ---
 
 # 🔴🧒 Ulcerative Colitis in Children: A Parent-Friendly Guide
