@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🥗 Healthy Eating for Children: A Parent-Friendly, Practical Guide
 
 > ✅ Healthy eating is about **patterns over time**, not perfection.  

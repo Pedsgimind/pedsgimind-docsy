@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🍼🟡 Biliary Atresia in Babies: A Parent-Friendly Guide
 
 > ⚠️ **Biliary atresia** is a **serious liver condition in newborns** where bile ducts are blocked or missing.  

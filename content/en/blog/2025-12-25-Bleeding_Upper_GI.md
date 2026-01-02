@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🩸 Vomiting Blood or Black Stools (Upper GI Bleeding) in Children: A Parent-Friendly Guide
 
 > ⚠️ **Upper GI bleeding** means bleeding from the **esophagus, stomach, or first part of the small intestine**.  

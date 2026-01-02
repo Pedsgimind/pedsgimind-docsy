@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🌙🧠 Clinical Hypnosis (Gut-Directed Hypnotherapy) for Kids  
 *A parent-friendly guide for belly pain, nausea, and the gut–brain connection*
 

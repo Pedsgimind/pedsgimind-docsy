@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧪🩺 Liver Biopsy in Children: A Parent-Friendly Guide
 
 > ✅ A **liver biopsy** is a medical test where doctors take a **very small sample of liver tissue** to look at under a microscope.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧬 Polyposis Syndromes in Children: What Parents Need to Know
 *(Multiple polyps — inherited conditions that need long-term follow-up)*
 

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧪 Nasogastric (NG) Tubes in Children: A Parent-Friendly Guide
 
 > ✅ A **nasogastric (NG) tube** is a soft, thin tube that goes **through the nose into the stomach**.  

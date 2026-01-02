@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🟡🧬 Primary Sclerosing Cholangitis (PSC) in Children: A Parent-Friendly Guide
 
 > ✅ **Primary sclerosing cholangitis (PSC)** is a condition where the body’s immune system causes **inflammation and scarring in the bile ducts** (the “drainage pipes” that carry bile from the liver to the intestine).  

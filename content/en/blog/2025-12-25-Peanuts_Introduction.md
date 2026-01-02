@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🥜👶 Introducing Peanut Safely to Babies: A Step-by-Step Parent Guide
 
 > ✅ Introducing peanut in a safe form around the time solids start (for many babies) can **lower the chance of developing peanut allergy**.  

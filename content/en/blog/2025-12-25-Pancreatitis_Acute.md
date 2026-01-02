@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🔥 Acute Pancreatitis in Children: A Parent-Friendly Guide
 *(Sudden inflammation of the pancreas)*
 

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 💪🧘 Progressive Muscle Relaxation (PMR) for Kids  
 *A parent-friendly guide to relaxing the body to calm the gut*
 

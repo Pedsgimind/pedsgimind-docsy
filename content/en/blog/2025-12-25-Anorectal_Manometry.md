@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🚽📊 Anorectal Manometry in Children: A Parent-Friendly Guide
 
 > ✅ Anorectal manometry is a **safe, specialized test** that helps doctors understand **how the rectum and anal muscles work together**.  

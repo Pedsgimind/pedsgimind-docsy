@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒💉 Parenteral Nutrition (PN) in Children: Nutrition Given Through the Vein (Parent-Friendly Guide)
 
 > ✅ **Parenteral nutrition (PN)** provides nutrition **directly into the bloodstream through a vein** when the gut cannot safely digest or absorb enough nutrients.  

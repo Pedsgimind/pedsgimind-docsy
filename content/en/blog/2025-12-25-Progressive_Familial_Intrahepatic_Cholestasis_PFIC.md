@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🟡🧬 Progressive Familial Intrahepatic Cholestasis (PFIC): A Parent-Friendly Guide
 
 > ⚠️ **Progressive Familial Intrahepatic Cholestasis (PFIC)** is a **rare genetic liver condition** that causes **severe problems with bile flow starting in infancy or early childhood**.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧬 Peroxisomal Biogenesis Disorders (PBDs): A Parent-Friendly Guide
 *(Rare inherited metabolic conditions affecting multiple body systems)*
 

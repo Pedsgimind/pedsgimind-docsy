@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🍽️ Avoidant/Restrictive Food Intake Disorder (ARFID): A Parent-Friendly Guide
 *(When eating becomes too limited for health, growth, or daily life)*
 

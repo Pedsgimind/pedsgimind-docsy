@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🍼🚨 FPIES (Food Protein–Induced Enterocolitis Syndrome): A Serious but Treatable Food Reaction in Infants & Young Children
 
 > ⚠️ FPIES is **not a typical food allergy** and often **does not cause hives or wheezing**.  

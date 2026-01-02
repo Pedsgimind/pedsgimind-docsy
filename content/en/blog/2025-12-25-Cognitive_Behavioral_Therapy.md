@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧠✅ Cognitive-Behavioral Therapy (CBT) for Kids with Belly Pain  
 *A parent-friendly guide to breaking the stress–pain cycle*
 

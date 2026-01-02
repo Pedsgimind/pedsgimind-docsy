@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🔥 Chronic Pancreatitis in Children: Long-Term Care, Pain Control, and Nutrition
 *(Ongoing inflammation and damage of the pancreas)*
 

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🔴🧒 Ulcerative Colitis in Children: A Parent-Friendly Guide
 
 > ✅ Ulcerative colitis is a type of **Inflammatory Bowel Disease (IBD)** that causes **ongoing inflammation in the colon (large intestine)**.  

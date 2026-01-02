@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🍼🧡 Gastroschisis in Babies: A Parent-Friendly Guide
 
 > ✅ **Gastroschisis** is a condition a baby is born with where the intestines develop **outside the belly through a small opening** near the belly button.  

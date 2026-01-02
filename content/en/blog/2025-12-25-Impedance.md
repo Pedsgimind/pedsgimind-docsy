@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒📈 Esophageal Impedance Testing (Reflux “Backflow” Measurement) in Children: A Parent-Friendly Guide
 
 > ✅ **Esophageal impedance testing** measures when liquid, gas, or mixed stomach contents move **up and down the esophagus**.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🟡 Fundoplication Surgery for Reflux in Children: A Parent-Friendly Guide
 
 > ✅ **Fundoplication** is a surgery that helps prevent severe **gastroesophageal reflux** (stomach contents coming back up into the esophagus).  

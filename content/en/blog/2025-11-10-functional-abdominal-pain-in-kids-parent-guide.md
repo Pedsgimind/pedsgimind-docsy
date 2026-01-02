@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🫁 Abdominal (Diaphragmatic) Breathing for Kids  
 *A parent-friendly guide to calming the gut–brain connection*
 

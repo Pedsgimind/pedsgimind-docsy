@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🫁🍽️ “Triple Endoscopy” in Children: A Parent-Friendly Guide
 *(Upper endoscopy + bronchoscopy + laryngoscopy — sometimes called “triple scope”)*
 

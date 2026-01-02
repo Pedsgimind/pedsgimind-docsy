@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒💩 Rectal Prolapse in Children: A Parent-Friendly Guide
 
 > ✅ **Rectal prolapse** means the lining (or sometimes the full thickness) of the rectum temporarily **slides out through the anus**, often during straining.  

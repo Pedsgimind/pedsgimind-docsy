@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🥛🚫 Cow’s Milk Protein Allergy (CMPA) in Infants & Children: A Parent-Friendly Guide
 
 > ✅ Cow’s Milk Protein Allergy (CMPA) is one of the most common food allergies in infancy.  

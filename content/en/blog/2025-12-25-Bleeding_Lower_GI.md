@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🩸 Blood in the Stool (Lower GI Bleeding) in Children: What Parents Should Know
 
 > ✅ Seeing blood in your child’s stool is scary—but many causes are **common and treatable**, especially constipation-related small tears.  

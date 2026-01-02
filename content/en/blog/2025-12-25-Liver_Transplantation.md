@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🫶🟡 Liver Transplantation in Children: A Parent-Friendly Guide
 
 > ✅ A **liver transplant** means replacing a child’s sick liver with a healthy liver (or part of a liver) from a donor.  

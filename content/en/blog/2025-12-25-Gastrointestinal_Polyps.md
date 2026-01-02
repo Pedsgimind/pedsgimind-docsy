@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🩸 Gastrointestinal Polyps in Children: Causes, Symptoms, and What to Expect
 
 > ✅ A **polyp** is a small growth on the inside lining of the bowel (most often the colon).  

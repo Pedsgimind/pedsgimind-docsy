@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🍼 Breastfeeding: A Parent-Friendly Guide (Latch, Supply, Pain, and When to Get Help)
 
 > ✅ Breastfeeding is a learned skill—for both parent and baby.  

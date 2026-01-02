@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧬🫁🟡 Alpha-1 Antitrypsin Deficiency in Children: A Parent-Friendly Guide
 
 > ✅ Alpha-1 antitrypsin deficiency (often called **A1AT deficiency**) is a **genetic condition** that can affect the **liver** (in babies/children) and the **lungs** (usually later in life).  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧲📆 Sitz Marker Study in Children: A Parent-Friendly Guide
 
 > ✅ A Sitz Marker Study is a **simple, low-risk X-ray test** that shows **how stool moves through your child’s colon over several days**.  

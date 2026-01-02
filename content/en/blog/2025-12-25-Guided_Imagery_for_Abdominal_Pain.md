@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🖼️🧠 Guided Imagery for Abdominal Pain in Kids  
 *A parent-friendly guide to calming the gut with safe mental pictures*
 

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧃 Enteral Tube Feeding in Children: A Parent-Friendly Guide
 *(Nutrition delivered through a feeding tube using the digestive system)*
 

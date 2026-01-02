@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒📟 Reflux pH Probe Study in Children: A Parent-Friendly Guide
 
 > ✅ A **pH probe study** measures how often **acid** from the stomach comes up into the esophagus over ~24 hours.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🔥🧒 Inflammatory Bowel Disease (IBD) in Children: A Parent-Friendly Guide
 
 > ✅ Inflammatory Bowel Disease (IBD) is a **chronic condition** where the immune system causes **ongoing inflammation in the digestive tract**.  

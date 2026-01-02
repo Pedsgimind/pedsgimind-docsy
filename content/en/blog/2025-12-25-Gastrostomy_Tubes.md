@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧃 Gastrostomy Tubes (G-Tubes) in Children: A Parent-Friendly Guide
 
 > ✅ A **gastrostomy tube (G-tube)** is a feeding tube that goes directly into the **stomach** through a small opening in the belly.  

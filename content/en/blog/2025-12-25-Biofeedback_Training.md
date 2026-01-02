@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧠📈 Biofeedback Training for Kids  
 *A parent-friendly guide to learning body control for pain, nausea, and stress tummy*
 

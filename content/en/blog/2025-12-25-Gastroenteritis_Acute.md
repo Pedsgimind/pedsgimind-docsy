@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 Gastroenteritis_Acute.md 
 # 🤮💧 Acute Gastroenteritis in Children (Stomach Bug): Home Care + Red Flags
 

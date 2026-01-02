@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🩻 Abdominal Ultrasound in Children: A Parent-Friendly Guide
 
 > ✅ **Abdominal ultrasound** is a safe, painless imaging test that uses **sound waves (not radiation)** to look at organs inside your child’s belly.  

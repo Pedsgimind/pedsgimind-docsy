@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🍌 Starting Solid Foods (Solids Introduction): A Parent-Friendly Guide
 
 > ✅ Starting solids is an exciting step—but it should be **safe, calm, and gradual**.  

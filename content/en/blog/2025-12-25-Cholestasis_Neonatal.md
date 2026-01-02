@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🍼🟡 Neonatal Cholestasis in Babies: A Parent-Friendly Guide
 
 > ✅ **Neonatal cholestasis** means a baby has trouble with **bile flow** from the liver.  

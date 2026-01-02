@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🟡 Gastroesophageal Reflux Disease (GERD) in Children: A Parent-Friendly Guide
 
 > ✅ **Reflux** is when stomach contents come back up into the esophagus.  

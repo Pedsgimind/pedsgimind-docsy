@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🦠🚽 Clostridioides difficile (C. diff) Infection in Children: A Parent-Friendly Guide
 
 > ✅ **Clostridioides difficile (C. diff)** is a germ that can cause **diarrhea and colon inflammation**, most often **after antibiotic use**.  

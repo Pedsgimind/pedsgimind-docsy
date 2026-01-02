@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒⚡ High-Calorie Nutrition for Kids: Safe Weight Gain and Better Growth (Parent-Friendly Guide)
 
 > ✅ Some children need **extra calories** to grow well—because they eat small amounts, burn lots of energy, have chronic illness, or have feeding difficulties.  

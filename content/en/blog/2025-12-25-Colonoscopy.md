@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧪 Colonoscopy in Children: A Parent-Friendly Guide
 
 > ✅ A **colonoscopy** is a test that lets doctors look **inside the large intestine (colon)** using a thin flexible camera.  

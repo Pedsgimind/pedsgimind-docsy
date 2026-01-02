@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒💨 Hydrogen Breath Test in Children: A Parent-Friendly Guide
 
 > ✅ A **hydrogen breath test** helps doctors figure out whether your child has trouble digesting certain sugars (like **lactose** or **fructose**) or has **small intestinal bacterial overgrowth (SIBO)**.  

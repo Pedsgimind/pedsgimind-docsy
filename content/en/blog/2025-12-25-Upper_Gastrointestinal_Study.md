@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🩻 Upper Gastrointestinal (Upper GI) Study in Children: A Parent-Friendly Guide
 *(Barium swallow / Upper GI series)*
 

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🍼🧡 Omphalocele in Babies: A Parent-Friendly Guide
 
 > ✅ **Omphalocele** is a condition a baby is born with where **abdominal organs (often intestines and sometimes liver)** remain **inside a thin protective sac** at the belly button.  

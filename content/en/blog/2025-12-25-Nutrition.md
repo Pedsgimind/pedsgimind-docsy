@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🥗 Nutrition for Children: A Parent-Friendly Guide to Growth, Energy, and Gut Health
 
 > ✅ **Nutrition** means giving your child the **right balance of calories, protein, vitamins, and minerals** to support growth, brain development, immunity, and digestion.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # Acupuncture and Acupressure for Kids  
 *A parent-friendly guide to pain and nausea support (with safety tips)*
 

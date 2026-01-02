@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🔄🍽️ Rumination Disorder in Children: A Clear, Parent-Friendly Guide
 
 > ✅ Rumination disorder is a **real and treatable** condition where food is **effortlessly brought back up into the mouth** after eating, then re-swallowed or spit out.  

@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🔥 Crohn’s Disease in Children: A Parent-Friendly Guide
 
 > ✅ Crohn’s disease is a type of **Inflammatory Bowel Disease (IBD)** where the immune system causes **ongoing inflammation** in the digestive tract.  

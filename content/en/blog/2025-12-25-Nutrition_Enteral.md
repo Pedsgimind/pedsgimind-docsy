@@ -1,3 +1,7 @@
+---
+date: 2025-12-25
+---
+
 # 🧒🧃 Enteral Nutrition in Children: Tube Feeding Explained (Parent-Friendly Guide)
 
 > ✅ **Enteral nutrition** means giving nutrition **into the stomach or intestines** using a feeding tube (or sometimes as a formula-only plan by mouth).  
