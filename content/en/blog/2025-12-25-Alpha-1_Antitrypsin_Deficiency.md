@@ -1,7 +1,7 @@
 ---
 date: 2025-12-25
-title: "Alpha 1 Antitrypsin Deficiency"
-slug: "alpha-1-antitrypsin-deficiency"
+title: "Alpha1 Antitrypsin Deficiency"
+slug: "alpha1-antitrypsin-deficiency"
 ---
 
 # 🧬🫁🟡 Alpha-1 Antitrypsin Deficiency in Children: A Parent-Friendly Guide
@@ -390,12 +390,6 @@ Date: ______
 
 **Last reviewed/updated on:** 2025-12-30  
 *Local guidance may differ based on your child’s genotype and liver status.*
-
----
-
-## 18) 🧡 Safety disclaimer (short, not scary)
-
-This guide supports—not replaces—medical advice. Seek urgent care for bleeding, severe lethargy/confusion, or severe abdominal swelling.
 
 ---
 
