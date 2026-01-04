@@ -1,0 +1,33 @@
+Repo: C:/Users/Mohammad/Documents/Blog/pedsgimind-docsy
+Date: Sun Jan  4 17:31:33 EST 2026
+----------------------------------------
+Detected framework: hugo
+Base URL hint: (not found)
+Created branch: logo-fix-20260104-173134
+----------------------------------------
+Searching for logo files...
+Found these logo candidates:
+     1	./assets/icons/logo.png
+     2	./static/favicon-16x16.png
+     3	./static/favicon-32x32.png
+     4	./static/images/brand-logo.png
+     5	./static/images/logo.png
+----------------------------------------
+Searching for header/nav files...
+Header/nav candidates (pick the one that renders the top blue bar):
+     1	./content/en/blog/2025-12-25-Autism.md
+     2	./content/en/blog/2025-12-25-Avoidant_Restrictive_Food_Intake_Disorder_ARFID.md
+     3	./layouts/partials/navbar-brand.html
+     4	layouts/partials/navbar-brand.html
+----------------------------------------
+Chosen header file: layouts/partials/navbar-brand.html
+Chosen logo source: ./static/images/brand-logo.png
+Copied logo to: static/images/logo.png (Hugo publishes /images/... from static/)
+Using logo URL: {{ "images/logo.png" | relURL }}
+Patching header file to insert logo...
+WARNING: Could not auto-insert logo in layouts/partials/navbar-brand.html. It may use different markup.
+Open layouts/partials/navbar-brand.html and search for the site title text and add: <img src="{{ "images/logo.png" | relURL }}" alt="Logo" class="site-logo">
+Adding .site-logo styles...
+Appended .site-logo styles to: assets/scss/_styles_project.scss
+----------------------------------------
+DONE. Review changes below.
