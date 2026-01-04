@@ -1,9 +1,9 @@
 Repo: C:/Users/Mohammad/Documents/Blog/pedsgimind-docsy
-Date: Sun Jan  4 17:31:33 EST 2026
+Date: Sun Jan  4 17:41:33 EST 2026
 ----------------------------------------
 Detected framework: hugo
 Base URL hint: (not found)
-Created branch: logo-fix-20260104-173134
+Created branch: logo-fix-20260104-174134
 ----------------------------------------
 Searching for logo files...
 Found these logo candidates:
@@ -28,6 +28,6 @@ Patching header file to insert logo...
 WARNING: Could not auto-insert logo in layouts/partials/navbar-brand.html. It may use different markup.
 Open layouts/partials/navbar-brand.html and search for the site title text and add: <img src="{{ "images/logo.png" | relURL }}" alt="Logo" class="site-logo">
 Adding .site-logo styles...
-Appended .site-logo styles to: assets/scss/_styles_project.scss
+.site-logo already exists in assets/scss/_styles_project.scss (not duplicating).
 ----------------------------------------
 DONE. Review changes below.
