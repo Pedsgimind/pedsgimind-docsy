@@ -4,9 +4,6 @@ title: "Abdominal Diaphragmatic Breathing"
 slug: "abdominal-diaphragmatic-breathing"
 ---
 
-<<<<<<< HEAD
-
-=======
 # 🫁 Abdominal (Diaphragmatic) Breathing for Kids  
 *A parent-friendly guide to calming the gut–brain connection*
 
