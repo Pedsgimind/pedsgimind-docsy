@@ -383,12 +383,16 @@ Flush before: ____ mL   Flush after: ____ mL
 
 ---
 
-## 18) 🧡 Safety disclaimer
+## 🧡 Safety disclaimer
 
-This guide supports—not replaces—medical advice. Seek urgent care if the tube dislodges, your child is very ill, or severe abdominal symptoms occur.
+This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.
 
 ---
 
-> ---
-> **This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings. To book an online assessment Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca In the email subject, please write: New Assessment Appointment with Dr. Hussein Important: This appointment is completely online as Dr. Hussein is currently working overseas. This service is not covered by OHIP**
-> ---
+>
+> This guide was fully developed & reviewed by Dr. Mohammad Hussein, MD, FRCPC ROYAL COLLEGE–CERTIFIED PEDIATRICIAN & PEDIATRIC GASTROENTEROLOGIST Board-certified pediatrician and pediatric gastroenterologist (Royal College of Physicians and Surgeons of Canada) with expertise in inflammatory bowel disease, eosinophilic gastrointestinal disorders, motility and functional testing, and complex nutrition across diverse international practice settings.  
+>
+> **To book an online assessment** Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca  
+> **In the email subject, please write:** New Assessment Appointment with Dr. Hussein  
+>
+> **Important:** This appointment is completely online as Dr. Hussein is currently working overseas. This service is not covered by OHIP
