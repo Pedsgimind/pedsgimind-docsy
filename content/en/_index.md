@@ -56,12 +56,10 @@ If your child is very unwell or you are unsure, **err on the side of seeking urg
 
 ## Contact
 
-If you would like to contact Dr. Mohammad Hussein’s office for an appointment, referral, or question about services, please use the clinic contact details below:
-
-- **Clinic name:** Avicenna Medical Inc – Al Farabi Gastroenterology & Endoscopy Center (Diyala Branch)  
-- **Phone:** *(add your phone number here)*  
-- **Email:** *(add your email here)*  
-- **Address:** *(add your address here)*  
+If you would like to contact Dr. Mohammad Hussein’s office for an appointment, referral, or question about services, please ** Email Dr. Hussein’s Assistant Elizabeth Gray at: Elizabeth.Gray@pedsgimind.ca  
+> **In the email subject, please write:** New Assessment Appointment with Dr. Hussein  
+>
+> **Important:** This appointment is completely online as Dr. Hussein is currently working overseas. This service is not covered by OHIP 
 
 ---
 
