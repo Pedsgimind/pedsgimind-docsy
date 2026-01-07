@@ -1,6 +1,6 @@
 /* =========================================================
    Project styles (Docsy)
-   Clean + deduplicated + includes GLOBAL navbar offset fix
+   Clean + deduplicated + includes STRONG global navbar offset fix
    ========================================================= */
 
 
@@ -121,20 +121,28 @@ nav,
 
 
 /* =========================================================
-   3) GLOBAL better fix: prevent fixed navbar covering top content
-   (This replaces the About-only spacer workaround)
+   3) GLOBAL: prevent fixed navbar from covering top content
+   (Stronger + works reliably with Docsy structure)
    ========================================================= */
 
-/* Add top padding to the main content area so headings never hide */
-.td-main main {
-  padding-top: 64px;
+:root {
+  --nav-offset: 72px;
 }
 
-/* Slightly more padding on small phones (navbar wraps more) */
 @media (max-width: 420px) {
-  .td-main main {
-    padding-top: 76px;
+  :root {
+    --nav-offset: 92px;
   }
+}
+
+/* Offset the whole page content below the fixed navbar */
+.td-main {
+  padding-top: var(--nav-offset) !important;
+}
+
+/* Also fix anchor jumps (when clicking ToC links, headings, etc.) */
+html {
+  scroll-padding-top: var(--nav-offset);
 }
 
 
@@ -173,7 +181,7 @@ blockquote {
   float: right;
   width: 300px;
 
-  /* Keeps photo inside the right-side "box" area on most phones */
+  /* Keeps photo inside the right-side area on most phones */
   max-width: 42vw;
 
   height: auto;
