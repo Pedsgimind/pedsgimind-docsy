@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Cyclic Vomiting"
 slug: "cyclic-vomiting"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # ??🤮 Cyclic Vomiting Syndrome (CVS) in Children: Episodes of Vomiting That Come and Go
 
 > ✅ Cyclic vomiting syndrome causes **repeated, stereotyped episodes** of intense vomiting separated by **normal, well periods**.  

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Intussusception"
 slug: "intussusception"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🧒🚑 Intussusception in Children: A Parent-Friendly Guide
 
 > ⚠️ **Intussusception** is when one part of the intestine **slides into another part**, like a telescope folding in.  

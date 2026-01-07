@@ -1,6 +1,7 @@
 ---
 title: "Posts by system"
 linkTitle: "Posts by system"
+layout: "posts-by-system"
 menu:
   main:
     weight: 50

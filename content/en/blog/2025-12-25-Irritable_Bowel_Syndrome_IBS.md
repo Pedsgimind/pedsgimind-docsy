@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Irritable Bowel Syndrome IBS"
 slug: "irritable-bowel-syndrome-ibs"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🌀💛 Irritable Bowel Syndrome (IBS) in Children: A Parent-Friendly Guide
 
 > ✅ IBS is a **common and real** gut condition where the intestines become **extra sensitive** and may move stool too fast, too slow, or unpredictably.  

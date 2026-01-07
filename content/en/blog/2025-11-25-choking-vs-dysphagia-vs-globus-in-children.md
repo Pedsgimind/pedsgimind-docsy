@@ -6,8 +6,8 @@ description: "A parent-friendly guide to choking, food-stuck symptoms (dysphagia
 categories: ["Education"]
 tags: ["Choking", "Dysphagia", "Food Stuck", "Globus", "EoE"]
 slug: "choking-vs-dysphagia-vs-globus-in-children"
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 😮‍💨🍽️ Choking vs Dysphagia vs Globus in Children  
 *How parents can tell the difference (and what to do today)*
 

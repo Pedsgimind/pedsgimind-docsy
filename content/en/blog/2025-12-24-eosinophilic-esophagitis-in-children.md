@@ -6,8 +6,8 @@ description: "A parent-friendly, practical guide to pediatric EoE: how it presen
 categories: ["Education"]
 tags: ["Eosinophilic Esophagitis", "EoE", "Dysphagia", "Food Bolus", "Food Stuck", "Allergy", "Emergency", "Pediatric Gastroenterology"]
 slug: "eosinophilic-esophagitis-in-children"
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🥪🚫 Eosinophilic Esophagitis (EoE) in Children
 *Symptoms by age, “food stuck” emergencies, diagnosis, and modern treatment options*
 

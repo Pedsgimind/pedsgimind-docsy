@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="td-content">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $tax := .Site.Taxonomies.systems }}
+  {{ if not $tax }}
+    <p><strong>No systems found.</strong></p>
+    <ul>
+      <li>Confirm <code>taxonomies: system: systems</code> exists in <code>hugo.yaml</code></li>
+      <li>Confirm posts contain <code>systems:</code> in front matter under <code>content/en/blog</code></li>
+    </ul>
+  {{ else }}
+    {{ range $name, $items := $tax }}
+      <hr />
+      <h2 id="{{ $name | urlize }}">{{ $name | humanize }} ({{ len $items }})</h2>
+      <ul>
+        {{ range $items }}
+          <li>
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>{{ with .Page.Date }} — <small>{{ .Format "2006-01-02" }}</small>{{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

@@ -6,8 +6,8 @@ description: "A practical guide for parents and clinicians to recurrent abdomina
 categories: ["Education"]
 tags: ["Abdominal Pain", "Functional Abdominal Pain", "IBS", "Celiac", "IBD"]
 slug: "recurrent-abdominal-pain-functional-vs-organic"
+systems: ["Liver & Biliary", "Pancreas", "Lower GI"]
 ---
-
 # 🤕🔁 Recurrent Abdominal Pain in Children  
 *Functional pain vs organic disease: red flags, constipation plan, and when testing makes sense*
 

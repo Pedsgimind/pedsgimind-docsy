@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Progressive Muscle Relaxation"
 slug: "progressive-muscle-relaxation"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 💪🧘 Progressive Muscle Relaxation (PMR) for Kids  
 *A parent-friendly guide to relaxing the body to calm the gut*
 

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "pH Impedance Study"
 slug: "ph-impedance-study"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒📈 pH-Impedance Study in Children: A Parent-Friendly Guide
 
 > ✅ A **pH-impedance study** measures **how often reflux happens**, **how high it travels**, **whether it is acidic or non-acidic**, and **whether symptoms line up with reflux events**.  

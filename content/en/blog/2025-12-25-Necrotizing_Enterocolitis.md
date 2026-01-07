@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Necrotizing Enterocolitis"
 slug: "necrotizing-enterocolitis"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🍼⚠️ Necrotizing Enterocolitis (NEC) in Babies: A Parent-Friendly Guide
 
 > ⚠️ Necrotizing enterocolitis (NEC) is a **serious intestinal condition mostly seen in premature babies**.  

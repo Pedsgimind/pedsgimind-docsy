@@ -6,8 +6,8 @@ description: "A parent-friendly guide to vomiting across ages: newborn spit-up v
 categories: ["Education"]
 tags: ["Vomiting", "Dehydration", "Abdominal Pain", "Appendicitis", "Newborn", "Toddler", "Pediatric Gastroenterology"]
 slug: "vomiting-in-children-common-causes-red-flags"
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🤢 Vomiting in Children (Newborns → Teens)
 *Common causes by age, dehydration signs, red flags, and what to do today*
 

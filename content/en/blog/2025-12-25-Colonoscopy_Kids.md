@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Colonoscopy Kids"
 slug: "colonoscopy-kids"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🌈 Colonoscopy for Kids: A Child-Friendly + Parent-Friendly Guide
 
 > ✅ A **colonoscopy** is a special camera test that lets the doctor look inside the **big intestine (colon)**.  

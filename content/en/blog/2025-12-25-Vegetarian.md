@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Vegetarian"
 slug: "vegetarian"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🥦 Vegetarian Diets for Kids: Safe Growth, Key Nutrients, and Meal Ideas (Parent-Friendly Guide)
 
 > ✅ A **vegetarian diet** can be healthy for children when it’s **planned well**.  

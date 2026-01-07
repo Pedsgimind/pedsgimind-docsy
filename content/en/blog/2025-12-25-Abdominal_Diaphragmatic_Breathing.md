@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Abdominal Diaphragmatic Breathing"
 slug: "abdominal-diaphragmatic-breathing"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🫁 Abdominal (Diaphragmatic) Breathing for Kids  
 *A parent-friendly guide to calming the gut–brain connection*
 

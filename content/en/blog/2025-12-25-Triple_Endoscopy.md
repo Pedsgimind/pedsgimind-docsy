@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Triple Endoscopy"
 slug: "triple-endoscopy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🫁🍽️ “Triple Endoscopy” in Children: A Parent-Friendly Guide
 *(Upper endoscopy + bronchoscopy + laryngoscopy — sometimes called “triple scope”)*
 

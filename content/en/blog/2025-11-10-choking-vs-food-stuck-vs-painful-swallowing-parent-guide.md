@@ -6,8 +6,8 @@ description: "A clear guide to choking (airway), food stuck (esophagus), and pai
 categories: ["Education"]
 tags: ["Choking", "Dysphagia", "Odynophagia", "Emergency", "EoE"]
 slug: "choking-vs-food-stuck-vs-painful-swallowing-parent-guide"
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🥪😮‍💨 Choking vs Food Stuck vs Painful Swallowing  
 *A parent-friendly guide to what’s happening, what to do today, and when it’s an emergency*
 

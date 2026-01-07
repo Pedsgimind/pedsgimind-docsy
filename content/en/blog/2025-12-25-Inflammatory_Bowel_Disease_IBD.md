@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Inflammatory Bowel Disease IBD"
 slug: "inflammatory-bowel-disease-ibd"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🔥🧒 Inflammatory Bowel Disease (IBD) in Children: A Parent-Friendly Guide
 
 > ✅ Inflammatory Bowel Disease (IBD) is a **chronic condition** where the immune system causes **ongoing inflammation in the digestive tract**.  

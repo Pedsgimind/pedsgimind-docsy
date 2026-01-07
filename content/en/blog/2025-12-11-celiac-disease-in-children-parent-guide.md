@@ -6,8 +6,8 @@ description: "A parent-friendly guide to celiac disease: symptoms by age, who sh
 categories: ["Education"]
 tags: ["Celiac Disease", "Gluten", "Growth", "Diarrhea", "Abdominal Pain", "Iron Deficiency"]
 slug: "celiac-disease-in-children-parent-guide"
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🍞🚫 Celiac Disease in Children
 *Symptoms, who should be tested, how testing works, and what to do next*
 

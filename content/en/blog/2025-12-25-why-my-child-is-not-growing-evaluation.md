@@ -6,8 +6,8 @@ description: "How doctors think about poor growth: nutrition, chronic disease, h
 categories: ["Education"]
 tags: ["Growth", "Poor Weight Gain", "Short Stature", "Nutrition", "Poor Growth", "Pediatric Gastroenterology"]
 slug: "why-my-child-is-not-growing-evaluation"
+systems: ["Pancreas", "Lower GI", "Upper GI"]
 ---
-
 # 📏🌱 Why Is My Child Not Growing?
 *A practical, parent-friendly guide to poor growth (newborn → teen)*
 

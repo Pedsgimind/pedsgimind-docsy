@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Hirschsprungs Disease"
 slug: "hirschsprungs-disease"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🍼💩 Hirschsprung’s Disease in Children: A Parent-Friendly Guide
 
 > ✅ **Hirschsprung’s disease** is a condition a baby is born with where a part of the large intestine (colon) is **missing nerve cells** that help push stool forward.  
