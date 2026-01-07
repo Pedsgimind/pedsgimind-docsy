@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Lactose Intolerance"
 slug: "lactose-intolerance"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🥛🌀 Lactose Intolerance in Children: Symptoms, Home Care, and When to Worry
 
 > ✅ Lactose intolerance happens when the gut doesn’t have enough **lactase**, the enzyme that digests lactose (the sugar in milk).  

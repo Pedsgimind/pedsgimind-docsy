@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Peroxisomal Biogenesis Disorders"
 slug: "peroxisomal-biogenesis-disorders"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
 ---
-
 # 🧒🧬 Peroxisomal Biogenesis Disorders (PBDs): A Parent-Friendly Guide
 *(Rare inherited metabolic conditions affecting multiple body systems)*
 

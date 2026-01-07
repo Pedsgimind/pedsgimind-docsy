@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Cystic Fibrosis Related Liver Disease"
 slug: "cystic-fibrosis-related-liver-disease"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Pancreas", "Upper GI"]
 ---
-
 # 🧬🫁🟡 Cystic Fibrosis–Related Liver Disease (CFLD) in Children: A Parent-Friendly Guide
 
 > ✅ Cystic fibrosis (CF) can affect more than the lungs. In some children, thick secretions can also affect the **liver and bile ducts**, leading to **liver inflammation, scarring, or bile flow problems**.  

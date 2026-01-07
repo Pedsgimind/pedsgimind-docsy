@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "FPIES Food ProteinInduced Enterocolitis Syndrome"
 slug: "fpies-food-proteininduced-enterocolitis-syndrome"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🍼🚨 FPIES (Food Protein–Induced Enterocolitis Syndrome): A Serious but Treatable Food Reaction in Infants & Young Children
 
 > ⚠️ FPIES is **not a typical food allergy** and often **does not cause hives or wheezing**.  

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Clostridioides Difficile Infection"
 slug: "clostridioides-difficile-infection"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🦠🚽 Clostridioides difficile (C. diff) Infection in Children: A Parent-Friendly Guide
 
 > ✅ **Clostridioides difficile (C. diff)** is a germ that can cause **diarrhea and colon inflammation**, most often **after antibiotic use**.  

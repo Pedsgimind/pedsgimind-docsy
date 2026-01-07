@@ -6,8 +6,8 @@ description: "A detailed guide to abdominal pain in toddlers and older children:
 categories: ["Education"]
 tags: ["Abdominal Pain", "Constipation", "Celiac", "IBD", "Appendicitis"]
 slug: "abdominal-pain-in-children-detailed-triage-algorithm"
+systems: ["Liver & Biliary", "Pancreas", "Lower GI"]
 ---
-
 # 🤕🧒 Abdominal Pain in Children  
 *A detailed parent guide: what to do today, red flags, constipation plan, and when to test for celiac disease or inflammatory bowel disease*
 

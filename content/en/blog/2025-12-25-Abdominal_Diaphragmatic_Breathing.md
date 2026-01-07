@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Abdominal Diaphragmatic Breathing"
 slug: "abdominal-diaphragmatic-breathing"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 <<<<<<< HEAD
 
 =======

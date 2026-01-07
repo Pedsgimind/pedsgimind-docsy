@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Transnasal Endoscopy"
 slug: "transnasal-endoscopy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🧒👃📷 Transnasal Endoscopy in Children: A Parent-Friendly Guide
 
 > ✅ **Transnasal endoscopy (TNE)** is a way to look inside the **esophagus (food pipe)** using a **very thin camera passed through the nose**, instead of the mouth.  

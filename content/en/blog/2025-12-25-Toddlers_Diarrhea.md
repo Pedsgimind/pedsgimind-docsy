@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Toddlers Diarrhea"
 slug: "toddlers-diarrhea"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Pancreas", "Lower GI", "Upper GI"]
 ---
-
 # 🚼💩 Toddler’s Diarrhea: When Loose Stools Are Normal (and When to Worry)
 
 > ✅ Toddler’s diarrhea is one of the most common causes of **chronic loose stools** in children 1–4 years old.  

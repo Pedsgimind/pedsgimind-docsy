@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Tubes Gastrostomy"
 slug: "tubes-gastrostomy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🧷 Gastrostomy Tubes (G-Tubes): Types, Care, Troubleshooting (Parent-Friendly Guide)
 
 > ✅ A **gastrostomy tube (G-tube)** is a feeding tube that goes directly into the **stomach** through a small opening in the belly.  

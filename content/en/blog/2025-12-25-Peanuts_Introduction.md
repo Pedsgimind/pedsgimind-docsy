@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Peanuts Introduction"
 slug: "peanuts-introduction"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🥜👶 Introducing Peanut Safely to Babies: A Step-by-Step Parent Guide
 
 > ✅ Introducing peanut in a safe form around the time solids start (for many babies) can **lower the chance of developing peanut allergy**.  

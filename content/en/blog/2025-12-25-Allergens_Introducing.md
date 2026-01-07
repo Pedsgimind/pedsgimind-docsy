@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Allergens Introducing"
 slug: "allergens-introducing"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🥚🥜 Introducing Allergens to Babies: A Parent-Friendly, Step-by-Step Guide
 
 > ✅ Early, safe introduction of common allergenic foods (like peanut and egg) can **reduce the risk of developing food allergies** for many babies.  

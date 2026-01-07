@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Allergies"
 slug: "allergies"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🌼🥜 Allergies in Children: A Parent-Friendly Guide (Food, Environmental, and Medication)
 
 > ✅ An allergy happens when the immune system reacts to something that is usually harmless.  

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Metabolic DysfunctionAssociated Steatotic Liver Disease MASLD Formerly NAFLD"
 slug: "metabolic-dysfunctionassociated-steatotic-liver-disease-masld-formerly-nafld"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🍔🟡 Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)  
 ## (formerly called NAFLD) — A Parent-Friendly Guide
 

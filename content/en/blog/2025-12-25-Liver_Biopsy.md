@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Liver Biopsy"
 slug: "liver-biopsy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧪🩺 Liver Biopsy in Children: A Parent-Friendly Guide
 
 > ✅ A **liver biopsy** is a medical test where doctors take a **very small sample of liver tissue** to look at under a microscope.  

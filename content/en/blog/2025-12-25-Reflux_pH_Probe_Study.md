@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Reflux pH Probe Study"
 slug: "reflux-ph-probe-study"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒📟 Reflux pH Probe Study in Children: A Parent-Friendly Guide
 
 > ✅ A **pH probe study** measures how often **acid** from the stomach comes up into the esophagus over ~24 hours.  

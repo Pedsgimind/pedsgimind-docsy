@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Food Intolerance"
 slug: "food-intolerance"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Pancreas", "Lower GI", "Upper GI"]
 ---
-
 # 🍽️😣 Food Intolerance in Children: Symptoms, Triggers, and What to Do
 
 > ✅ Food intolerance is when a child’s body has trouble handling a food—causing symptoms like bloating, pain, diarrhea, or nausea—**without the immune system “allergy reaction.”**  

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Colonoscopy"
 slug: "colonoscopy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🧪 Colonoscopy in Children: A Parent-Friendly Guide
 
 > ✅ A **colonoscopy** is a test that lets doctors look **inside the large intestine (colon)** using a thin flexible camera.  

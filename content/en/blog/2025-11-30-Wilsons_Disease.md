@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Wilsons Disease"
 slug: "wilsons-disease"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🟡🧬 Wilson’s Disease in Children: A Parent-Friendly Guide
 
 > ✅ **Wilson’s disease** is a **genetic condition** where the body cannot get rid of extra **copper**, so copper slowly builds up—especially in the **liver** and sometimes the **brain and eyes**.  

@@ -6,8 +6,8 @@ description: "Constipation is the most common cause of abdominal pain in childre
 categories: ["Education"]
 tags: ["Constipation", "Encopresis", "Abdominal Pain", "Toilet Training"]
 slug: "constipation-in-children-practical-plan"
+systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
 ---
-
 # 💩🧻 Constipation in Kids  
 *Myths vs evidence (and what actually works)*
 

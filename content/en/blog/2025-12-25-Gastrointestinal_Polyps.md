@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Gastrointestinal Polyps"
 slug: "gastrointestinal-polyps"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🩸 Gastrointestinal Polyps in Children: Causes, Symptoms, and What to Expect
 
 > ✅ A **polyp** is a small growth on the inside lining of the bowel (most often the colon).  

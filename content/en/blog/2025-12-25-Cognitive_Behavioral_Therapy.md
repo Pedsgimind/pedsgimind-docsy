@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Cognitive Behavioral Therapy"
 slug: "cognitive-behavioral-therapy"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧠✅ Cognitive-Behavioral Therapy (CBT) for Kids with Belly Pain  
 *A parent-friendly guide to breaking the stress–pain cycle*
 

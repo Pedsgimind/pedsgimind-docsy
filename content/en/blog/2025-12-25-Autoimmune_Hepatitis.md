@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Autoimmune Hepatitis"
 slug: "autoimmune-hepatitis"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Lower GI"]
 ---
-
 # 🧠🟡 Autoimmune Hepatitis in Children: A Parent-Friendly Guide
 
 > ✅ **Autoimmune hepatitis (AIH)** is a condition where a child’s **immune system mistakenly attacks the liver**, causing inflammation.  

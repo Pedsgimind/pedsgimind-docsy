@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Indigestion Functional Dyspepsia NonUlcer Dyspepsia"
 slug: "indigestion-functional-dyspepsia-nonulcer-dyspepsia"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Pancreas", "Lower GI", "Upper GI"]
 ---
-
 # 🍽️🔥 Indigestion in Children (Functional Dyspepsia / Non-Ulcer Dyspepsia): What It Means and What Helps
 
 > ✅ “Indigestion” usually means **upper belly discomfort**: fullness, nausea, burning, bloating, or pain after eating.  

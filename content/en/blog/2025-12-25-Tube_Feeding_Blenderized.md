@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Tube Feeding Blenderized"
 slug: "tube-feeding-blenderized"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🥣 Blenderized Tube Feeding (BTF): A Parent-Friendly Guide
 *(“Real food” through a feeding tube)*
 

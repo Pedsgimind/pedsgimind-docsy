@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Upper Gastrointestinal Study"
 slug: "upper-gastrointestinal-study"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🩻 Upper Gastrointestinal (Upper GI) Study in Children: A Parent-Friendly Guide
 *(Barium swallow / Upper GI series)*
 

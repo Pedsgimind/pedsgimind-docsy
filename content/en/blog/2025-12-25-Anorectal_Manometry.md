@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Anorectal Manometry"
 slug: "anorectal-manometry"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🚽📊 Anorectal Manometry in Children: A Parent-Friendly Guide
 
 > ✅ Anorectal manometry is a **safe, specialized test** that helps doctors understand **how the rectum and anal muscles work together**.  

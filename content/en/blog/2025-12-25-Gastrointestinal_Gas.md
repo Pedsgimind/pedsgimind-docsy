@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Gastrointestinal Gas"
 slug: "gastrointestinal-gas"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Pancreas", "Lower GI", "Upper GI"]
 ---
-
 # 💨 Gastrointestinal Gas in Children: What’s Normal, What Helps, and When to Worry
 
 > ✅ Gas is common in babies and children.  

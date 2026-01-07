@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Bravo Capsule Test"
 slug: "bravo-capsule-test"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒📡 Bravo Capsule Test (Wireless pH Study) in Children: A Parent-Friendly Guide
 
 > ✅ The **Bravo capsule test** is a **wireless pH study** that measures **acid reflux** in the esophagus without a tube coming out of the nose.  
