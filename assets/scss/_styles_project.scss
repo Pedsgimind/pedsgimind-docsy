@@ -201,3 +201,18 @@ blockquote {
   font-size: 0.9rem;
   white-space: nowrap;
 }
+/* About page photo */
+figure.about-photo {
+  margin: 1.25rem auto 0.75rem;
+  text-align: center;
+}
+
+figure.about-photo img {
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 18px;
+  display: inline-block;
+  object-fit: contain;     /* prevents cropping */
+  object-position: center; /* keep face centered */
+}
