@@ -39,12 +39,12 @@ outputs:
 # About → How to use → Posts by system → Blog → Home
 menu:
   main:
-    - name: About
-      url: /about/
+    - name: Blog Description
+      url: /
       weight: 10
 
-    - name: How to use
-      url: /how-to-use/
+    - name: About
+      url: /about/
       weight: 20
 
     - name: Posts by system
@@ -54,11 +54,6 @@ menu:
     - name: Blog
       url: /blog/
       weight: 40
-
-    - name: Home
-      url: /
-      weight: 50
-
 params:
   # If you keep these empty, Docsy won't generate GitHub "Edit/Source/Issue" links
   github_repo: ""
