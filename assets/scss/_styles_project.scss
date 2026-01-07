@@ -223,3 +223,50 @@ figure.about-photo-right img {
     width: 260px;
   }
 }
+/* =========================================================
+   About page fixes (mobile navbar overlap + photo in right box)
+   ========================================================= */
+
+/* Prevent top text being hidden behind the fixed navbar */
+.about-top-spacer {
+  height: 12px;
+}
+
+/* Give first heading extra breathing room on small screens */
+.td-content h1:first-of-type {
+  margin-top: 12px;
+}
+
+/* Make the photo sit in the right-side “box” beside Current practice */
+.about-photo-float {
+  float: right;
+  width: 300px;
+  max-width: 42vw;          /* keeps it inside the right box on phones */
+  height: auto;
+  margin: 0.25rem 0 1rem 1rem;
+  border-radius: 18px;
+  display: block;
+  background: #fff;
+
+  /* Prevent any cropping */
+  object-fit: contain;
+  object-position: center;
+
+  /* Optional subtle shadow */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Stop wrapping after Clinical focus so next sections go full width */
+.about-clear {
+  clear: both;
+}
+
+/* Very small phones: stack and center for readability */
+@media (max-width: 420px) {
+  .about-photo-float {
+    float: none;
+    max-width: 100%;
+    width: 260px;
+    margin: 0.75rem auto 1rem;
+  }
+}
