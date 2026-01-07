@@ -9,7 +9,7 @@ menu:
 {{< figure
   src="/images/team/dr-mohammad-hussein.jpg"
   alt="Dr. Mohammad Hussein"
-  class="about-photo"
+  class="about-photo-right"
 >}}
 
 # Dr. Mohammad Hussein, MD, FRCPC (Canada)
@@ -19,6 +19,8 @@ menu:
 I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pediatrician and pediatric gastroenterologist. My clinical work focuses on evidence-based, family-centered care for infants, children, and adolescents with gastrointestinal, liver, nutrition, and feeding concerns.
 
 **Clinical interests:** Pediatric gastroenterology • Hepatology • Nutrition • Endoscopy
+
+<div class="about-clear"></div>
 
 ---
 
