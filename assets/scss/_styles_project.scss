@@ -2,7 +2,6 @@
    Docsy: remove heading anchor links (#) in public view
    ========================================================= */
 
-/* Docsy/Markdown heading self-links (varies by version) */
 .td-content .td-heading-self-link,
 .td-content a.td-heading-self-link,
 .td-content .headerlink,
@@ -14,7 +13,6 @@
   visibility: hidden !important;
 }
 
-/* Docsy often uses AnchorJS for the visible “#” */
 .td-content .anchorjs-link,
 .td-content a.anchorjs-link,
 .anchorjs-link,
@@ -24,7 +22,6 @@ a.anchorjs-link {
   visibility: hidden !important;
 }
 
-/* Extra safety: if anchors appear only on hover */
 .td-content h1:hover .anchorjs-link,
 .td-content h2:hover .anchorjs-link,
 .td-content h3:hover .anchorjs-link,
@@ -34,11 +31,11 @@ a.anchorjs-link {
   display: none !important;
 }
 
+
 /* =========================================================
    iPhone/Safari: header cropping + horizontal shift fix
    ========================================================= */
 
-/* Force-disable any horizontal scrolling everywhere */
 html,
 body {
   width: 100%;
@@ -54,7 +51,6 @@ body {
   box-sizing: border-box;
 }
 
-/* If your header/nav uses 100vw anywhere, force it back to 100% */
 header,
 nav,
 .navbar,
@@ -63,20 +59,12 @@ nav,
 .td-navbar {
   width: 100% !important;
   max-width: 100% !important;
-}
 
-/* iPhone notch / safe-area padding (libsass-safe: uses calc + env/constant) */
-header,
-nav,
-.navbar,
-.site-header,
-.header,
-.td-navbar {
   /* fallback */
   padding-left: 12px;
   padding-right: 12px;
 
-  /* older iOS (optional but safe) */
+  /* older iOS */
   padding-left: calc(12px + constant(safe-area-inset-left));
   padding-right: calc(12px + constant(safe-area-inset-right));
   padding-top: constant(safe-area-inset-top);
@@ -87,7 +75,6 @@ nav,
   padding-top: env(safe-area-inset-top);
 }
 
-/* Common Docsy wrappers that can cause overflow */
 .td-main,
 .td-content,
 .td-page,
@@ -97,7 +84,6 @@ nav,
   max-width: 100% !important;
 }
 
-/* If the navbar is shifted by transform/positioning, pin it */
 .td-navbar,
 .navbar {
   left: 0 !important;
@@ -105,7 +91,6 @@ nav,
   transform: none !important;
 }
 
-/* Bootstrap containers sometimes introduce negative margin/padding issues */
 .td-navbar .container,
 .td-navbar .container-fluid {
   margin-left: 0 !important;
@@ -115,7 +100,6 @@ nav,
   padding-right: 12px !important;
 }
 
-/* Site title wrap on small screens */
 .td-navbar .navbar-brand {
   white-space: normal !important;
   line-height: 1.15;
@@ -123,13 +107,17 @@ nav,
   overflow: visible !important;
 }
 
-/* Optional: slightly reduce title size on very small screens */
 @media (max-width: 420px) {
   .td-navbar .navbar-brand {
     font-size: 0.95rem;
   }
 }
-/* Palette C: neutral surfaces */
+
+
+/* =========================================================
+   Theme surface palette
+   ========================================================= */
+
 .td-content,
 .td-main,
 .card,
@@ -140,79 +128,57 @@ blockquote {
 }
 
 
-/* Added by fix-logo.sh */
-.site-logo{
+/* =========================================================
+   Logo sizing (Added by fix-logo.sh)
+   ========================================================= */
+
+.site-logo {
   height: 34px;
   width: auto;
   margin-right: 12px;
   vertical-align: middle;
 }
-/* Put this in: assets/scss/_styles_project.scss */
 
-.about-hero {
-  margin-top: 1.25rem;
-  padding: 1.25rem;
-  border-radius: 18px;
-  background: #fff;
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+
+/* =========================================================
+   About page
+   ========================================================= */
+
+/* Right-aligned photo on desktop, centered on mobile */
+figure.about-photo-right {
+  float: right;
+  margin: 0 0 1rem 1.25rem; /* space left + below */
+  text-align: right;
+  max-width: 340px;
 }
 
-.about-title {
-  margin-top: 0;
-  color: #111;
-}
-
-.about-subtitle {
-  font-size: 1.05rem;
-  color: #333;
-  opacity: 0.9;
-}
-
-.about-lead {
-  color: #222;
-  line-height: 1.6;
-  margin-bottom: 0.9rem;
-}
-
-.about-photo {
-  width: 260px;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  border-radius: 18px;
-}
-
-.about-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.25rem;
-}
-
-.about-badge {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.35rem 0.65rem;
-  border-radius: 999px;
-  border: 1px solid rgba(0, 0, 0, 0.12);
-  background: rgba(0, 0, 0, 0.03);
-  color: #111;
-  font-size: 0.9rem;
-  white-space: nowrap;
-}
-/* About page photo */
-figure.about-photo {
-  margin: 1.25rem auto 0.75rem;
-  text-align: center;
-}
-
-figure.about-photo img {
-  width: 260px;
+figure.about-photo-right img {
+  width: 300px;
   max-width: 100%;
   height: auto;
   border-radius: 18px;
   display: inline-block;
-  object-fit: contain;     /* prevents cropping */
-  object-position: center; /* keep face centered */
+
+  /* prevents cropping */
+  object-fit: contain;
+  object-position: center;
+}
+
+/* Clear float so the rest of the page doesn't wrap around the image */
+.about-clear {
+  clear: both;
+}
+
+/* Mobile/tablet: stop floating and center */
+@media (max-width: 992px) {
+  figure.about-photo-right {
+    float: none;
+    margin: 1rem auto;
+    text-align: center;
+    max-width: 100%;
+  }
+
+  figure.about-photo-right img {
+    width: 260px;
+  }
 }
