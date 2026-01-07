@@ -6,24 +6,32 @@ menu:
     weight: 10
 ---
 
-<div class="td-box td-box--primary td-box--gradient td-box--height-auto">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-12 col-md-4 text-center mb-4 mb-md-0">
-        <img src="/images/team/dr-mohammad-hussein.jpg"
-             alt="Dr. Mohammad Hussein"
-             style="max-width: 240px; width: 100%; height: auto; border-radius: 18px;" />
-      </div>
-      <div class="col-12 col-md-8">
-        <h1 class="mt-0">Dr. Mohammad Hussein, MD, FRCPC (Canada)</h1>
-        <p class="lead mb-2">
-          Pediatric Gastroenterology &amp; Hepatology
-        </p>
-        <p>
-          I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pediatrician and pediatric gastroenterologist.
-          My clinical work focuses on evidence-based, family-centered care for infants, children, and adolescents with gastrointestinal,
-          liver, nutrition, and feeding concerns.
-        </p>
+<div class="container about-hero">
+  <div class="row align-items-center g-4">
+    <div class="col-12 col-md-4 text-center">
+      <img
+        class="about-photo"
+        src="/images/team/dr-mohammad-hussein.jpg"
+        alt="Dr. Mohammad Hussein"
+        loading="lazy"
+      />
+    </div>
+
+    <div class="col-12 col-md-8">
+      <h1 class="about-title">Dr. Mohammad Hussein, MD, FRCPC (Canada)</h1>
+      <p class="about-subtitle mb-2">Pediatric Gastroenterology &amp; Hepatology</p>
+
+      <p class="about-lead">
+        I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pediatrician and pediatric gastroenterologist.
+        My clinical work focuses on evidence-based, family-centered care for infants, children, and adolescents with gastrointestinal,
+        liver, nutrition, and feeding concerns.
+      </p>
+
+      <div class="about-badges">
+        <span class="about-badge">Pediatric Gastroenterology</span>
+        <span class="about-badge">Hepatology</span>
+        <span class="about-badge">Nutrition</span>
+        <span class="about-badge">Endoscopy</span>
       </div>
     </div>
   </div>
@@ -53,7 +61,7 @@ Where appropriate, I integrate pediatric GI procedures and functional testing in
 - PEG and PEC care pathways
 - Capsule endoscopy, pH–impedance monitoring, breath testing, and anorectal manometry (when available and clinically indicated)
 
-## Training and credentials (high level)
+## Training and credentials
 
 - **FRCPC (Canada), Pediatrics**
 - **FRCPC (Canada), Pediatric Gastroenterology**
