@@ -6,10 +6,7 @@ menu:
     weight: 10
 ---
 
-
-
-
-
+<div class="about-top-spacer"></div>
 
 # Dr. Mohammad Hussein, MD, FRCPC (Canada)
 
@@ -21,11 +18,13 @@ I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pe
 
 ---
 
-{{< figure
+<img
+  class="about-photo-float"
   src="/images/team/dr-mohammad-hussein.jpg"
   alt="Dr. Mohammad Hussein"
-  class="about-photo-right"
->}}
+  loading="eager"
+  decoding="async"
+/>
 
 ## Current practice
 
