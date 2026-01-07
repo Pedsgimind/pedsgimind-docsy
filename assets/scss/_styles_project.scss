@@ -1,5 +1,11 @@
 /* =========================================================
-   Docsy: remove heading anchor links (#) in public view
+   Project styles (Docsy)
+   Clean + deduplicated + includes GLOBAL navbar offset fix
+   ========================================================= */
+
+
+/* =========================================================
+   1) Hide heading anchor links (#) in public view
    ========================================================= */
 
 .td-content .td-heading-self-link,
@@ -7,12 +13,7 @@
 .td-content .headerlink,
 .td-content a.headerlink,
 .td-heading-self-link,
-.headerlink {
-  display: none !important;
-  opacity: 0 !important;
-  visibility: hidden !important;
-}
-
+.headerlink,
 .td-content .anchorjs-link,
 .td-content a.anchorjs-link,
 .anchorjs-link,
@@ -33,7 +34,7 @@ a.anchorjs-link {
 
 
 /* =========================================================
-   iPhone/Safari: header cropping + horizontal shift fix
+   2) iPhone/Safari: header cropping + horizontal shift fix
    ========================================================= */
 
 html,
@@ -51,6 +52,7 @@ body {
   box-sizing: border-box;
 }
 
+/* If your header/nav uses 100vw anywhere, force it back to 100% */
 header,
 nav,
 .navbar,
@@ -75,6 +77,7 @@ nav,
   padding-top: env(safe-area-inset-top);
 }
 
+/* Common Docsy wrappers that can cause overflow */
 .td-main,
 .td-content,
 .td-page,
@@ -84,6 +87,7 @@ nav,
   max-width: 100% !important;
 }
 
+/* If the navbar is shifted by transform/positioning, pin it */
 .td-navbar,
 .navbar {
   left: 0 !important;
@@ -91,6 +95,7 @@ nav,
   transform: none !important;
 }
 
+/* Bootstrap containers sometimes introduce negative margin/padding issues */
 .td-navbar .container,
 .td-navbar .container-fluid {
   margin-left: 0 !important;
@@ -100,6 +105,7 @@ nav,
   padding-right: 12px !important;
 }
 
+/* Site title wrap on small screens */
 .td-navbar .navbar-brand {
   white-space: normal !important;
   line-height: 1.15;
@@ -115,7 +121,25 @@ nav,
 
 
 /* =========================================================
-   Theme surface palette
+   3) GLOBAL better fix: prevent fixed navbar covering top content
+   (This replaces the About-only spacer workaround)
+   ========================================================= */
+
+/* Add top padding to the main content area so headings never hide */
+.td-main main {
+  padding-top: 64px;
+}
+
+/* Slightly more padding on small phones (navbar wraps more) */
+@media (max-width: 420px) {
+  .td-main main {
+    padding-top: 76px;
+  }
+}
+
+
+/* =========================================================
+   4) Theme surface palette
    ========================================================= */
 
 .td-content,
@@ -129,7 +153,7 @@ blockquote {
 
 
 /* =========================================================
-   Logo sizing (Added by fix-logo.sh)
+   5) Logo sizing (Added by fix-logo.sh)
    ========================================================= */
 
 .site-logo {
@@ -141,118 +165,28 @@ blockquote {
 
 
 /* =========================================================
-   About page
+   6) About page layout
+   - Use with: <img class="about-photo-float" ...>
    ========================================================= */
 
-/* Right-aligned photo on desktop, centered on mobile */
-figure.about-photo-right {
-  float: right;
-  margin: 0 0 1rem 1.25rem; /* space left + below */
-  text-align: right;
-  max-width: 340px;
-}
-
-figure.about-photo-right img {
-  width: 300px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 18px;
-  display: inline-block;
-
-  /* prevents cropping */
-  object-fit: contain;
-  object-position: center;
-}
-
-/* Clear float so the rest of the page doesn't wrap around the image */
-.about-clear {
-  clear: both;
-}
-
-/* Mobile/tablet: stop floating and center */
-@media (max-width: 992px) {
-  figure.about-photo-right {
-    float: none;
-    margin: 1rem auto;
-    text-align: center;
-    max-width: 100%;
-  }
-
-  figure.about-photo-right img {
-    width: 260px;
-  }
-}
-/* =========================================================
-   About page: photo sits in the lower right “box”
-   ========================================================= */
-
-figure.about-photo-right {
-  float: right;
-  margin: 0.25rem 0 1rem 1.25rem; /* space left + below */
-  text-align: right;
-  max-width: 340px;
-}
-
-figure.about-photo-right img {
-  width: 300px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 18px;
-  display: inline-block;
-
-  /* prevent cropping */
-  object-fit: contain;
-  object-position: center;
-}
-
-/* Stop wrapping after Clinical focus */
-.about-clear {
-  clear: both;
-}
-
-/* Mobile/tablet: no float; center image */
-@media (max-width: 992px) {
-  figure.about-photo-right {
-    float: none;
-    margin: 1rem auto;
-    text-align: center;
-    max-width: 100%;
-  }
-
-  figure.about-photo-right img {
-    width: 260px;
-  }
-}
-/* =========================================================
-   About page fixes (mobile navbar overlap + photo in right box)
-   ========================================================= */
-
-/* Prevent top text being hidden behind the fixed navbar */
-.about-top-spacer {
-  height: 12px;
-}
-
-/* Give first heading extra breathing room on small screens */
-.td-content h1:first-of-type {
-  margin-top: 12px;
-}
-
-/* Make the photo sit in the right-side “box” beside Current practice */
 .about-photo-float {
   float: right;
   width: 300px;
-  max-width: 42vw;          /* keeps it inside the right box on phones */
+
+  /* Keeps photo inside the right-side "box" area on most phones */
+  max-width: 42vw;
+
   height: auto;
   margin: 0.25rem 0 1rem 1rem;
   border-radius: 18px;
   display: block;
   background: #fff;
 
-  /* Prevent any cropping */
+  /* Prevent cropping */
   object-fit: contain;
   object-position: center;
 
-  /* Optional subtle shadow */
+  /* Subtle shadow */
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 
