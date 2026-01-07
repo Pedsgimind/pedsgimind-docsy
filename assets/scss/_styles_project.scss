@@ -147,3 +147,57 @@ blockquote {
   margin-right: 12px;
   vertical-align: middle;
 }
+/* Put this in: assets/scss/_styles_project.scss */
+
+.about-hero {
+  margin-top: 1.25rem;
+  padding: 1.25rem;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+}
+
+.about-title {
+  margin-top: 0;
+  color: #111;
+}
+
+.about-subtitle {
+  font-size: 1.05rem;
+  color: #333;
+  opacity: 0.9;
+}
+
+.about-lead {
+  color: #222;
+  line-height: 1.6;
+  margin-bottom: 0.9rem;
+}
+
+.about-photo {
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 18px;
+}
+
+.about-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.about-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 0, 0.03);
+  color: #111;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
