@@ -6,7 +6,7 @@ menu:
     weight: 10
 ---
 
-<div class="about-top-spacer"></div>
+
 
 # Dr. Mohammad Hussein, MD, FRCPC (Canada)
 
