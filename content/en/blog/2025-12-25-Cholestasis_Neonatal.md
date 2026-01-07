@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Cholestasis Neonatal"
 slug: "cholestasis-neonatal"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🍼🟡 Neonatal Cholestasis in Babies: A Parent-Friendly Guide
 
 > ✅ **Neonatal cholestasis** means a baby has trouble with **bile flow** from the liver.  

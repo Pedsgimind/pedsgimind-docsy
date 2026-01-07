@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Reflux Fundoplication"
 slug: "reflux-fundoplication"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🟡 Reflux After Fundoplication (or When Fundoplication Is Considered Again): A Parent-Friendly Guide
 
 > ✅ Some children continue to have **reflux symptoms after a fundoplication**, or symptoms may return months or years later.  

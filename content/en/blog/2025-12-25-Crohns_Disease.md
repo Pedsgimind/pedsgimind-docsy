@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Crohns Disease"
 slug: "crohns-disease"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🔥 Crohn’s Disease in Children: A Parent-Friendly Guide
 
 > ✅ Crohn’s disease is a type of **Inflammatory Bowel Disease (IBD)** where the immune system causes **ongoing inflammation** in the digestive tract.  

@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Omphalocele"
 slug: "omphalocele"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
 ---
-
 # 🍼🧡 Omphalocele in Babies: A Parent-Friendly Guide
 
 > ✅ **Omphalocele** is a condition a baby is born with where **abdominal organs (often intestines and sometimes liver)** remain **inside a thin protective sac** at the belly button.  

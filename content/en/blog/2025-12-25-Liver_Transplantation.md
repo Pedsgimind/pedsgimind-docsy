@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Liver Transplantation"
 slug: "liver-transplantation"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🫶🟡 Liver Transplantation in Children: A Parent-Friendly Guide
 
 > ✅ A **liver transplant** means replacing a child’s sick liver with a healthy liver (or part of a liver) from a donor.  

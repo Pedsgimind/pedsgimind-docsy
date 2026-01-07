@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Avoidant Restrictive Food Intake Disorder ARFID"
 slug: "avoidant-restrictive-food-intake-disorder-arfid"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
 ---
-
 # 🧒🍽️ Avoidant/Restrictive Food Intake Disorder (ARFID): A Parent-Friendly Guide
 *(When eating becomes too limited for health, growth, or daily life)*
 

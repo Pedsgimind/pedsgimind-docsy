@@ -2,8 +2,10 @@
 date: 2025-12-25
 title: "Pancreatitis Chronic"
 slug: "pancreatitis-chronic"
+categories: ["Education"]
+tags: ["Pediatrics"]
+systems: ["Liver & Biliary", "Pancreas", "Lower GI"]
 ---
-
 # 🧒🔥 Chronic Pancreatitis in Children: Long-Term Care, Pain Control, and Nutrition
 *(Ongoing inflammation and damage of the pancreas)*
 

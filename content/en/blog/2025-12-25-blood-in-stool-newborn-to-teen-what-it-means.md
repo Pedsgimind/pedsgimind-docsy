@@ -6,8 +6,8 @@ description: "A practical parent guide to blood in stool by age (newborn to teen
 categories: ["Education"]
 tags: ["Blood in Stool", "Rectal Bleeding", "Constipation", "Anal Fissure", "Allergy", "Polyps", "IBD", "Pediatric Gastroenterology"]
 slug: "blood-in-stool-newborn-to-teen-what-it-means"
+systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
 ---
-
 # 🩸💩 Blood in Stool in Children (Newborn → Teens)
 *Common causes by age, red flags, and what to do today*
 
