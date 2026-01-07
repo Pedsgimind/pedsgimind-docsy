@@ -1,111 +1,75 @@
 ---
-title: "PedsGIMind Blog
-Written and reviewed by 
-Dr.Mohammad Hussein, MD, FRCPC(Canada)
-Pediatrician & Pediatric Gastroenterologists"
-linkTitle: "Home"
-menu:
-  main:
-    weight: 1
+title: "Blog Description"
+linkTitle: "Blog Description"
 ---
 
-# PedsGIMind Blog
-Evidence-based pediatric digestive health and medical education.
+# Little Bellies, Big Answers
+
+This blog shares **clear, evidence-informed pediatric digestive health education** for parents and caregivers.  
+It is written to help families understand common symptoms, recognize red flags, and know what questions to ask.
 
 ---
 
-## For Parents (Start Here)
+## What you will find here
 
-<div class="row">
+- Practical parent-friendly guides (symptoms, causes, “what you can do at home”)
+- Red flags (when to seek urgent or emergency care)
+- Digestive topics across infancy, childhood, and adolescence
+- Nutrition and growth topics when relevant
 
-<div class="col-lg-6 col-xl-4 mb-4">
+---
 
-### Constipation in Kids (Myths vs Evidence)
-Most common cause of belly pain. What works and when to worry.  
-[Read →](/blog/2025/12/15/constipation-in-kids-myths-vs-evidence/)
+## How to use this blog
 
-</div>
+**1) Browse by body system (recommended)**  
+If you are not sure where to start, use the system grouping page to find posts by topic.
 
-<div class="col-lg-6 col-xl-4 mb-4">
+**2) Browse the full blog feed**  
+If you want the newest posts, open the blog page and scroll.
 
-### Blood in Stool (Newborn to Teens)
-Common causes by age and red flags.  
-[Read →](/blog/2025/12/25/blood-in-stool-newborn-to-teen-what-it-means/)
+**3) Use Categories and Tags**  
+Many posts include Categories and Tags so you can explore related topics.
 
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Vomiting in the Newborn (0–28 days)
-What’s normal vs urgent (especially green vomit).  
-[Read →](/blog/2025/12/25/vomiting-in-the-newborn-what-is-normal-what-is-urgent/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Vomiting in Toddlers
-Dehydration signs, common causes, and when to seek care.  
-[Read →](/blog/2025/12/25/vomiting-in-toddlers-what-to-do-red-flags/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Food Feels Stuck in the Chest (Dysphagia)
-When it’s urgent and what conditions to consider.  
-[Read →](/blog/2025/12/25/food-stuck-in-the-middle-of-the-chest-dysphagia/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Can’t Swallow After Hard Food
-When it’s an emergency and what to do.  
-[Read →](/blog/2025/12/25/cant-swallow-after-hard-food-food-bolus/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Pocketing Food / Refusing to Eat
-Sensory vs medical causes and next steps.  
-[Read →](/blog/2025/12/25/my-child-pockets-food-and-refuses-to-eat/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Why Is My Child Not Growing?
-A practical guide to growth concerns.  
-[Read →](/blog/2025/12/25/why-my-child-is-not-growing-evaluation/)
-
-</div>
-
-<div class="col-lg-6 col-xl-4 mb-4">
-
-### Celiac Disease in Children
-Symptoms, testing, and why not to go gluten-free before testing.  
-[Read →](/blog/2025/12/11/celiac-disease-in-children-parent-guide/)
-
-</div>
-
+<div style="margin: 1rem 0; display: flex; gap: 0.75rem; flex-wrap: wrap;">
+  <a class="btn btn-primary btn-lg" href="/posts-by-system/">Browse posts by system</a>
+  <a class="btn btn-outline-primary btn-lg" href="/blog/">Browse all posts</a>
 </div>
 
 ---
 
-## For Clinicians (Quick Links)
+## Safety disclaimer
 
-### Triage & Red Flags
-- **Bilious vomiting in newborn** → urgent evaluation for obstruction/volvulus until proven otherwise  
-- **Food bolus with drooling / inability to handle secretions** → urgent endoscopic capability  
-- **Hematochezia + systemic illness** → consider colitis, intussusception, sepsis in infant, IBD in older child  
-- **Chronic abdominal pain + weight loss / nocturnal symptoms / anemia** → evaluate organic causes
+**This website is for general educational purposes only.**  
+It does **not** provide medical advice and does **not** replace a visit with a qualified clinician.
 
-### Algorithms (Coming Soon)
-- Recurrent abdominal pain: functional vs organic (Nov 30 post below)  
-- Dysphagia/choking/globus differentiation (Nov 25 post below)  
-- Post-choking food refusal (Nov 20 post below)  
-- Detailed abdominal pain triage + constipation algorithm + celiac/IBD testing triggers (Nov 15 post below)
+**Seek urgent or emergency care immediately** if your child has any of the following:
+- Trouble breathing, blue lips, or severe lethargy
+- Severe or worsening pain
+- Persistent vomiting, dehydration, or inability to keep fluids down
+- Blood in vomit or stool, black stools, or large-volume bleeding
+- New jaundice (yellow eyes/skin), confusion, or severe weakness
+- Any symptom that worries you as a parent/caregiver
 
-> Want a printable clinician one-pager? I can turn these into downloadable PDFs next.
+If your child is very unwell or you are unsure, **err on the side of seeking urgent care.**
+
+---
+
+## Contact
+
+If you would like to contact Dr. Mohammad Hussein’s office for an appointment, referral, or question about services, please use the clinic contact details below:
+
+- **Clinic name:** Avicenna Medical Inc – Al Farabi Gastroenterology & Endoscopy Center (Diyala Branch)  
+- **Phone:** *(add your phone number here)*  
+- **Email:** *(add your email here)*  
+- **Address:** *(add your address here)*  
+
+---
+
+# Ready to browse?
+
+<div style="margin: 1.25rem 0 0; padding: 1.25rem; border-radius: 16px; background: #ffffff; box-shadow: 0 8px 24px rgba(0,0,0,0.06);">
+  <div style="font-size: 1.6rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.75rem;">
+    Start here: Posts grouped by system
+  </div>
+  <a class="btn btn-primary btn-lg" href="/posts-by-system/">Open “Posts by system”</a>
+</div>
