@@ -6,20 +6,21 @@ menu:
     weight: 10
 ---
 
-<div class="container about-hero">
+<div class="about-hero container">
   <div class="row align-items-center g-4">
     <div class="col-12 col-md-4 text-center">
       <img
         class="about-photo"
         src="/images/team/dr-mohammad-hussein.jpg"
         alt="Dr. Mohammad Hussein"
-        loading="lazy"
+        loading="eager"
+        decoding="async"
       />
     </div>
 
     <div class="col-12 col-md-8">
       <h1 class="about-title">Dr. Mohammad Hussein, MD, FRCPC (Canada)</h1>
-      <p class="about-subtitle mb-2">Pediatric Gastroenterology &amp; Hepatology</p>
+      <p class="about-subtitle">Pediatric Gastroenterology &amp; Hepatology</p>
 
       <p class="about-lead">
         I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pediatrician and pediatric gastroenterologist.
