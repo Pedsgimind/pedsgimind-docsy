@@ -6,12 +6,6 @@ menu:
     weight: 10
 ---
 
-{{< figure
-  src="/images/team/dr-mohammad-hussein.jpg"
-  alt="Dr. Mohammad Hussein"
-  class="about-photo-right"
->}}
-
 # Dr. Mohammad Hussein, MD, FRCPC (Canada)
 
 **Pediatric Gastroenterology & Hepatology**
@@ -20,9 +14,13 @@ I am a Royal College of Physicians and Surgeons of Canada (RCPSC)–certified pe
 
 **Clinical interests:** Pediatric gastroenterology • Hepatology • Nutrition • Endoscopy
 
-<div class="about-clear"></div>
-
 ---
+
+{{< figure
+  src="/images/team/dr-mohammad-hussein.jpg"
+  alt="Dr. Mohammad Hussein"
+  class="about-photo-right"
+>}}
 
 ## Current practice
 
@@ -39,6 +37,8 @@ My day-to-day practice commonly includes:
 - Gastrointestinal bleeding and anemia evaluation
 - Hepatobiliary disorders and pancreatitis care
 - Nutrition support (enteral and parenteral), growth concerns, and obesity/metabolic risk
+
+<div class="about-clear"></div>
 
 ## Procedures and testing
 
