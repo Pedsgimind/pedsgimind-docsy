@@ -175,13 +175,10 @@ blockquote {
 /* =========================================================
    5B) Posts-by-system ONLY: headings style
    - Bold + uppercase + underline
-   - Scoped so it doesn't change headings on other pages
+   - SAFE: affects only the posts-by-system wrapper (template adds this class)
    ========================================================= */
 
-/* Most Docsy pages have body classes; this targets only the posts-by-system page */
-body.page-posts-by-system .td-content h2,
-body.section-posts-by-system .td-content h2,
-body.kind-page .td-content [data-page="posts-by-system"] h2 {
+.posts-by-system h2 {
   font-weight: 800;
   text-transform: uppercase;
   text-decoration: underline;
