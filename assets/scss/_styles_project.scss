@@ -105,7 +105,7 @@ nav,
   padding-right: 12px !important;
 }
 
-/* Site title wrap on small screens */
+/* Site title wrap on small screens (keep wrap support) */
 .td-navbar .navbar-brand {
   white-space: normal !important;
   line-height: 1.15;
@@ -113,9 +113,24 @@ nav,
   overflow: visible !important;
 }
 
+
+/* =========================================================
+   2B) Navbar brand title sizing (Healthy Gut Healthy Mind)
+   - Scoped to navbar only
+   - Works whether text is in .navbar-brand or .navbar-brand__name
+   ========================================================= */
+
+.td-navbar .navbar-brand,
+.td-navbar .navbar-brand__name {
+  font-size: 1.25rem;  /* try 1.25rem, increase to 1.35rem if desired */
+  font-weight: 700;
+}
+
+/* Small phones: keep readable without ugly wrapping */
 @media (max-width: 420px) {
-  .td-navbar .navbar-brand {
-    font-size: 0.95rem;
+  .td-navbar .navbar-brand,
+  .td-navbar .navbar-brand__name {
+    font-size: 1.05rem;
   }
 }
 
@@ -175,10 +190,10 @@ blockquote {
   vertical-align: middle;
 }
 
-/* ✅ This is the key part: make the inline SVG bigger in the navbar */
+/* ✅ Key: make the inline SVG bigger in the navbar */
 .td-navbar .navbar-brand__logo svg,
 .td-navbar .navbar-logo svg {
-  height: 56px !important; /* <- change to 60px/64px if you want bigger */
+  height: 56px !important; /* change to 60px/64px if you want bigger */
   width: auto !important;
   display: block;
 }
@@ -190,12 +205,12 @@ blockquote {
   align-items: center;
 }
 
-/* Optional: slightly tighten spacing between logo and title */
+/* Optional: tighten spacing between logo and title */
 .td-navbar .navbar-brand__logo {
   margin-right: 10px;
 }
 
-/* On small phones, reduce height a bit so navbar doesn’t overflow */
+/* Small phones: reduce logo so navbar doesn’t overflow */
 @media (max-width: 420px) {
   .td-navbar .navbar-brand__logo svg,
   .td-navbar .navbar-logo svg {
