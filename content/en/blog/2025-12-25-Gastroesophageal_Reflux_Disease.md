@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Gastroesophageal Reflux Disease"
-slug: "gastroesophageal-reflux-disease"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Gastroesophageal Reflux Disease
+slug: gastroesophageal-reflux-disease
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🧒🟡 Gastroesophageal Reflux Disease (GERD) in Children: A Parent-Friendly Guide
 

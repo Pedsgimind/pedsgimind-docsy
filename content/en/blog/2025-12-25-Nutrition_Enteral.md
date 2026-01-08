@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Nutrition Enteral"
-slug: "nutrition-enteral"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Nutrition Enteral
+slug: nutrition-enteral
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🧒🧃 Enteral Nutrition in Children: Tube Feeding Explained (Parent-Friendly Guide)
 

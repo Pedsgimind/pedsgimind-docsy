@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Gastrostomy Tubes"
-slug: "gastrostomy-tubes"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Gastrostomy Tubes
+slug: gastrostomy-tubes
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒🧃 Gastrostomy Tubes (G-Tubes) in Children: A Parent-Friendly Guide
 

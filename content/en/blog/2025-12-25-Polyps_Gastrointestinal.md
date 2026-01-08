@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Polyps Gastrointestinal"
-slug: "polyps-gastrointestinal"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Polyps Gastrointestinal
+slug: polyps-gastrointestinal
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🧒🩸 Gastrointestinal Polyps in Children: Causes, Symptoms, and What to Expect
 

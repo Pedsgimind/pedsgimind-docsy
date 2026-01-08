@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Progressive Familial Intrahepatic Cholestasis PFIC"
-slug: "progressive-familial-intrahepatic-cholestasis-pfic"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Progressive Familial Intrahepatic Cholestasis PFIC
+slug: progressive-familial-intrahepatic-cholestasis-pfic
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🧒🟡🧬 Progressive Familial Intrahepatic Cholestasis (PFIC): A Parent-Friendly Guide
 

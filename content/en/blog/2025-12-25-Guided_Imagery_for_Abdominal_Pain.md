@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Guided Imagery for Abdominal Pain"
-slug: "guided-imagery-for-abdominal-pain"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Guided Imagery for Abdominal Pain
+slug: guided-imagery-for-abdominal-pain
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # 🖼️🧠 Guided Imagery for Abdominal Pain in Kids  
 *A parent-friendly guide to calming the gut with safe mental pictures*

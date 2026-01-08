@@ -1,10 +1,16 @@
 ---
 date: 2025-12-25
-title: "FPIES Food Protein Induced Enterocolitis Syndrome"
-slug: "fpies-food-protein-induced-enterocolitis-syndrome"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: FPIES Food Protein Induced Enterocolitis Syndrome
+slug: fpies-food-protein-induced-enterocolitis-syndrome
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
+- Allergy/EGID
 ---
 # 🍼🚨 FPIES (Food Protein–Induced Enterocolitis Syndrome): A Serious but Treatable Food Reaction in Infants & Young Children
 

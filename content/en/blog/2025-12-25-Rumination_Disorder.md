@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Rumination Disorder"
-slug: "rumination-disorder"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Rumination Disorder
+slug: rumination-disorder
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # 🔄🍽️ Rumination Disorder in Children: A Clear, Parent-Friendly Guide
 

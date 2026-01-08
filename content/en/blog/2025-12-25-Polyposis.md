@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Polyposis"
-slug: "polyposis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Polyposis
+slug: polyposis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🧒🧬 Polyposis Syndromes in Children: What Parents Need to Know
 *(Multiple polyps — inherited conditions that need long-term follow-up)*

@@ -1,12 +1,22 @@
 ---
-title: "Celiac Disease in Children: Symptoms, Testing, and What Parents Need to Know"
+title: 'Celiac Disease in Children: Symptoms, Testing, and What Parents Need to Know'
 date: 2025-12-11
 draft: false
-description: "A parent-friendly guide to celiac disease: symptoms by age, who should be tested, how testing works, and why you should not start gluten-free before testing."
-categories: ["Education"]
-tags: ["Celiac Disease", "Gluten", "Growth", "Diarrhea", "Abdominal Pain", "Iron Deficiency"]
-slug: "celiac-disease-in-children-parent-guide"
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+description: 'A parent-friendly guide to celiac disease: symptoms by age, who should
+  be tested, how testing works, and why you should not start gluten-free before testing.'
+categories:
+- Education
+tags:
+- Celiac Disease
+- Gluten
+- Growth
+- Diarrhea
+- Abdominal Pain
+- Iron Deficiency
+slug: celiac-disease-in-children-parent-guide
+systems:
+- Upper GI
+- Nutrition & Growth
 ---
 # 🍞🚫 Celiac Disease in Children
 *Symptoms, who should be tested, how testing works, and what to do next*

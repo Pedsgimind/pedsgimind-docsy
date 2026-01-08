@@ -1,12 +1,25 @@
 ---
-title: "Vomiting in Children: What’s Normal, What’s Urgent, and What to Do (Newborns → Teens)"
+title: 'Vomiting in Children: What’s Normal, What’s Urgent, and What to Do (Newborns
+  → Teens)'
 date: 2025-12-25
 draft: false
-description: "A parent-friendly guide to vomiting across ages: newborn spit-up vs dangerous vomiting, toddler dehydration signs, and older-child causes like viruses, migraine, constipation, and appendicitis—plus clear red flags and home-care steps."
-categories: ["Education"]
-tags: ["Vomiting", "Dehydration", "Abdominal Pain", "Appendicitis", "Newborn", "Toddler", "Pediatric Gastroenterology"]
-slug: "vomiting-in-children-common-causes-red-flags"
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+description: 'A parent-friendly guide to vomiting across ages: newborn spit-up vs
+  dangerous vomiting, toddler dehydration signs, and older-child causes like viruses,
+  migraine, constipation, and appendicitis—plus clear red flags and home-care steps.'
+categories:
+- Education
+tags:
+- Vomiting
+- Dehydration
+- Abdominal Pain
+- Appendicitis
+- Newborn
+- Toddler
+- Pediatric Gastroenterology
+slug: vomiting-in-children-common-causes-red-flags
+systems:
+- Lower GI
+- Upper GI
 ---
 # 🤢 Vomiting in Children (Newborns → Teens)
 *Common causes by age, dehydration signs, red flags, and what to do today*

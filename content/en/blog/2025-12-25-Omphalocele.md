@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Omphalocele"
-slug: "omphalocele"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Omphalocele
+slug: omphalocele
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🍼🧡 Omphalocele in Babies: A Parent-Friendly Guide
 

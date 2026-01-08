@@ -1,12 +1,25 @@
 ---
-title: "Eosinophilic Esophagitis (EoE) in Children: Symptoms, Food Stuck Emergencies, Diagnosis, and Treatment"
+title: 'Eosinophilic Esophagitis (EoE) in Children: Symptoms, Food Stuck Emergencies,
+  Diagnosis, and Treatment'
 date: 2025-12-24
 draft: false
-description: "A parent-friendly, practical guide to pediatric EoE: how it presents across ages, when food-stuck symptoms are an emergency, how diagnosis is confirmed by endoscopy/biopsies, and modern treatment options."
-categories: ["Education"]
-tags: ["Eosinophilic Esophagitis", "EoE", "Dysphagia", "Food Bolus", "Food Stuck", "Allergy", "Emergency", "Pediatric Gastroenterology"]
-slug: "eosinophilic-esophagitis-in-children"
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+description: 'A parent-friendly, practical guide to pediatric EoE: how it presents
+  across ages, when food-stuck symptoms are an emergency, how diagnosis is confirmed
+  by endoscopy/biopsies, and modern treatment options.'
+categories:
+- Education
+tags:
+- Eosinophilic Esophagitis
+- EoE
+- Dysphagia
+- Food Bolus
+- Food Stuck
+- Allergy
+- Emergency
+- Pediatric Gastroenterology
+slug: eosinophilic-esophagitis-in-children
+systems:
+- Allergy/EGID
 ---
 # 🥪🚫 Eosinophilic Esophagitis (EoE) in Children
 *Symptoms by age, “food stuck” emergencies, diagnosis, and modern treatment options*

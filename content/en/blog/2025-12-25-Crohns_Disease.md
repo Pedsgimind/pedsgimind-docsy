@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Crohns Disease"
-slug: "crohns-disease"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Crohns Disease
+slug: crohns-disease
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🧒🔥 Crohn’s Disease in Children: A Parent-Friendly Guide
 

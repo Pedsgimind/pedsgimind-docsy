@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Allergies"
-slug: "allergies"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Allergies
+slug: allergies
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
+- Allergy/EGID
 ---
 # 🌼🥜 Allergies in Children: A Parent-Friendly Guide (Food, Environmental, and Medication)
 

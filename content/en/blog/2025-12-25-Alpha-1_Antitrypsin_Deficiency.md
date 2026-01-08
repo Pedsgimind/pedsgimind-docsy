@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Alpha1 Antitrypsin Deficiency"
-slug: "alpha1-antitrypsin-deficiency"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Alpha1 Antitrypsin Deficiency
+slug: alpha1-antitrypsin-deficiency
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🧬🫁🟡 Alpha-1 Antitrypsin Deficiency in Children: A Parent-Friendly Guide
 

@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Primary Sclerosing Cholangitis PSC"
-slug: "primary-sclerosing-cholangitis-psc"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
+title: Primary Sclerosing Cholangitis PSC
+slug: primary-sclerosing-cholangitis-psc
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🧒🟡🧬 Primary Sclerosing Cholangitis (PSC) in Children: A Parent-Friendly Guide
 

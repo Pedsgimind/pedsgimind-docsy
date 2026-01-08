@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Fundoplication"
-slug: "fundoplication"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Fundoplication
+slug: fundoplication
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒🟡 Fundoplication Surgery for Reflux in Children: A Parent-Friendly Guide
 

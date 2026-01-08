@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "pH Impedance Study"
-slug: "ph-impedance-study"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: pH Impedance Study
+slug: ph-impedance-study
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒📈 pH-Impedance Study in Children: A Parent-Friendly Guide
 

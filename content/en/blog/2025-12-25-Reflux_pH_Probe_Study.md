@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Reflux pH Probe Study"
-slug: "reflux-ph-probe-study"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Reflux pH Probe Study
+slug: reflux-ph-probe-study
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒📟 Reflux pH Probe Study in Children: A Parent-Friendly Guide
 

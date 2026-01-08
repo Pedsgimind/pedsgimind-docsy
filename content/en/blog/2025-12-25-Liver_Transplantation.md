@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Liver Transplantation"
-slug: "liver-transplantation"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Liver Transplantation
+slug: liver-transplantation
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🫶🟡 Liver Transplantation in Children: A Parent-Friendly Guide
 

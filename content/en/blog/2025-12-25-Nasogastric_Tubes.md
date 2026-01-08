@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Nasogastric Tubes"
-slug: "nasogastric-tubes"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Nasogastric Tubes
+slug: nasogastric-tubes
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Upper GI
+- Nutrition & Growth
 ---
 # 🧒🧪 Nasogastric (NG) Tubes in Children: A Parent-Friendly Guide
 

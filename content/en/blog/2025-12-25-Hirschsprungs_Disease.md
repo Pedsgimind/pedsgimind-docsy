@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Hirschsprungs Disease"
-slug: "hirschsprungs-disease"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Hirschsprungs Disease
+slug: hirschsprungs-disease
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🍼💩 Hirschsprung’s Disease in Children: A Parent-Friendly Guide
 

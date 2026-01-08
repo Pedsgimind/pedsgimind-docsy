@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Toddlers Diarrhea"
-slug: "toddlers-diarrhea"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+title: Toddlers Diarrhea
+slug: toddlers-diarrhea
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
 ---
 # 🚼💩 Toddler’s Diarrhea: When Loose Stools Are Normal (and When to Worry)
 

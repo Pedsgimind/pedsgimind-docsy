@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Irritable Bowel Syndrome IBS"
-slug: "irritable-bowel-syndrome-ibs"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Irritable Bowel Syndrome IBS
+slug: irritable-bowel-syndrome-ibs
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # 🌀💛 Irritable Bowel Syndrome (IBS) in Children: A Parent-Friendly Guide
 

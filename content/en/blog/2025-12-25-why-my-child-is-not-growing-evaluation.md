@@ -1,12 +1,21 @@
 ---
-title: "Why Is My Child Not Growing? A Practical Guide for Parents"
+title: Why Is My Child Not Growing? A Practical Guide for Parents
 date: 2025-12-25
 draft: false
-description: "How doctors think about poor growth: nutrition, chronic disease, hormones, genetics, red flags, and what tests are commonly used."
-categories: ["Education"]
-tags: ["Growth", "Poor Weight Gain", "Short Stature", "Nutrition", "Poor Growth", "Pediatric Gastroenterology"]
-slug: "why-my-child-is-not-growing-evaluation"
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+description: 'How doctors think about poor growth: nutrition, chronic disease, hormones,
+  genetics, red flags, and what tests are commonly used.'
+categories:
+- Education
+tags:
+- Growth
+- Poor Weight Gain
+- Short Stature
+- Nutrition
+- Poor Growth
+- Pediatric Gastroenterology
+slug: why-my-child-is-not-growing-evaluation
+systems:
+- Nutrition & Growth
 ---
 # 📏🌱 Why Is My Child Not Growing?
 *A practical, parent-friendly guide to poor growth (newborn → teen)*

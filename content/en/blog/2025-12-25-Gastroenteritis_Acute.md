@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Gastroenteritis Acute"
-slug: "gastroenteritis-acute"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Gastroenteritis Acute
+slug: gastroenteritis-acute
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🤮💧 Acute Gastroenteritis in Children (Stomach Bug): Home Care + Red Flags
 

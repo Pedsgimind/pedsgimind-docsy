@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Wilsons Disease"
-slug: "wilsons-disease"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Wilsons Disease
+slug: wilsons-disease
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🧒🟡🧬 Wilson’s Disease in Children: A Parent-Friendly Guide
 

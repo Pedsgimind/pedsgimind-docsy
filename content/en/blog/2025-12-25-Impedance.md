@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Impedance"
-slug: "impedance"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Impedance
+slug: impedance
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒📈 Esophageal Impedance Testing (Reflux “Backflow” Measurement) in Children: A Parent-Friendly Guide
 

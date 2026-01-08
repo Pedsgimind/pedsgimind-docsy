@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Clinical Hypnosis"
-slug: "clinical-hypnosis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Clinical Hypnosis
+slug: clinical-hypnosis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # 🌙🧠 Clinical Hypnosis (Gut-Directed Hypnotherapy) for Kids  
 *A parent-friendly guide for belly pain, nausea, and the gut–brain connection*

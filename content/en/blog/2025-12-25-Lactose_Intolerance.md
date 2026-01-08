@@ -1,10 +1,16 @@
 ---
 date: 2025-12-25
-title: "Lactose Intolerance"
-slug: "lactose-intolerance"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Lactose Intolerance
+slug: lactose-intolerance
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
+- Brain-Gut Axis Disorders
 ---
 # 🥛🌀 Lactose Intolerance in Children: Symptoms, Home Care, and When to Worry
 
