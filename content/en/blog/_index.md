@@ -5,7 +5,7 @@ linkTitle: "Blog Description"
 
 # Little Bellies, Big Answers
 
-This blog shares **clear, evidence-informed pediatric digestive health education** for parents and caregivers.  
+This blog shares **clear, evidence-informed pediatric digestive health education developed, reviewed and maintained by Dr. Mohammad Hussein** for parents and caregivers.  
 It is written to help families understand common symptoms, recognize red flags, and know what questions to ask.
 
 ---
@@ -30,10 +30,6 @@ If you want the newest posts, open the blog page and scroll.
 **3) Use Categories and Tags**  
 Many posts include Categories and Tags so you can explore related topics.
 
-<div style="margin: 1rem 0; display: flex; gap: 0.75rem; flex-wrap: wrap;">
-  <a class="btn btn-primary btn-lg" href="/posts-by-system/">Browse posts by system</a>
-  <a class="btn btn-outline-primary btn-lg" href="/blog/">Browse all posts</a>
-</div>
 
 ---
 
