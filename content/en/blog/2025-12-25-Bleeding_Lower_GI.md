@@ -9,6 +9,7 @@ tags:
 systems:
 - Liver & Biliary
 - Lower GI
+- GI Bleeding
 ---
 # 🧒🩸 Blood in the Stool (Lower GI Bleeding) in Children: What Parents Should Know
 
