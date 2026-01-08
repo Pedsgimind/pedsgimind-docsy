@@ -66,6 +66,8 @@ params:
     sidebar_menu_compact: true
     sidebar_search_disable: false
     showLightDarkModeMenu: true
+    sidebar_menu_truncate: 120
+
 
     feedback:
       enable: false
