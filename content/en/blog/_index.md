@@ -3,7 +3,7 @@ title: "Blog Description"
 linkTitle: "Blog Description"
 ---
 
-# Little Bellies, Big Answers
+# Healthy Gut Healthy Mind
 
 This blog shares **clear, evidence-informed pediatric digestive health education developed, reviewed and maintained by Dr. Mohammad Hussein** for parents and caregivers.  
 It is written to help families understand common symptoms, recognize red flags, and know what questions to ask.
