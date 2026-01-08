@@ -9,6 +9,7 @@ tags:
 systems:
 - Liver & Biliary
 - Upper GI
+- GI Bleeding
 ---
 # 🧒🩸 Vomiting Blood or Black Stools (Upper GI Bleeding) in Children: A Parent-Friendly Guide
 
