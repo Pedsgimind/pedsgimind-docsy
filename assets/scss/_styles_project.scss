@@ -161,14 +161,46 @@ blockquote {
 
 
 /* =========================================================
-   5) Logo sizing (Added by fix-logo.sh)
+   5) Navbar logo sizing (Docsy inline SVG)
+   - Docsy loads: resources.Get "icons/logo.svg" and inlines it
+   - So .site-logo DOES NOT affect navbar unless you also render <img class="site-logo">
+   - These rules safely target only the navbar logo SVG.
    ========================================================= */
 
+/* If you ever use <img class="site-logo"> anywhere, keep this */
 .site-logo {
   height: 48px;
   width: auto;
   margin-right: 10px;
   vertical-align: middle;
+}
+
+/* ✅ This is the key part: make the inline SVG bigger in the navbar */
+.td-navbar .navbar-brand__logo svg,
+.td-navbar .navbar-logo svg {
+  height: 56px !important; /* <- change to 60px/64px if you want bigger */
+  width: auto !important;
+  display: block;
+}
+
+/* Keep alignment nice and prevent weird baseline offsets */
+.td-navbar .navbar-brand__logo,
+.td-navbar .navbar-logo {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Optional: slightly tighten spacing between logo and title */
+.td-navbar .navbar-brand__logo {
+  margin-right: 10px;
+}
+
+/* On small phones, reduce height a bit so navbar doesn’t overflow */
+@media (max-width: 420px) {
+  .td-navbar .navbar-brand__logo svg,
+  .td-navbar .navbar-logo svg {
+    height: 44px !important;
+  }
 }
 
 
