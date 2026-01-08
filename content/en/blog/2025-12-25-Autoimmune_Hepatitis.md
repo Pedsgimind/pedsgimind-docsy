@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Autoimmune Hepatitis"
-slug: "autoimmune-hepatitis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Lower GI"]
+title: Autoimmune Hepatitis
+slug: autoimmune-hepatitis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🧠🟡 Autoimmune Hepatitis in Children: A Parent-Friendly Guide
 

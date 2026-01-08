@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Anorectal Manometry"
-slug: "anorectal-manometry"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Anorectal Manometry
+slug: anorectal-manometry
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🚽📊 Anorectal Manometry in Children: A Parent-Friendly Guide
 

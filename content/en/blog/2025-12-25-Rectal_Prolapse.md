@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Rectal Prolapse"
-slug: "rectal-prolapse"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Nutrition & Growth", "GI Bleeding"]
+title: Rectal Prolapse
+slug: rectal-prolapse
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- GI Bleeding
 ---
 # 🧒💩 Rectal Prolapse in Children: A Parent-Friendly Guide
 

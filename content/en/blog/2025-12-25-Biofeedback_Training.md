@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Biofeedback Training"
-slug: "biofeedback-training"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Biofeedback Training
+slug: biofeedback-training
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # 🧠📈 Biofeedback Training for Kids  
 *A parent-friendly guide to learning body control for pain, nausea, and stress tummy*

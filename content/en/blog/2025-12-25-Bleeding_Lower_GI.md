@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Bleeding Lower GI"
-slug: "bleeding-lower-gi"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Bleeding Lower GI
+slug: bleeding-lower-gi
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Lower GI
 ---
 # 🧒🩸 Blood in the Stool (Lower GI Bleeding) in Children: What Parents Should Know
 

@@ -1,12 +1,23 @@
 ---
-title: "Sudden Refusal to Eat After a Choking Episode: What to Do (Fear-Based Food Avoidance)"
+title: 'Sudden Refusal to Eat After a Choking Episode: What to Do (Fear-Based Food
+  Avoidance)'
 date: 2025-11-20
 draft: false
-description: "A practical guide for parents when a child suddenly refuses solids after choking: safety first, when to worry about a medical cause, and step-by-step return to eating."
-categories: ["Education"]
-tags: ["Feeding", "Choking", "Food Refusal", "Anxiety", "Dysphagia"]
-slug: "sudden-food-refusal-after-choking"
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+description: 'A practical guide for parents when a child suddenly refuses solids after
+  choking: safety first, when to worry about a medical cause, and step-by-step return
+  to eating.'
+categories:
+- Education
+tags:
+- Feeding
+- Choking
+- Food Refusal
+- Anxiety
+- Dysphagia
+slug: sudden-food-refusal-after-choking
+systems:
+- Upper GI
+- Brain-Gut Axis Disorders
 ---
 # 😰🍽️ Sudden Refusal to Eat After a Choking Episode  
 *What to do today, how to rebuild confidence safely, and when to worry about a medical cause*

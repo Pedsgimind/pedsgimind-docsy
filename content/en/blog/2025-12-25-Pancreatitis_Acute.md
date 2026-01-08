@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Pancreatitis Acute"
-slug: "pancreatitis-acute"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Pancreas", "Upper GI"]
+title: Pancreatitis Acute
+slug: pancreatitis-acute
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Pancreas
 ---
 # 🧒🔥 Acute Pancreatitis in Children: A Parent-Friendly Guide
 *(Sudden inflammation of the pancreas)*

@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Tube Feeding Enteral"
-slug: "tube-feeding-enteral"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Tube Feeding Enteral
+slug: tube-feeding-enteral
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒🧃 Enteral Tube Feeding in Children: A Parent-Friendly Guide
 *(Nutrition delivered through a feeding tube using the digestive system)*

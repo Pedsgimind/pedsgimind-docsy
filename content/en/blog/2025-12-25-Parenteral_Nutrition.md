@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Parenteral Nutrition"
-slug: "parenteral-nutrition"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
+title: Parenteral Nutrition
+slug: parenteral-nutrition
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Lower GI
+- Upper GI
 ---
 # 🧒💉 Parenteral Nutrition (TPN) in Children: The Complete Parent-Friendly Guide
 *(IV nutrition through a central line)*

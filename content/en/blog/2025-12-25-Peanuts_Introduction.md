@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Peanuts Introduction"
-slug: "peanuts-introduction"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Peanuts Introduction
+slug: peanuts-introduction
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
+- Allergy/EGID
 ---
 # 🥜👶 Introducing Peanut Safely to Babies: A Step-by-Step Parent Guide
 

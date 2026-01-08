@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Gastroschisis"
-slug: "gastroschisis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Gastroschisis
+slug: gastroschisis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🍼🧡 Gastroschisis in Babies: A Parent-Friendly Guide
 

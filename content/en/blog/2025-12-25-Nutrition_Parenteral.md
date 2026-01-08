@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Nutrition Parenteral"
-slug: "nutrition-parenteral"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
+title: Nutrition Parenteral
+slug: nutrition-parenteral
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Lower GI
+- Upper GI
 ---
 # 🧒💉 Parenteral Nutrition (PN) in Children: Nutrition Given Through the Vein (Parent-Friendly Guide)
 

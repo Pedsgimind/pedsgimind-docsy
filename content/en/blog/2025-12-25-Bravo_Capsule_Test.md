@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Bravo Capsule Test"
-slug: "bravo-capsule-test"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Bravo Capsule Test
+slug: bravo-capsule-test
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
 ---
 # 🧒📡 Bravo Capsule Test (Wireless pH Study) in Children: A Parent-Friendly Guide
 

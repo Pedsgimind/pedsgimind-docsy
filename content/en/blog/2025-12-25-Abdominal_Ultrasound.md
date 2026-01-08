@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Abdominal Ultrasound"
-slug: "abdominal-ultrasound"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Pancreas", "Upper GI"]
+title: Abdominal Ultrasound
+slug: abdominal-ultrasound
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Pancreas
+- Lower GI
 ---
 # 🧒🩻 Abdominal Ultrasound in Children: A Parent-Friendly Guide
 

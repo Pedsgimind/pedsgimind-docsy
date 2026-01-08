@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "functional abdominal pain in kids parent guide"
-slug: "functional-abdominal-pain-in-kids-parent-guide"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: functional abdominal pain in kids parent guide
+slug: functional-abdominal-pain-in-kids-parent-guide
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Upper GI
+- Brain-Gut Axis Disorders
 ---
 # 🫁 Abdominal (Diaphragmatic) Breathing for Kids  
 *A parent-friendly guide to calming the gut–brain connection*

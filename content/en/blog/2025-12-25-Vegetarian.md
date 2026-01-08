@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Vegetarian"
-slug: "vegetarian"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Vegetarian
+slug: vegetarian
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒🥦 Vegetarian Diets for Kids: Safe Growth, Key Nutrients, and Meal Ideas (Parent-Friendly Guide)
 

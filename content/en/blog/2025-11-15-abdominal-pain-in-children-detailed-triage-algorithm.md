@@ -1,12 +1,23 @@
 ---
-title: "Abdominal Pain in Children: A Detailed Guide (Triage, Constipation Plan, When to Test for Celiac/IBD)"
+title: 'Abdominal Pain in Children: A Detailed Guide (Triage, Constipation Plan, When
+  to Test for Celiac/IBD)'
 date: 2025-11-15
 draft: false
-description: "A detailed guide to abdominal pain in toddlers and older children: red flags, age-specific causes, constipation algorithm, and when to consider celiac disease or IBD testing."
-categories: ["Education"]
-tags: ["Abdominal Pain", "Constipation", "Celiac", "IBD", "Appendicitis"]
-slug: "abdominal-pain-in-children-detailed-triage-algorithm"
-systems: ["Liver & Biliary", "Pancreas", "Lower GI"]
+description: 'A detailed guide to abdominal pain in toddlers and older children: red
+  flags, age-specific causes, constipation algorithm, and when to consider celiac
+  disease or IBD testing.'
+categories:
+- Education
+tags:
+- Abdominal Pain
+- Constipation
+- Celiac
+- IBD
+- Appendicitis
+slug: abdominal-pain-in-children-detailed-triage-algorithm
+systems:
+- Upper GI
+- Brain-Gut Axis Disorders
 ---
 # 🤕🧒 Abdominal Pain in Children  
 *A detailed parent guide: what to do today, red flags, constipation plan, and when to test for celiac disease or inflammatory bowel disease*

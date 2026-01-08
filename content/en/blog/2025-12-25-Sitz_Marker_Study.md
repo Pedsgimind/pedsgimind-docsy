@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Sitz Marker Study"
-slug: "sitz-marker-study"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Sitz Marker Study
+slug: sitz-marker-study
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧲📆 Sitz Marker Study in Children: A Parent-Friendly Guide
 

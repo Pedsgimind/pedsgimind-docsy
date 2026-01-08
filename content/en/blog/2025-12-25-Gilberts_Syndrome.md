@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Gilberts Syndrome"
-slug: "gilberts-syndrome"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Gilberts Syndrome
+slug: gilberts-syndrome
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Nutrition & Growth
 ---
 # 🧒🟡 Gilbert’s Syndrome in Children: A Parent-Friendly Guide
 

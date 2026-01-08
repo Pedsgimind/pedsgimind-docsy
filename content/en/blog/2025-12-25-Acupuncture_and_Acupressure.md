@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Acupuncture and Acupressure"
-slug: "acupuncture-and-acupressure"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+title: Acupuncture and Acupressure
+slug: acupuncture-and-acupressure
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Brain-Gut Axis Disorders
 ---
 # Acupuncture and Acupressure for Kids  
 *A parent-friendly guide to pain and nausea support (with safety tips)*

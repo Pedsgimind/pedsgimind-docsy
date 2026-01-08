@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "HighCalorie Nutrition"
-slug: "highcalorie-nutrition"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+title: HighCalorie Nutrition
+slug: highcalorie-nutrition
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒⚡ High-Calorie Nutrition for Kids: Safe Weight Gain and Better Growth (Parent-Friendly Guide)
 

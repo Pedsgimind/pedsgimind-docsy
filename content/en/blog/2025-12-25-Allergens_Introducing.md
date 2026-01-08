@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Allergens Introducing"
-slug: "allergens-introducing"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Allergens Introducing
+slug: allergens-introducing
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
+- Allergy/EGID
 ---
 # 🥚🥜 Introducing Allergens to Babies: A Parent-Friendly, Step-by-Step Guide
 

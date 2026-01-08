@@ -1,10 +1,15 @@
 ---
 date: 2025-12-25
-title: "Ulcerative Colitis"
-slug: "ulcerative-colitis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Ulcerative Colitis
+slug: ulcerative-colitis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
+- Nutrition & Growth
 ---
 # 🔴🧒 Ulcerative Colitis in Children: A Parent-Friendly Guide
 

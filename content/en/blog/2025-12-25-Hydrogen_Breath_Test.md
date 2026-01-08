@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Hydrogen Breath Test"
-slug: "hydrogen-breath-test"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Hydrogen Breath Test
+slug: hydrogen-breath-test
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒💨 Hydrogen Breath Test in Children: A Parent-Friendly Guide
 

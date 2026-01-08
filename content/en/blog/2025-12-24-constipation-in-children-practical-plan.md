@@ -1,12 +1,20 @@
 ---
-title: "Constipation in Kids: Myths vs Evidence (and What Actually Works)"
+title: 'Constipation in Kids: Myths vs Evidence (and What Actually Works)'
 date: 2025-12-15
 draft: false
-description: "Constipation is the most common cause of abdominal pain in children. Learn myths vs evidence, red flags, and an effective plan that works."
-categories: ["Education"]
-tags: ["Constipation", "Encopresis", "Abdominal Pain", "Toilet Training"]
-slug: "constipation-in-children-practical-plan"
-systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
+description: Constipation is the most common cause of abdominal pain in children.
+  Learn myths vs evidence, red flags, and an effective plan that works.
+categories:
+- Education
+tags:
+- Constipation
+- Encopresis
+- Abdominal Pain
+- Toilet Training
+slug: constipation-in-children-practical-plan
+systems:
+- Lower GI
+- Upper GI
 ---
 # 💩🧻 Constipation in Kids  
 *Myths vs evidence (and what actually works)*

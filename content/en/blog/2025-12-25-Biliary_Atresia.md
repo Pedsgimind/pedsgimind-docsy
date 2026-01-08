@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Biliary Atresia"
-slug: "biliary-atresia"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Biliary Atresia
+slug: biliary-atresia
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
 ---
 # 🍼🟡 Biliary Atresia in Babies: A Parent-Friendly Guide
 

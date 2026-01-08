@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Colonoscopy"
-slug: "colonoscopy"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Colonoscopy
+slug: colonoscopy
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒🧪 Colonoscopy in Children: A Parent-Friendly Guide
 

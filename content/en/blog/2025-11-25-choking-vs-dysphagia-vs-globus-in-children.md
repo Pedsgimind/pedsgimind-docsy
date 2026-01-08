@@ -1,12 +1,21 @@
 ---
-title: "Choking vs Dysphagia vs Globus in Children: How Parents Can Tell the Difference"
+title: 'Choking vs Dysphagia vs Globus in Children: How Parents Can Tell the Difference'
 date: 2025-11-25
 draft: false
-description: "A parent-friendly guide to choking, food-stuck symptoms (dysphagia), and globus sensation. Includes red flags and what evaluation may be needed."
-categories: ["Education"]
-tags: ["Choking", "Dysphagia", "Food Stuck", "Globus", "EoE"]
-slug: "choking-vs-dysphagia-vs-globus-in-children"
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+description: A parent-friendly guide to choking, food-stuck symptoms (dysphagia),
+  and globus sensation. Includes red flags and what evaluation may be needed.
+categories:
+- Education
+tags:
+- Choking
+- Dysphagia
+- Food Stuck
+- Globus
+- EoE
+slug: choking-vs-dysphagia-vs-globus-in-children
+systems:
+- Allergy/EGID
+- Brain-Gut Axis Disorders
 ---
 # 😮‍💨🍽️ Choking vs Dysphagia vs Globus in Children  
 *How parents can tell the difference (and what to do today)*

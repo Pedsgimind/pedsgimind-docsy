@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Food Intolerance"
-slug: "food-intolerance"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+title: Food Intolerance
+slug: food-intolerance
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Allergy/EGID
 ---
 # 🍽️😣 Food Intolerance in Children: Symptoms, Triggers, and What to Do
 

@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Transnasal Endoscopy"
-slug: "transnasal-endoscopy"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Transnasal Endoscopy
+slug: transnasal-endoscopy
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧒👃📷 Transnasal Endoscopy in Children: A Parent-Friendly Guide
 

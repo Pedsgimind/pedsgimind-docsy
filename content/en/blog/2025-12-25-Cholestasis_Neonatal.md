@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Cholestasis Neonatal"
-slug: "cholestasis-neonatal"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Cholestasis Neonatal
+slug: cholestasis-neonatal
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Nutrition & Growth
 ---
 # 🍼🟡 Neonatal Cholestasis in Babies: A Parent-Friendly Guide
 

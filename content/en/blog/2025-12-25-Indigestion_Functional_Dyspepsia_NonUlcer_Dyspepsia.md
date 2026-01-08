@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Indigestion Functional Dyspepsia NonUlcer Dyspepsia"
-slug: "indigestion-functional-dyspepsia-nonulcer-dyspepsia"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Pancreas", "Lower GI", "Upper GI"]
+title: Indigestion Functional Dyspepsia NonUlcer Dyspepsia
+slug: indigestion-functional-dyspepsia-nonulcer-dyspepsia
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
+- Upper GI
 ---
 # 🍽️🔥 Indigestion in Children (Functional Dyspepsia / Non-Ulcer Dyspepsia): What It Means and What Helps
 

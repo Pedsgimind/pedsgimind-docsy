@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Liver Biopsy"
-slug: "liver-biopsy"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Liver Biopsy
+slug: liver-biopsy
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Imagings & Procedures
 ---
 # 🧪🩺 Liver Biopsy in Children: A Parent-Friendly Guide
 

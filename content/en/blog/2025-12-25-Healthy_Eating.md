@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Healthy Eating"
-slug: "healthy-eating"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Healthy Eating
+slug: healthy-eating
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒🥗 Healthy Eating for Children: A Parent-Friendly, Practical Guide
 

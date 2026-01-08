@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Necrotizing Enterocolitis"
-slug: "necrotizing-enterocolitis"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Necrotizing Enterocolitis
+slug: necrotizing-enterocolitis
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🍼⚠️ Necrotizing Enterocolitis (NEC) in Babies: A Parent-Friendly Guide
 

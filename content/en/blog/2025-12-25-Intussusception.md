@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Intussusception"
-slug: "intussusception"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+title: Intussusception
+slug: intussusception
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Lower GI
 ---
 # 🧒🚑 Intussusception in Children: A Parent-Friendly Guide
 

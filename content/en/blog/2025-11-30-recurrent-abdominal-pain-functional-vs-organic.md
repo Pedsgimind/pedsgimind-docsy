@@ -1,12 +1,23 @@
 ---
-title: "Recurrent Abdominal Pain in Children: Functional Pain vs Organic Disease"
+title: 'Recurrent Abdominal Pain in Children: Functional Pain vs Organic Disease'
 date: 2025-11-30
 draft: false
-description: "A practical guide for parents and clinicians to recurrent abdominal pain: red flags, common functional causes, and when to test for celiac disease, IBD, or other conditions."
-categories: ["Education"]
-tags: ["Abdominal Pain", "Functional Abdominal Pain", "IBS", "Celiac", "IBD"]
-slug: "recurrent-abdominal-pain-functional-vs-organic"
-systems: ["Liver & Biliary", "Pancreas", "Lower GI"]
+description: 'A practical guide for parents and clinicians to recurrent abdominal
+  pain: red flags, common functional causes, and when to test for celiac disease,
+  IBD, or other conditions.'
+categories:
+- Education
+tags:
+- Abdominal Pain
+- Functional Abdominal Pain
+- IBS
+- Celiac
+- IBD
+slug: recurrent-abdominal-pain-functional-vs-organic
+systems:
+- Upper GI
+- Lower GI
+- Brain-Gut Axis Disorders
 ---
 # 🤕🔁 Recurrent Abdominal Pain in Children  
 *Functional pain vs organic disease: red flags, constipation plan, and when testing makes sense*

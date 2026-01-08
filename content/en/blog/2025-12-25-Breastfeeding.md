@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Breastfeeding"
-slug: "breastfeeding"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Lower GI", "Upper GI"]
+title: Breastfeeding
+slug: breastfeeding
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒🍼 Breastfeeding: A Parent-Friendly Guide (Latch, Supply, Pain, and When to Get Help)
 

@@ -1,10 +1,14 @@
 ---
 date: 2025-12-25
-title: "Bleeding Upper GI"
-slug: "bleeding-upper-gi"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Liver & Biliary", "Upper GI", "Nutrition & Growth"]
+title: Bleeding Upper GI
+slug: bleeding-upper-gi
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Liver & Biliary
+- Upper GI
 ---
 # 🧒🩸 Vomiting Blood or Black Stools (Upper GI Bleeding) in Children: A Parent-Friendly Guide
 

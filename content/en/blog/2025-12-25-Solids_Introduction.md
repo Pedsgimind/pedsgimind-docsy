@@ -1,10 +1,13 @@
 ---
 date: 2025-12-25
-title: "Solids Introduction"
-slug: "solids-introduction"
-categories: ["Education"]
-tags: ["Pediatrics"]
-systems: ["Lower GI", "Upper GI", "Nutrition & Growth"]
+title: Solids Introduction
+slug: solids-introduction
+categories:
+- Education
+tags:
+- Pediatrics
+systems:
+- Nutrition & Growth
 ---
 # 🧒🍌 Starting Solid Foods (Solids Introduction): A Parent-Friendly Guide
 

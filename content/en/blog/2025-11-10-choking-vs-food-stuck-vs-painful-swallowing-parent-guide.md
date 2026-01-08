@@ -1,12 +1,20 @@
 ---
-title: "Choking vs Food Stuck vs Painful Swallowing: A Parent Guide"
+title: 'Choking vs Food Stuck vs Painful Swallowing: A Parent Guide'
 date: 2025-11-10
 draft: false
-description: "A clear guide to choking (airway), food stuck (esophagus), and painful swallowing. Includes what to do immediately and when to seek urgent care."
-categories: ["Education"]
-tags: ["Choking", "Dysphagia", "Odynophagia", "Emergency", "EoE"]
-slug: "choking-vs-food-stuck-vs-painful-swallowing-parent-guide"
-systems: ["Upper GI", "Nutrition & Growth", "Allergy/EGID"]
+description: A clear guide to choking (airway), food stuck (esophagus), and painful
+  swallowing. Includes what to do immediately and when to seek urgent care.
+categories:
+- Education
+tags:
+- Choking
+- Dysphagia
+- Odynophagia
+- Emergency
+- EoE
+slug: choking-vs-food-stuck-vs-painful-swallowing-parent-guide
+systems:
+- Allergy/EGID
 ---
 # 🥪😮‍💨 Choking vs Food Stuck vs Painful Swallowing  
 *A parent-friendly guide to what’s happening, what to do today, and when it’s an emergency*
