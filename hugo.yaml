@@ -39,10 +39,6 @@ outputs:
 # About → How to use → Posts by system → Blog → Home
 menu:
   main:
-    - name: Blog Description
-      url: /
-      weight: 10
-
     - name: About
       url: /about/
       weight: 20
