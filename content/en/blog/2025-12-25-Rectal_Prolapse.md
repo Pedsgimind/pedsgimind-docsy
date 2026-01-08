@@ -8,7 +8,6 @@ tags:
 - Pediatrics
 systems:
 - Lower GI
-- GI Bleeding
 ---
 # 🧒💩 Rectal Prolapse in Children: A Parent-Friendly Guide
 
