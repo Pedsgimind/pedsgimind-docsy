@@ -2,7 +2,7 @@
 <div class="td-content">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-
+{{ partial "subscribe.html" . }}
   {{ $tax := .Site.Taxonomies.systems }}
   {{ if not $tax }}
     <p><strong>No systems found.</strong> Add <code>systems:</code> in your post front matter and ensure the taxonomy is defined in your config.</p>
