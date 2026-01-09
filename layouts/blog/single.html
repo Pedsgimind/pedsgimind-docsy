@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
-
+{{ partial "subscribe.html" . }}
   {{/* Show MailerLite form only on posts tagged Constipation */}}
   {{ with .Params.tags }}
     {{ if in . "Constipation" }}
