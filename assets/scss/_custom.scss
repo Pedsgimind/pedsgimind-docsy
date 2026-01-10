@@ -10,3 +10,11 @@
   h1, h2, h3 { page-break-after: avoid; }
   .printable input[type=checkbox] { transform: scale(1.2); }
 }
+/* Lenovo tablet: prevent the sticky/fixed blue navbar from covering the first line */
+@media (min-width: 600px) and (max-width: 1024px) {
+  main.td-main,
+  .td-main,
+  .td-content {
+    padding-top: 80px !important; /* adjust 70–110px if needed */
+  }
+}
