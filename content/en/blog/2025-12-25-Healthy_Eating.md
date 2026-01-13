@@ -336,18 +336,6 @@ Notes: _______________________
 > ⚠️ **Concern:** poor growth, choking with textures, severe restriction, low energy.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital nutrition education pages  
-- Pediatric nutrition society guidance  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Guidance may vary by age and individual needs.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

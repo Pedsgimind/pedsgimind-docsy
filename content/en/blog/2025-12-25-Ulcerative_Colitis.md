@@ -350,19 +350,6 @@ Date: ______
 - Contact parent if blood, severe pain, fever, or vomiting occurs
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric gastroenterology society UC guidelines  
-- Children’s hospital ulcerative colitis education pages  
-- National IBD organizations (pediatric sections)
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

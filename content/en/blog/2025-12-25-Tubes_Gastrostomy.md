@@ -354,18 +354,6 @@ Flush routinely, give meds properly, and avoid thick mixtures unless approved.
 - Call clinic if worsening redness or pain
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital gastrostomy care education pages  
-- Pediatric enteral feeding resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Tube care varies by tube type and center—follow your clinic’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

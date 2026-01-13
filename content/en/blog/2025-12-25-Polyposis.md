@@ -317,18 +317,6 @@ Relative | Polyps/Cancer | Age at diagnosis
 > ⚠️ ER if: heavy bleeding, fainting, severe pain, or child looks very unwell.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital polyposis and hereditary GI cancer programs  
-- Pediatric gastroenterology and genetics society resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Surveillance varies by syndrome—follow your specialist’s plan.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

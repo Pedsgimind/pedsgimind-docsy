@@ -486,18 +486,6 @@ Date: _______
 - If severe belly pain, vomiting, fever, or child looks unwell: contact parent for medical assessment
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition resources on constipation and encopresis  
-- Children’s hospital constipation action plans and toileting posture guidance  
-- American Academy of Pediatrics (HealthyChildren.org): constipation education for families
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

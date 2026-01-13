@@ -470,18 +470,6 @@ Date: _______
 - Encourage inclusion without singling the child out
 
 ---
-
-## 📚 Credible sources + last updated date
-
-- Children’s hospital celiac disease programs (patient/diet education)
-- National pediatric gastroenterology society resources (celiac diagnosis and care)
-- Celiac Disease Foundation (label-reading and cross-contamination education)
-
-**Last reviewed/updated on:** 2025-12-27  
-Local guidance may differ based on your region and your child’s health history.
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -377,17 +377,6 @@ Notes (pain, latch, spit-up): ______________________
 > ✅ Keep milk moving (feed/pump) and seek same-day medical advice.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital newborn feeding resources  
-- National breastfeeding support organizations and pediatric society guidance  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Local guidance may differ; follow your baby’s clinician and lactation team.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

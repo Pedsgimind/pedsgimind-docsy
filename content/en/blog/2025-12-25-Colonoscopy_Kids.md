@@ -340,18 +340,6 @@ Only after diagnosis is clear and symptoms are controlled—guided by your team.
 > ⚠️ **Urgent:** heavy bleeding, severe belly pain, dehydration, collapse.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital endoscopy education pages  
-- Pediatric gastroenterology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Prep instructions vary—follow your center’s exact plan.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

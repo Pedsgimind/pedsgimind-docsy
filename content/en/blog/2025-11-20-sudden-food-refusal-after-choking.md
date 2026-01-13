@@ -454,20 +454,6 @@ Date: _______  Time: _______
 - Notify parent if coughing/choking occurs with liquids or solids
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- American Academy of Pediatrics (HealthyChildren.org): feeding and choking safety guidance  
-- Children’s hospital education pages on dysphagia, choking prevention, and feeding aversion  
-- Pediatric speech-language pathology resources on swallowing safety and feeding therapy  
-- National pediatric gastroenterology society resources on dysphagia and eosinophilic esophagitis  
-- First aid organizations guidance on choking response
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

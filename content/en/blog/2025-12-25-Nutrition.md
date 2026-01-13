@@ -318,18 +318,6 @@ Day 3: ____________________
 > ⚠️ **Concern:** poor growth, chronic GI symptoms, severe restriction.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital nutrition education pages  
-- Pediatric nutrition society guidance  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Individual needs vary—follow your clinician’s advice.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Seek care for growth concerns, chronic GI symptoms, or signs of deficiency.

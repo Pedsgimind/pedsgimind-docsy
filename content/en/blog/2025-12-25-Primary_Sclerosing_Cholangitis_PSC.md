@@ -389,19 +389,6 @@ Follow-up is long-term. Treatments may change over time; never stop medications 
 > ⚠️ **Urgent:** fever + chills + belly pain, rapidly worsening jaundice, vomiting blood, black stools, confusion.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric hepatology society educational resources  
-- Children’s hospital PSC family guides  
-- IBD and liver disease resources from major pediatric centers  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on MRCP findings and IBD status.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

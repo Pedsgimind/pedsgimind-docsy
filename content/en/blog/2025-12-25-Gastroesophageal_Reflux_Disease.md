@@ -410,18 +410,6 @@ Date: ______
 > ⚠️ **Urgent:** green vomit, blood in vomit, black stools, dehydration, breathing trouble.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital GERD family education pages  
-- Pediatric GI society patient education resources  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on age, symptoms, and risk factors.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

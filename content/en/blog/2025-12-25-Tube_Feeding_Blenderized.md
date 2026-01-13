@@ -334,18 +334,6 @@ Day 3–4: 2 BTF feeds/day (if tolerated)
 Day 5–7: increase as advised + monitor stool/vomiting/weight
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital enteral nutrition and tube feeding education pages  
-- Pediatric nutrition support resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Food safety and tube protocols differ—follow your clinic’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

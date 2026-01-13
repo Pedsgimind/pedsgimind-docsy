@@ -281,18 +281,6 @@ No—this checks **movement through the colon**, not muscle coordination.
 > ⚠️ **Urgent:** severe abdominal pain, vomiting, distension, fever with constipation.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric gastroenterology society motility testing resources  
-- Children’s hospital constipation and transit study pages  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local practices may vary.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Seek urgent care for severe pain, vomiting, or abdominal distension.

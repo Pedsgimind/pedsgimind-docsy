@@ -247,16 +247,6 @@ Result after 10–20 min: better / same / worse
 Allow brief skill break + water + bathroom access; encourage return to class after symptoms settle.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-- Children’s hospital education pages on functional abdominal pain and behavioral therapies  
-- Pediatric pain/psychology program resources on biofeedback and HRV training  
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

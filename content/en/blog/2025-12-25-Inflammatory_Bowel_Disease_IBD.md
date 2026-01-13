@@ -350,19 +350,6 @@ Date: ______
 - Contact parent if concerns arise
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric gastroenterology society guidelines  
-- Children’s hospital IBD education pages  
-- National pediatric and GI organizations  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

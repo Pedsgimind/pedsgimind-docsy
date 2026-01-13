@@ -368,19 +368,6 @@ Exposure ladder step this week: look / smell / touch / lick / bite
 - Weight/growth check date: ____
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital feeding disorder/ARFID resources  
-- Pediatric nutrition and adolescent medicine resources  
-- Pediatric gastroenterology feeding and constipation guidance  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Assessment and therapy plans vary—follow your care team’s advice.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

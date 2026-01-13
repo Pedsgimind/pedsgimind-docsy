@@ -306,18 +306,6 @@ Date: ______
 > ⚠️ **Urgent:** heavy bleeding, severe pain, collapse, dehydration.
 
 ---
-
-## 17) 📚 Credible sources + last updated
-
-**Trusted references:**
-- Children’s hospital endoscopy education pages  
-- Pediatric gastroenterology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Preparation and sedation practices vary by center.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

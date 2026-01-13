@@ -441,18 +441,6 @@ Date: ______
 - Hand hygiene after toileting
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital guidance on vomiting/diarrhea and dehydration  
-- National pediatric society parent resources on gastroenteritis and ORS  
-- Public health resources on infection prevention and hand hygiene
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

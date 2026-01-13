@@ -473,18 +473,6 @@ Date: _______
 - If child becomes pale, dizzy, very sleepy, or has severe pain: urgent medical assessment
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition (education on constipation, GI bleeding, IBD warning signs)  
-- Children’s hospital resources on rectal bleeding, fissures, polyps, and IBD red flags  
-- American Academy of Pediatrics family education pages on constipation and diarrhea
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -323,18 +323,6 @@ Date | Specialty | Key outcomes
 --------------------------------
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital metabolic and genetics programs  
-- Rare disease and pediatric neurology society resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Care plans are individualized—follow your specialist team’s guidance.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -291,18 +291,6 @@ Yes, it is considered very safe.
 > ⚠️ **Urgent:** severe abdominal pain, vomiting, distension, fever with constipation.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric gastroenterology society resources  
-- Children’s hospital constipation and motility testing pages  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local practices may vary.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

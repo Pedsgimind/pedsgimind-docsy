@@ -528,19 +528,6 @@ Day 1 / Day 2 / Day 3
 - Notify parents if lunch is consistently untouched or if child appears fatigued/unwell
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital growth and nutrition resources  
-- American Academy of Pediatrics family education pages on growth and nutrition  
-- Pediatric gastroenterology society resources on celiac disease and IBD warning signs  
-- Pediatric endocrinology resources on growth patterns and puberty timing
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

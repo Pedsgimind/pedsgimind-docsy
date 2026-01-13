@@ -353,18 +353,6 @@ Severity (0–10): ______
 > ⚠️ **Urgent:** dehydration, persistent vomiting, severe pain with fever, blood in stool.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital breath testing education pages  
-- Pediatric gastroenterology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Preparation diet and medication rules vary by center—follow your site’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

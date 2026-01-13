@@ -325,18 +325,6 @@ Date | Key labs | Notes
 ____ | ________ | ______
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric intestinal failure programs  
-- Children’s hospital PN education pages  
-
-**Last reviewed/updated on:** 2025-12-31  
-*PN protocols vary—always follow your care team’s plan.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Seek urgent care for fever, line problems, or sudden illness.

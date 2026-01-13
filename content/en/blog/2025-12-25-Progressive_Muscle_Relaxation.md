@@ -156,14 +156,6 @@ Reassess after 4–8 weeks if ongoing symptoms; bring diary.
 Include action plan, schedule box, diary, red flags sheet, school instructions.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-Children’s hospital relaxation skills resources; pediatric pain program pages.
-
-**Last reviewed/updated on:** 2025-12-27
-
----
-
 ## 18) 🧡 Safety disclaimer
 Supports—not replaces—medical care.
 

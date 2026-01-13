@@ -327,18 +327,6 @@ Time: ______
 > ⚠️ **Urgent:** breathing trouble, repeated vomiting with dehydration, severe chest pain.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital reflux testing education pages  
-- Pediatric GI society patient resources on reflux evaluation  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Local preparation instructions (stop vs continue medications) vary—follow your team’s plan.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

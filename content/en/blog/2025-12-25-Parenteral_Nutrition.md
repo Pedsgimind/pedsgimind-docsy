@@ -388,19 +388,6 @@ Key labs (as directed): __________________
 Notes: ________________________________
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric intestinal rehabilitation programs  
-- Children’s hospital PN education pages  
-- Pediatric nutrition support resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Local protocols differ—follow your child’s PN team instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

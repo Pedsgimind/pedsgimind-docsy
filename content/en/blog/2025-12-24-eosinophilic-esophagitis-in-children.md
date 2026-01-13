@@ -455,18 +455,6 @@ Date: _______
 - **Emergency:** if drooling/can’t swallow saliva or breathing trouble → call parent and seek urgent care
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition (patient and clinician education on EoE)  
-- Children’s hospital EoE programs and endoscopy/biopsy explanations  
-- National allergy and asthma organizations (atopy background and overlap education)
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -470,20 +470,6 @@ Date: _______  Time: _______
 - Notify parent and document the episode and food involved
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- American Academy of Pediatrics (HealthyChildren.org): choking prevention guidance  
-- First aid organizations (Red Cross / St. John Ambulance): choking response  
-- Children’s hospital resources on dysphagia, food impaction, and globus sensation  
-- National pediatric gastroenterology society resources on eosinophilic esophagitis and dysphagia  
-- Poison control guidance for battery and magnet ingestion
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

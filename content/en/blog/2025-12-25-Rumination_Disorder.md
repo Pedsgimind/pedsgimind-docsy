@@ -354,18 +354,6 @@ Date: ______
 - Contact parent if weight loss or distress noted
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric gastroenterology society guidance on rumination disorder  
-- Children’s hospital behavioral GI program resources  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Seek urgent care for red-flag symptoms or concerns about growth and hydration.

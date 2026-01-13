@@ -326,18 +326,6 @@ Alertness between episodes: normal / sleepy / very sleepy
 > ⚠️ **Urgent:** episodic severe pain, green vomiting, blood in stool, extreme lethargy.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital emergency and surgical education pages on intussusception  
-- Pediatric radiology resources for ultrasound diagnosis  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local protocols may differ for observation time and recurrence management.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Intussusception can be urgent—seek emergency care for repeated severe abdominal pain, green vomiting, or lethargy.

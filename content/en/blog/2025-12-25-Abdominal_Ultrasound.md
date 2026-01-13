@@ -319,18 +319,6 @@ Date: ______
 > ⚠️ **Urgent:** severe belly pain, green/bloody vomiting, jaundice with illness, dehydration.
 
 ---
-
-## 17) 📚 Credible sources + last updated
-
-**Trusted references:**
-- Children’s hospital imaging education pages  
-- Pediatric radiology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Preparation instructions vary by center—always follow your clinic’s guidance.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

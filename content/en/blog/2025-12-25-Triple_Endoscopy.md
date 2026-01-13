@@ -374,18 +374,6 @@ Date: ______
 > ⚠️ **Urgent:** breathing distress, blue lips, repeated choking with poor recovery, high fever with breathing difficulty.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital feeding/aspiration education pages  
-- Pediatric ENT, pulmonary, and GI society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Exact triple-scope components and sampling vary by center.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

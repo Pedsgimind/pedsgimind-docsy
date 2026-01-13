@@ -509,20 +509,6 @@ Date: _______
 - Child should go home if unable to keep fluids down or appears dehydrated
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- American Academy of Pediatrics (HealthyChildren.org): vomiting, dehydration, and gastroenteritis guidance  
-- Children’s hospital resources on oral rehydration and dehydration warning signs  
-- Pediatric surgery/children’s hospital pages on appendicitis warning signs  
-- Pediatric migraine education resources (children’s hospitals)  
-- Poison control resources for ingestion emergencies
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.
