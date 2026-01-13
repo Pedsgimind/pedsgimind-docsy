@@ -380,19 +380,6 @@ Date: ______
 - Call parent if vomiting or severe diarrhea occurs
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on lactose intolerance and diarrhea  
-- National pediatric society guidance on hydration and nutrition  
-- Pediatric GI society resources on functional bowel symptoms
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s medical history.*
-
----
-
 ## 18) 🧡 Safety disclaimer (short, not scary)
 
 This guide supports—not replaces—medical advice. Seek care if symptoms include blood in stool, poor growth, nighttime diarrhea, severe pain, or dehydration.

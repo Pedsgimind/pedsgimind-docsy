@@ -369,19 +369,6 @@ Date: ______
 > ⚠️ **Urgent:** vomiting blood, black stools, severe confusion, rapid belly swelling.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric hepatology society resources  
-- Children’s hospital PFIC family guides  
-- Genetic liver disease foundations  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ by PFIC type and treatment availability.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

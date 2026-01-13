@@ -312,18 +312,6 @@ Date: ______
 > ⚠️ **Urgent:** severe pain, fainting, fever, bleeding, black stools.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric hepatology society guidance  
-- Children’s hospital liver biopsy education pages  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -450,19 +450,6 @@ Date: ______
 - Contact parent if severe pain, vomiting, or blood in stool
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on bloating, gas, constipation  
-- National pediatric society information on constipation and diet  
-- Pediatric GI society guidance on functional abdominal pain/IBS triggers
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

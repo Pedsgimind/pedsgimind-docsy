@@ -337,18 +337,6 @@ Notes: _________________________________
 > ⚠️ **Urgent:** breathing trouble, severe belly pain/swelling, dehydration, tube dislodgement you can’t manage.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital enteral feeding education pages  
-- Pediatric nutrition and gastroenterology society resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Protocols vary—follow your child’s care team instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

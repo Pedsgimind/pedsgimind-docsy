@@ -334,18 +334,6 @@ Stools: ______
 Notes: _______________________
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital NG tube feeding education pages  
-- Pediatric enteral nutrition resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Placement-check protocols vary by center—follow your clinic’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

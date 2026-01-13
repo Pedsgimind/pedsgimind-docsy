@@ -334,18 +334,6 @@ Date: ______
 > ⚠️ **Urgent:** green vomiting, severe belly pain/swelling, dehydration, blood in vomit.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital radiology education pages  
-- Pediatric surgery and GI patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Contrast type and fasting rules vary by center—follow your site’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

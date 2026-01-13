@@ -345,18 +345,6 @@ Day: ______
 > ⚠️ **Urgent:** severe belly swelling + retching, breathing trouble, vomiting blood, black stools.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital anti-reflux surgery family guides  
-- Pediatric GI and pediatric surgery patient education resources  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local surgical approaches and feeding protocols may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

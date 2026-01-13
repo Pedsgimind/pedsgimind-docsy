@@ -348,18 +348,6 @@ Notes: __________________________
 - follow up if repeat bleeding
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pages on blood in stool, constipation, and GI bleeding  
-- Pediatric gastroenterology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Local evaluation pathways vary—follow your clinician’s advice.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

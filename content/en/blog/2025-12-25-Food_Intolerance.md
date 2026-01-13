@@ -420,19 +420,6 @@ Date: ______
 - Notify parent if vomiting/diarrhea begins or child cannot participate
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on diarrhea, abdominal pain, lactose/fructose intolerance  
-- National pediatric society advice on hydration and stool patterns  
-- Pediatric GI society resources on functional bowel disorders
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

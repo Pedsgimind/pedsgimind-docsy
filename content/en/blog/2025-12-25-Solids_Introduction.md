@@ -332,18 +332,6 @@ Notes: _______________________
 > ⚠️ **Choking:** silent, cannot breathe/cough/cry → emergency
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital infant feeding resources  
-- National pediatric society guidance on complementary feeding and choking prevention  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Readiness and allergen plans may vary—follow your clinician’s advice.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

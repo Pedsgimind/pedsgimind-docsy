@@ -376,18 +376,6 @@ Flush before: ____ mL   Flush after: ____ mL
 > ⚠️ **Urgent:** tube out and can’t replace, severe belly pain/swelling, heavy bleeding, severe infection signs.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital G-tube care education pages  
-- Pediatric nutrition and GI patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Tube care details vary by tube type and center—follow your clinic’s plan.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

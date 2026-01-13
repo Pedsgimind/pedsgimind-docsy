@@ -346,19 +346,6 @@ Date: ______
 - Contact parent if diarrhea worsens or blood appears
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric infectious disease and GI society resources  
-- Children’s hospital C. diff education pages  
-- Public health infection control guidance  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

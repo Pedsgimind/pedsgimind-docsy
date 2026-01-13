@@ -367,18 +367,6 @@ Weight: ______
 Notes: appetite / stool / illness: _______________________
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric nutrition pages  
-- Pediatric gastroenterology and nutrition society resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Individual calorie needs vary—follow your clinician/dietitian plan.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

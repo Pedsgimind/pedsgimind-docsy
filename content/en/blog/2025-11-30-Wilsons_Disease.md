@@ -360,19 +360,6 @@ Date: ______
 > ⚠️ **Urgent:** bleeding (vomit blood/black stools), confusion, severe weakness, sudden neurologic symptoms.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric hepatology society education materials  
-- Children’s hospital Wilson’s disease family guides  
-- Genetic/metabolic liver disease foundations  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on disease severity and medication protocols.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

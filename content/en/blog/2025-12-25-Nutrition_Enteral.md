@@ -351,18 +351,6 @@ Notes: ________________________________
 > ⚠️ **Urgent:** breathing trouble during feeds, severe belly pain/distension, dehydration, tube dislodgement you can’t manage.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital enteral feeding education pages  
-- Pediatric nutrition and GI society resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Protocols differ by center—follow your clinic’s plan.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Seek urgent care for breathing difficulty during feeds, severe abdominal symptoms, or dehydration.

@@ -353,18 +353,6 @@ Meds/trauma/illness: ______
 - [ ] Follow-up booked  
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital resources on pediatric pancreatitis  
-- Pediatric gastroenterology society patient education materials  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Workup and feeding plans vary—follow your care team’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

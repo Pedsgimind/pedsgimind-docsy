@@ -453,19 +453,6 @@ Date: ______
 - Call emergency services for anaphylaxis signs
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital pages on food allergy and anaphylaxis  
-- National pediatric society resources on allergy and asthma  
-- Allergy society guidance on epinephrine use and action plans
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s medical history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

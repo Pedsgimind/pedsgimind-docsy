@@ -462,19 +462,6 @@ Date: ______
 - Notify parent if severe pain, repeated vomiting, or child appears very unwell
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on functional abdominal pain and dyspepsia  
-- National pediatric society resources on recurrent abdominal pain and red flags  
-- Pediatric GI society information on functional GI disorders
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s medical history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -299,19 +299,6 @@ Date: ______
 - Jaundice noted? yes/no
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital benign jaundice resources  
-- Pediatric hepatology education materials  
-- National liver foundation patient pages  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

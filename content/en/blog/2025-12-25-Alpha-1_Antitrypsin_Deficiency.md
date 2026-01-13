@@ -385,19 +385,6 @@ Date: ______
 - Support sleep/itch management if needed
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric liver disease resources  
-- Pediatric hepatology society educational materials  
-- National liver foundation patient information
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your child’s genotype and liver status.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

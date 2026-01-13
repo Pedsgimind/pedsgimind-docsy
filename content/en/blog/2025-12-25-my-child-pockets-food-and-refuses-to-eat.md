@@ -477,19 +477,6 @@ Date: _______
 - If drooling/can’t swallow saliva or breathing trouble: urgent medical assessment
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital feeding and swallowing resources (speech-language pathology programs)  
-- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition resources on feeding difficulties, reflux, and EoE  
-- Pediatric nutrition resources for selective eating support
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. If you are worried about your child, trust your instincts and seek urgent medical assessment.

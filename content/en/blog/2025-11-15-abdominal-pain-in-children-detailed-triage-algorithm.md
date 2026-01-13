@@ -550,21 +550,6 @@ Date: _______  Time: _______
 - Contact parent if severe pain, vomiting, fever, blood in stool, or concerning change
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- American Academy of Pediatrics (HealthyChildren.org): abdominal pain and constipation guidance  
-- Children’s hospital education pages on constipation and functional abdominal pain  
-- North American Society for Pediatric Gastroenterology, Hepatology and Nutrition resources on constipation and abdominal pain  
-- Celiac disease foundations / children’s hospital celiac pages for screening guidance  
-- Pediatric inflammatory bowel disease education pages (children’s hospitals and national pediatric GI societies)
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -223,16 +223,6 @@ Stool/hydration notes: ________________
 Allow 2–5 minute calm break; water/bathroom access; encourage return after symptoms settle.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-- Children’s hospital education pages on functional abdominal pain and relaxation skills  
-- Pediatric pain program resources on guided imagery and coping skills  
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

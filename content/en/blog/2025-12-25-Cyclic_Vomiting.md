@@ -494,19 +494,6 @@ Episode # ____
 - Call emergency services if breathing trouble, severe lethargy, or red flags
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on cyclic vomiting syndrome  
-- Pediatric GI society information on CVS and functional vomiting disorders  
-- Migraine education resources for children and teens
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

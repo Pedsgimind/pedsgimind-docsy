@@ -326,18 +326,6 @@ Iron foods: lentils, beans, spinach, fortified cereal
 Vitamin C: strawberries, citrus, peppers, tomatoes
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric nutrition resources  
-- Pediatric society and dietitian guidance on vegetarian/vegan diets in children  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Supplement needs vary—follow your clinician/dietitian advice.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

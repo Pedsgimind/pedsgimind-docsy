@@ -355,15 +355,3 @@ Date: ______
 > ⚠️ **Urgent:** prolapse stuck out, dark/purple tissue, heavy bleeding, very unwell child.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital constipation and rectal prolapse education pages  
-- Pediatric GI patient education resources  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local evaluation steps vary based on recurrence and associated symptoms.*
-
----
-

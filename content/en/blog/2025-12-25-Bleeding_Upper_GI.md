@@ -337,18 +337,6 @@ Notes: ______________________
 > ⛔ Avoid ibuprofen/naproxen until clinician clears it after a bleed.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital GI bleeding education pages  
-- Pediatric gastroenterology society patient resources  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Local evaluation pathways differ—follow your clinician’s advice.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

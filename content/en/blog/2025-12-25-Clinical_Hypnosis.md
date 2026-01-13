@@ -321,17 +321,6 @@ Result after 20 min: better / same / worse
 Allow brief audio/breathing break, water, bathroom access; encourage return after symptoms settle.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-- Children’s hospital resources on functional abdominal pain and gut–brain therapies  
-- Pediatric GI society education pages on disorders of gut–brain interaction  
-- Pediatric pain/psychology program pages on hypnosis for pain
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

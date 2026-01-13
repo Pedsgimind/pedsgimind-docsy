@@ -320,18 +320,6 @@ Date: ______
 - Notes: _______________________
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric GI and surgery patient education materials  
-- Children’s hospital reflux surgery follow-up guides  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Management varies based on child’s condition and surgical history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -419,19 +419,6 @@ Date: ______
 - Encourage participation when safe
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital IBS and functional abdominal pain pages  
-- Pediatric GI society resources on functional GI disorders  
-- National pediatric society guidance on constipation and stooling routines  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 18) 🧡 Safety disclaimer (short, not scary)
 
 This guide supports—not replaces—medical advice. Seek care for red flags like blood in stool, poor growth, nighttime diarrhea, or persistent vomiting.

@@ -347,18 +347,6 @@ Date: ______
 > ⚠️ **Urgent:** green vomiting, swollen belly, blood in stool, fever, very sleepy baby.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric surgery gastroschisis guides  
-- Neonatal surgical care resources from pediatric centers  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local surgical approaches and feeding timelines may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

@@ -422,19 +422,6 @@ Date: ______
 - Call parent early for any suspected exposure
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital resources on introducing peanut/egg and allergy prevention  
-- National pediatric society guidance on starting solids and allergen introduction  
-- Allergy society guidance on anaphylaxis recognition and treatment
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

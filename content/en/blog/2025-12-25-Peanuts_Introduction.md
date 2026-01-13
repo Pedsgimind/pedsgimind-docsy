@@ -360,19 +360,6 @@ Date: ______
 - If peanut allergy diagnosed: written action plan + medication access + staff training
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- Children’s hospital guidance on early peanut introduction  
-- National pediatric society recommendations for allergen introduction  
-- Allergy society guidance on anaphylaxis recognition and epinephrine use
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 18) 🧡 Safety disclaimer (short, not scary)
 
 This guide supports—not replaces—medical advice. If your baby has severe eczema or a prior reaction, talk to your clinician before first peanut. Seek emergency care for breathing symptoms or severe reactions.

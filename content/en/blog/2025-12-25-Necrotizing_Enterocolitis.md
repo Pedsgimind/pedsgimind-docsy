@@ -349,19 +349,6 @@ Date: ______
 > ⚠️ **Urgent:** swollen hard belly, green vomit, blood in stool, very sleepy or not feeding well.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Neonatal and pediatric society educational resources  
-- Children’s hospital NICU NEC education pages  
-- Evidence-based NICU feeding and NEC prevention resources
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ based on NICU protocols and your baby’s medical history.*
-
----
-
 ## 18) 🧡 Safety disclaimer (short, not scary)
 
 This guide supports—not replaces—medical advice. If your baby is premature and has belly swelling, green vomiting, blood in stool, or looks unwell, seek urgent medical care.

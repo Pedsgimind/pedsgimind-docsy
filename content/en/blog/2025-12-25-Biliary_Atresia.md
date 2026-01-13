@@ -337,19 +337,6 @@ Date: ______
 > ⚠️ **Urgent:** pale stools, worsening jaundice, bleeding, swollen belly.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Pediatric hepatology society resources  
-- Children’s hospital biliary atresia programs  
-- National liver disease foundations  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local guidance may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

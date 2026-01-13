@@ -352,18 +352,6 @@ Date: ______
 > ⚠️ **Urgent:** green vomiting, fever + diarrhea + bloating, severe lethargy, dehydration.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric surgery Hirschsprung’s family guides  
-- Pediatric GI bowel management resources from major centers  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local surgical approaches and bowel management plans may differ.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

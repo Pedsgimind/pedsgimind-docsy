@@ -350,18 +350,6 @@ Date: ______
 > ⚠️ **Urgent:** green vomiting, belly swelling, fever, breathing difficulty, wound separation.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital pediatric surgery omphalocele guides  
-- Neonatal surgical care resources from pediatric centers  
-
-**Last reviewed/updated on:** 2025-12-30  
-*Local surgical approaches and timelines may differ.*
-
----
-
 ## 18) 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical advice. Green vomiting or breathing trouble after omphalocele repair needs urgent evaluation.

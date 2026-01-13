@@ -401,20 +401,6 @@ Date: _______  Time: _______
 - Contact parent if severe pain, vomiting, or concerning symptoms
 
 ---
-
-## 📚 Credible sources + last updated date
-
-**Trusted references (examples):**
-- American Academy of Pediatrics (HealthyChildren.org) coping skills resources for stress and anxiety  
-- Children’s hospital education pages on functional abdominal pain and relaxation skills  
-- Rome Foundation: disorders of gut–brain interaction (parent-friendly summaries where available)  
-- National pediatric gastroenterology society education pages on functional abdominal pain/irritable bowel syndrome coping strategies  
-
-**Last reviewed/updated on:** 2025-12-27  
-*Local guidance may differ based on your region and your child’s health history.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

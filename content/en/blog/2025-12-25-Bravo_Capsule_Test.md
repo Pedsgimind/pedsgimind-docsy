@@ -337,18 +337,6 @@ Sleep: ______ to ______
 > ⚠️ **Urgent:** severe chest pain, can’t swallow liquids, vomiting blood, black stools, breathing trouble.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital reflux testing education pages  
-- Pediatric GI society patient resources on reflux evaluation  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Medication stop times and monitoring duration vary by center—follow your team’s instructions.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.

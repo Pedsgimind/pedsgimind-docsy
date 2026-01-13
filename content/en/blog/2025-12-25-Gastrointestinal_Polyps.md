@@ -312,18 +312,6 @@ Bring:
 > ⚠️ ER if: heavy bleeding, dizziness/fainting, severe pain, child looks very pale or unwell.
 
 ---
-
-## 17) 📚 Credible sources + last updated date
-
-**Trusted references:**
-- Children’s hospital resources on juvenile polyps and colonoscopy  
-- Pediatric gastroenterology society patient information  
-
-**Last reviewed/updated on:** 2025-12-31  
-*Evaluation and surveillance vary—follow your GI team’s guidance.*
-
----
-
 ## 🧡 Safety disclaimer
 
 This guide supports—not replaces—medical care. If you are worried about your child, trust your instincts and seek urgent medical assessment.
